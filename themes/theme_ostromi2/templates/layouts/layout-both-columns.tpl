@@ -51,7 +51,7 @@
 		<div class=" pos_bannerslide">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12 col-lg-9 col-md-12">
+					<div class="col-xs-12 col-md-12">
 						{hook h='displayTopColumn'}
 					</div>
 					<div class="col-xs-12 col-lg-3 col-md-12">
