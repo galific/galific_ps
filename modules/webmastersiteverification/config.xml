@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>webmastersiteverification</name>
+	<displayName><![CDATA[Webmaster Site Verification]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Verify your online store with Google, Bing, Alexa, Yandex, WOT, Norton Safeweb and More]]></description>
+	<author><![CDATA[bybe.net]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall>Doh! Are you absolutely sure that you wish to remove Webmaster Site Verification?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

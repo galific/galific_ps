@@ -1,0 +1,150 @@
+## 2019-02-12 01:48:35 ##
+stdClass Object
+(
+    [code] => 400
+    [message] => Validation Failed
+    [errors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [field] => currency
+                    [message] => This currency does not exist.
+                    [code] => 222
+                )
+
+            [1] => stdClass Object
+                (
+                    [field] => locale
+                    [message] => This value is not valid.
+                    [code] => 222
+                )
+
+        )
+
+)
+
+## 2019-02-12 01:49:00 ##
+stdClass Object
+(
+    [code] => 400
+    [message] => Validation Failed
+    [errors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [field] => currency
+                    [message] => This currency does not exist.
+                    [code] => 222
+                )
+
+            [1] => stdClass Object
+                (
+                    [field] => locale
+                    [message] => This value is not valid.
+                    [code] => 222
+                )
+
+        )
+
+)
+
+## 2019-02-12 01:50:07 ##
+stdClass Object
+(
+    [code] => 400
+    [message] => Validation Failed
+    [errors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [field] => currency
+                    [message] => This currency does not exist.
+                    [code] => 222
+                )
+
+            [1] => stdClass Object
+                (
+                    [field] => locale
+                    [message] => This value is not valid.
+                    [code] => 222
+                )
+
+        )
+
+)
+
+## 2019-02-12 01:50:24 ##
+stdClass Object
+(
+    [code] => 400
+    [message] => Validation Failed
+    [errors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [field] => currency
+                    [message] => This currency does not exist.
+                    [code] => 222
+                )
+
+            [1] => stdClass Object
+                (
+                    [field] => locale
+                    [message] => This value is not valid.
+                    [code] => 222
+                )
+
+        )
+
+)
+
+## 2019-02-12 01:50:46 ##
+stdClass Object
+(
+    [code] => 400
+    [message] => Validation Failed
+    [errors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [field] => currency
+                    [message] => This currency does not exist.
+                    [code] => 222
+                )
+
+            [1] => stdClass Object
+                (
+                    [field] => locale
+                    [message] => This value is not valid.
+                    [code] => 222
+                )
+
+        )
+
+)
+
+## 2019-02-12 01:51:15 ##
+stdClass Object
+(
+    [code] => 400
+    [message] => Validation Failed
+    [errors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [field] => currency
+                    [message] => This currency does not exist.
+                    [code] => 222
+                )
+
+            [1] => stdClass Object
+                (
+                    [field] => locale
+                    [message] => This value is not valid.
+                    [code] => 222
+                )
+
+        )
+
+)
+

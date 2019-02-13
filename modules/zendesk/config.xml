@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>zendesk</name>
+    <displayName><![CDATA[Zendesk]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[Zendesk helps you deliver the best customer support to your customers.]]></description>
+    <author><![CDATA[202 ecommerce]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
