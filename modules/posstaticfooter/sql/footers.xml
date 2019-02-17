@@ -1,0 +1,125 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>about_us</identify>
+		<hook_position>displayFooter</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>footer_static</identify>
+		<hook_position>displayFooterBefore</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>4</id_posstaticblock>
+		<identify>copyright_block</identify>
+		<hook_position>displayFooterAfter</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+<!-- block language configuration -->	
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>About Us</title>
+		<description>
+			 <![CDATA[
+			<div class="links footer_block col-xs-12 col-md-12 col-lg-6">
+			<div class="logo"><img src="/posthemes/pos_ostromi/img/cms/logo_footer.png" alt="" class="img-responsive img1" /> <img src="/posthemes/pos_ostromi/img/cms/logo_footer2.png" alt="" class="img-responsive img2" /> <img src="/posthemes/pos_ostromi/img/cms/logo_footer3.png" alt="" class="img-responsive img3" /> <img src="/posthemes/pos_ostromi/img/cms/logo_footer4.png" alt="" class="img-responsive img4" /></div>
+			<div class="footer-aboutus">
+			<div class="call-phone">
+			<p class="phone add"><span class="tex">Call Us toll Free</span>(+123) 456 789 or (+123) 666 888</p>
+			</div>
+			<p class="address add"><span class="tex">Contact info:</span>169-C, Technohud, Dubai Silicon Oasis, New Yorks City, USA</p>
+			<p class="email add"><span class="tex">Email:</span><a href="mailto:demo@posthemes.com">demo@posthemes.com</a></p>
+			</div>
+			</div>
+			 ]]>
+		</description>
+	</block_language>
+	
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Payment Block</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-footer">
+				<div class="banner-warper">
+				<div class="icon icon1"><img src="/posthemes/pos_ostromi/img/cms/f-icon1.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>Over 500,000 products</h3>
+				</div>
+				</div>
+				<div class="banner-warper">
+				<div class="icon icon2"><img src="/posthemes/pos_ostromi/img/cms/f-icon2.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>Best bang for your buck</h3>
+				</div>
+				</div>
+				<div class="banner-warper">
+				<div class="icon icon3"><img src="/posthemes/pos_ostromi/img/cms/f-icon3.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>Professional customer service</h3>
+				</div>
+				</div>
+				<div class="banner-warper">
+				<div class="icon icon4"><img src="/posthemes/pos_ostromi/img/cms/f-icon4.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>Free or low cost shipping</h3>
+				</div>
+				</div>
+				</div>
+				<div class="dec-footer">
+				<p>We believe in providing not only hot gadgets and great gifts but also the best support and service. Weve been delivering best bang for your buck for over 10 years, every item we stock is carefully selected to ensure we offer you top quality at competitive prices.</p>
+				</div>
+				<div class="payment-block">
+				<div class="payment-img"><img src="/posthemes/pos_ostromi/img/cms/payment.png" alt="" class="img-responsive" /></div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Copyright Block</title>
+		<description>
+			 <![CDATA[
+				<div class="copyright">Copyright <i class="fa fa-copyright"></i> <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</div>
+			 ]]>
+		</description>
+	</block_language>
+
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

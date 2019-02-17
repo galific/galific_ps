@@ -1,0 +1,209 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>static_nav</identify>
+		<hook_position>displayNav</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>7</id_posstaticblock>
+		<identify>banner_slide</identify>
+		<hook_position>displayTopColumn</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>8</id_posstaticblock>
+		<identify>banner_right</identify>
+		<hook_position>displayBlockPosition5</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>9</id_posstaticblock>
+		<identify>banner_top</identify>
+		<hook_position>displayBlockPosition1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>10</id_posstaticblock>
+		<identify>banner_center</identify>
+		<hook_position>displayBlockPosition2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>11</id_posstaticblock>
+		<identify>banner_bottom</identify>
+		<hook_position>displayBlockPosition3</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+<!-- block lang configuration -->
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Nav</title>
+		<description>
+			 <![CDATA[
+				<div class="welcome">Welcome to Ostromi Online Shopping Store !</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Slide</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-slide home-banner">
+				<div class="row">
+				<div class="col-xs-12 col-md-6 col">
+				<div class="banner-box"><a href="#"> <img src="/posthemes/pos_ostromi/img/cms/cms_2.1.jpg" alt="" class="img-responsive" /></a></div>
+				</div>
+				<div class="col-xs-12 col-md-6 col">
+				<div class="banner-box"><a href="#"> <img src="/posthemes/pos_ostromi/img/cms/cms_2.2.jpg" alt="" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Right</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-right home-banner">
+				<div class="banner-box"><a href="#"> <img src="/posthemes/pos_ostromi/img/cms/cms_2.3.jpg" alt="" class="img-responsive" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Top</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-top">
+				<div class="container">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col">
+				<div class="banner-warper">
+				<div class="icon icon1"><img src="/posthemes/pos_ostromi/img/cms/icon_2.1.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>Free Shipping</h3>
+				<p>Free shipping on all US order or order above $200</p>
+				</div>
+				</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col">
+				<div class="banner-warper">
+				<div class="icon icon2"><img src="/posthemes/pos_ostromi/img/cms/icon_2.2.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>Support 24/7</h3>
+				<p>Contact us 24 hours a day, 7 days a week</p>
+				</div>
+				</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col">
+				<div class="banner-warper">
+				<div class="icon icon3"><img src="/posthemes/pos_ostromi/img/cms/icon_2.3.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>60-Day Returns</h3>
+				<p>If you don’t love it, you have 60 days to return it.</p>
+				</div>
+				</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col">
+				<div class="banner-warper">
+				<div class="icon icon4"><img src="/posthemes/pos_ostromi/img/cms/icon_2.4.png" alt="" class="img-responsive" /></div>
+				<div class="text">
+				<h3>100% Payment Secure</h3>
+				<p>We ensure secure payment with PEV</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Center</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-center home-banner">
+				<div class="banner-box"><a href="#"> <img src="/posthemes/pos_ostromi/img/cms/cms_2.4.jpg" alt="" class="img-responsive" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>11</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Bottom</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-bottom home-banner">
+				<div class="banner-box"><a href="#"> <img src="/posthemes/pos_ostromi/img/cms/cms_2.5.jpg" alt="" class="img-responsive" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>11</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>
