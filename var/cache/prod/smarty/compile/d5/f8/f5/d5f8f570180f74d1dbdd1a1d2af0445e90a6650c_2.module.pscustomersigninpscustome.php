@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-17 14:26:25
+/* Smarty version 3.1.33, created on 2019-02-18 02:25:49
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c6921b9c99f63_36946074',
+  'unifunc' => 'content_5c69ca55599824_20269441',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c6921b9c99f63_36946074 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c69ca55599824_20269441 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="user-info-block dropdown js-dropdown">
 <span class="user-text current" data-toggle="dropdown"><i class="my-account-icon"></i><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'','d'=>'Shop.Theme.Customeraccount'),$_smarty_tpl ) );?>
