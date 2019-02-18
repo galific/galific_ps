@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-13 11:12:25
+/* Smarty version 3.1.33, created on 2019-02-18 06:33:45
   from '/var/www/html/modules/blockwishlist/blockwishlist-extra.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c63ae415da3d1_22761415',
+  'unifunc' => 'content_5c6a0471853306_86968779',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c63ae415da3d1_22761415 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c6a0471853306_86968779 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['wishlists']->value) && count($_smarty_tpl->tpl_vars['wishlists']->value) > 1) {?>
     <div class="buttons_bottom_block no-print panel-product-line panel-product-actions">
     	<div id="wishlist_button">

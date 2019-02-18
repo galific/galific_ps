@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc><![CDATA[https://galific.com/]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/page-not-found]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/best-sales]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/contact-us]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/brands]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/new-products]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/password-recovery]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/prices-drop]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/sitemap]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/supplier]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/address]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/addresses]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/login]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/cart]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/discount]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/order-history]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/identity]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/my-account]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/order-follow]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/credit-slip]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/order]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/search]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/stores]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/guest-tracking]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/order-confirmation]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_checkpayment-payment]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_checkpayment-validation]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_emailsubscription-verification]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_emailsubscription-subscription]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_shoppingcart-ajax]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_wirepayment-payment]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_wirepayment-validation]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-cronjobs-callback]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-blockwishlist-mywishlist]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-blockwishlist-view]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/index.php?controller=module-ps_cashondelivery-validation]]></loc>
+
+<changefreq>daily</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/22-yunteng-yt-228-tripod-for-smartphonemobile-phone.html]]></loc>
+<lastmod>2019-02-06T22:30:39+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/35-large_default/yunteng-yt-228-tripod-for-smartphonemobile-phone.jpg]]></image:loc>
+<image:caption><![CDATA[Mini Tripod is not only beneficial in capturing lovely moments by videography and photography but it is also helpful in holding the mobile and smartphone camera steady. It can be used at various places and is capable with any brand of camera or smartphone. Feature such as folding legs helps in taking HD videos from every angle.]]></image:caption>
+<image:title><![CDATA[YunTeng YT-228 Tripod for Smartphone/Mobile Phone]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/29-gorillapod-tripod-for-point-shoot-cameras.html]]></loc>
+<lastmod>2019-02-06T22:27:17+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/86-large_default/gorillapod-tripod-for-point-shoot-cameras.jpg]]></image:loc>
+<image:caption><![CDATA[Gorilla Tripod is one of the best product for recording videos and clicking photos. This features a stand which can be twisted in any direction with ease. Best for shooting at remote locations or tough terrains. You can attach your Digital Camera, DSLR, mobile and smartphone. Compatible for every size of smartphone. ]]></image:caption>
+<image:title><![CDATA[GorillaPod Tripod for Cameras/Mobile Phone]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/30-flexible-usb-led-light-for-mobile-phone-pc-usb-charger.html]]></loc>
+<lastmod>2019-02-06T22:27:46+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/70-large_default/flexible-usb-led-light-for-mobile-phone-pc-usb-charger.jpg]]></image:loc>
+<image:caption><![CDATA[Brilliant LED Flexible LightThis USB light will be helpful in academic and professional task. This USB light is encased in Bendable Soft Silicon Material with different amazing colors. It can be attached to any device which has USB port such as PC, Mobile Phones and USB Charger/Power banks. Moreover, due to bendable nature it can be bended according to your ease. It can also serve as a flash light for front camera. Galific brings you the best products of USB Flash Light.]]></image:caption>
+<image:title><![CDATA[Flexible USB LED Light for Mobile Phone, PC &amp;amp; USB Charger]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/32-ok-stand-for-mobile-tablet.html]]></loc>
+<lastmod>2019-02-06T22:28:36+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/77-large_default/ok-stand-for-mobile-tablet.jpg]]></image:loc>
+<image:caption><![CDATA[Unique and lovely designs for OK Stand allows to place mobile phones and tablet comfortably at any viewing angle. It helps in holding your device steady for watching movies and images. This is portable and light weight item made of strong plastic and EVA material.OK Stand comes in different color and design, it is compatible withiPhone5s/5c/5/4/4S/3G/3GS iPod seriesSamsung SmartphonesRedmi SmartphonesHTC Mobile Phones and various other brands.]]></image:caption>
+<image:title><![CDATA[OK Stand for Mobile &amp;amp; Tablet]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/33-7-color-changing-digital-alarm-clock.html]]></loc>
+<lastmod>2019-02-06T22:29:08+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/73-large_default/7-color-changing-digital-alarm-clock.jpg]]></image:loc>
+<image:caption><![CDATA[Buy 7 Color Changing Digital Alarm Clock by Moodicare Clock. This is an amazing product with different attractive lights and lovely sound while playing alarm. It helps in soothing and pressure relieving. A good quality digital alarm clock with white finish and color change facility on touch. Powered by AC adapter or triple A batteries. It displays time, date and alarm time.]]></image:caption>
+<image:title><![CDATA[7 Color Changing Digital Alarm Clock]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/34-cute-big-moustache-smiley-cushion-pillow.html]]></loc>
+<lastmod>2019-02-06T22:30:20+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/37-large_default/cute-big-moustache-smiley-cushion-pillow.jpg]]></image:loc>
+<image:caption><![CDATA[Buys best stuff yellow colored big smiley with Moustache over it. You can gift this big Moustache Smiley to you boyfriend, husband or any other loved ones.]]></image:caption>
+<image:title><![CDATA[Cute Big Moustache Smiley Cushion/Pillow]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/35-cute-big-heart-eye-smiley-yellow-cushion-pillow.html]]></loc>
+<lastmod>2019-02-06T22:30:26+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/45-large_default/cute-big-heart-eye-smiley-yellow-cushion-pillow.jpg]]></image:loc>
+<image:caption><![CDATA[Buys best stuff yellow colored big smiley with Heart Eye over it. You can gift this big Heart Eye Smiley to you girlfriend, boyfriend, husband or any other loved ones.]]></image:caption>
+<image:title><![CDATA[Cute Big Heart Eye Smiley Yellow Cushion/Pillow]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/36-cute-big-kiss-eye-smiley-yellow-cushion-pillow.html]]></loc>
+<lastmod>2019-02-06T22:30:28+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/44-large_default/cute-big-kiss-eye-smiley-yellow-cushion-pillow.jpg]]></image:loc>
+<image:caption><![CDATA[Buys best stuff big yellow colored smiley with Kiss over it. You can gift this Kiss Eye Smiley to you girlfriend, boyfriend, husband or any other loved ones.]]></image:caption>
+<image:title><![CDATA[Cute Big Kiss Smiley Yellow Cushion/Pillow]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/37-double-heart-cushion-soft-pillow.html]]></loc>
+<lastmod>2019-02-06T22:30:31+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/49-large_default/double-heart-cushion-soft-pillow.jpg]]></image:loc>
+<image:caption><![CDATA[Double Heart Cushion is a Soft Plushed Toys. This is a perfect and best gift for loved ones as this is made up of soft fur. It can also be used for home decoration. Great stuff double heart cushion with Love written on it.]]></image:caption>
+<image:title><![CDATA[Double Heart Cushion Soft Pillow]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/38-big-heart-with-roses-red-pink-cushion.html]]></loc>
+<lastmod>2019-02-06T22:31:57+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/79-large_default/big-heart-with-roses-red-pink-cushion.jpg]]></image:loc>
+<image:caption><![CDATA[Cute and unique heart shaped cushion best suitable for home decoration. Height: 27 cmLength: 32 cmColor: Pink and RedOutline fur: BlackCushion Foam: SoftFront: Glossy and shining artificial rosesShape: Heart]]></image:caption>
+<image:title><![CDATA[Big Heart with Roses Red &amp;amp; Pink Cushion]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/39-combo-emoji-set-of-3-smiley-decorative-pillow-cushion.html]]></loc>
+<lastmod>2019-02-06T22:31:57+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/52-large_default/combo-emoji-set-of-3-smiley-decorative-pillow-cushion.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Set Of 3 Smiley Decorative Pillow with Combo Emoji Cushion. It consists of set of 3 smiley with a washable material. Cute Set of Smiley to gift to your love ones and for home direction.]]></image:caption>
+<image:title><![CDATA[Combo Emoji Set Of 3 Smiley Decorative Pillow/Cushion]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/40-kiss-heart-eye-smiley-combo-yellow-pillow-cushion.html]]></loc>
+<lastmod>2019-02-06T22:31:57+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/59-large_default/kiss-heart-eye-smiley-combo-yellow-pillow-cushion.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Set Of 2 Smiley Decorative Pillow with Kiss &amp;amp;amp; Heart Eye Smiley Emoji Cushion. It consists of set of 2 smiley with a washable material. Cute Set of Kiss &amp;amp;amp; Heart Eye Smiley to gift to your love ones and for home direction.]]></image:caption>
+<image:title><![CDATA[Kiss &amp;amp; Heart Eye Smiley Combo Yellow Pillow/Cushion]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/41-mustache-kiss-smiley-combo-decorative-pillow-cushion.html]]></loc>
+<lastmod>2019-02-06T22:31:57+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/66-large_default/mustache-kiss-smiley-combo-decorative-pillow-cushion.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Set Of 2 Smiley Decorative Pillow with Mustache &amp;amp;amp; Kiss Smiley Emoji Cushion. It consists of set of 2 smiley with a washable material. Cute Set of Mustache &amp;amp;amp; Kiss Smiley to gift to your love ones and for home direction.]]></image:caption>
+<image:title><![CDATA[Mustache &amp;amp; Kiss Smiley Combo Decorative Pillow/Cushion]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/42-cute-ultra-soft-teddy-with-white-roses-in-flower-pot.html]]></loc>
+<lastmod>2019-02-07T13:50:26+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/103-large_default/cute-ultra-soft-teddy-with-white-roses-in-flower-pot.jpg]]></image:loc>
+<image:caption><![CDATA[Cute yellow teddy soft toy with white roses in flower pot. Available in 2 Sizes1. 8 inches by height2. 4 inches by heightThe gift is basically a cute teddy carrying the flower pot with white roses in it. It is perfect for gifting your kith and kin. Also, one can place it over their study table for suitable decoration. White roses are adorable and have good quality color of white and little shade of golden. Every flower consist of a protective net surrounding it that increases the grace. ]]></image:caption>
+<image:title><![CDATA[Cute Ultra Soft Teddy with white roses in flower pot | SALE ON GIFTS]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/43-ultra-soft-teddy-with-chocolates-in-cute-bucket.html]]></loc>
+<lastmod>2019-02-07T13:50:13+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/113-large_default/ultra-soft-teddy-with-chocolates-in-cute-bucket.jpg]]></image:loc>
+<image:caption><![CDATA[Ultra soft teddy bear with chocolates in the cute bucket. Chocolates include (by default):Dairy Milk Almonds5 StarGems Fun SmileysGood quality product that would be loved if gifted. Also, it can be used for home decorations.Available in two colors:YellowPink]]></image:caption>
+<image:title><![CDATA[Ultra Soft Teddy with Chocolates in cute bucket]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/44-cute-ultra-soft-teddy-with-bucket-for-pens-phone-accessories.html]]></loc>
+<lastmod>2019-02-07T13:51:41+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/123-large_default/cute-ultra-soft-teddy-with-bucket-for-pens-phone-accessories.jpg]]></image:loc>
+<image:caption><![CDATA[Cute Ultra soft Teddy with bucket for Pens, Phone, accessories. It can be used for multiple purposes for decorating in the rooms and keeping essentials in the little bucket provided with the teddy bear soft toy like phone, pens, watch, key chains, coins etc.Gift this sweet teddy to your friends that not only unique and creative gift but also useful.]]></image:caption>
+<image:title><![CDATA[Cute Ultra soft Teddy with bucket for Pens, Phone, accessories]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/45-cute-ultra-soft-teddypink-with-white-roses-in-flower-pot-.html]]></loc>
+<lastmod>2019-02-06T22:36:00+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/128-large_default/cute-ultra-soft-teddypink-with-white-roses-in-flower-pot-.jpg]]></image:loc>
+<image:caption><![CDATA[Cute yellow teddy soft toy with white roses in flower pot. Available in 2 Sizes1. 8 inches by height2. 4 inches by heightThe gift is basically a cute teddy carrying the flower pot with white roses in it. It is perfect for gifting your kith and kin. Also, one can place it over their study table for suitable decoration. White roses are adorable and have good quality color of white and little shade of golden. Every flower consist of a protective net surrounding it that increases the grace. ]]></image:caption>
+<image:title><![CDATA[Cute Ultra Soft Teddy(Pink) with white roses in flower pot]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/46-cute-ultra-soft-teddywhite-black-with-white-roses-in-flower-pot.html]]></loc>
+<lastmod>2019-02-07T13:54:10+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/130-large_default/cute-ultra-soft-teddywhite-black-with-white-roses-in-flower-pot.jpg]]></image:loc>
+<image:caption><![CDATA[Cute yellow teddy soft toy with white roses in flower pot. Available in 2 Sizes1. 8 inches by height2. 4 inches by heightThe gift is basically a cute teddy carrying the flower pot with white roses in it. It is perfect for gifting your kith and kin. Also, one can place it over their study table for suitable decoration. White roses are adorable and have good quality color of white and little shade of golden. Every flower consist of a protective net surrounding it that increases the grace. ]]></image:caption>
+<image:title><![CDATA[Cute Ultra Soft Teddy(White Black) with white roses in flower pot]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/47-cute-ultra-soft-teddypink-yellow-white-with-pink-roses-in-flower-pot-combo.html]]></loc>
+<lastmod>2019-02-07T13:55:10+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/132-large_default/cute-ultra-soft-teddypink-yellow-white-with-pink-roses-in-flower-pot-combo.jpg]]></image:loc>
+<image:caption><![CDATA[Cute Ultra Soft teddy(Pink, Yellow, White) with Pink Roses in Flower pot | Combo with flowersSize: 8 inches by heightThe gift is basically a cute teddy carrying the flower pot with pink roses in it. It is perfect for gifting your kith and kin. Also, one can place it over their study table for suitable decoration. Pink roses are adorable and have good quality color of reddish and little shade of pink. Every flower consist of a protective base of green color and green branch that increases the grace. ]]></image:caption>
+<image:title><![CDATA[Cute Ultra Soft teddy(Pink, Yellow, White) with Pink Roses in Flower pot | Combo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/49-winter-landscape-painting-water-colors-on-paper.html]]></loc>
+<lastmod>2019-02-07T13:56:11+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/135-large_default/winter-landscape-painting-water-colors-on-paper.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Winter Landscape Painting Water Colors on Paper with black frame. Best suitable for living room wall decoration. Best Quality and professional painting style. Dimensions of Painting: 358 mm x 278 mm.Frame color: Black]]></image:caption>
+<image:title><![CDATA[Winter Landscape Painting Water Colors on Paper]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/50-sunset-landscape-painting-water-colors-on-paper.html]]></loc>
+<lastmod>2019-02-12T02:11:37+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/137-large_default/sunset-landscape-painting-water-colors-on-paper.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Sunset Landscape Painting Water Colors on Paper with black frame. Best suitable for living room wall decoration. Best Quality and professional painting style. Dimensions of Painting: 280 mm x 366 mmColor Used: Water Colors]]></image:caption>
+<image:title><![CDATA[Sunset Landscape Painting Water Colors On Paper]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/51-sunrise-landscape-water-color-painting-on-paper-with-frame.html]]></loc>
+<lastmod>2019-02-07T13:58:44+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/138-large_default/sunrise-landscape-water-color-painting-on-paper-with-frame.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Sunrise Landscape Painting Water Colors on Paper with black frame. Best suitable for living room wall decoration. Best Quality and professional painting style. Dimensions of Painting: 356 mm x 280 mm.Frame color: Black]]></image:caption>
+<image:title><![CDATA[Sunrise Landscape Water Color Painting on Paper with frame]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/52-abstract-women-painting.html]]></loc>
+<lastmod>2019-02-07T14:10:59+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/139-large_default/abstract-women-painting.jpg]]></image:loc>
+<image:caption><![CDATA[Title: Rising in LoveBeautiful Abstract woman painting depicting Love and affection. A Mix Media art form on paper with Yellow tone of color combination. Painting is portraying the rising of a woman towards the door of love. A hope that is seeking for freedom and affection.Best art piece for decorating your wall. Abstract Paintings are on vogue of home decoration culture.Dimension : 530 mm x 375 mm.Color Used: Mix MediaFrame Color : BlackMaterial: Paper]]></image:caption>
+<image:title><![CDATA[Beautiful Abstract woman painting depicting Love | Mix Media]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/54-cute-ultra-soft-bunny-blue-white-with-roses-flower-pot-combo.html]]></loc>
+<lastmod>2019-02-06T22:35:44+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/140-large_default/cute-ultra-soft-bunny-blue-white-with-roses-flower-pot-combo.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Cute Ultra Soft Bunny (Blue white) with Roses on Flower Pot. White and Pink Roses are included with the flower pot. Flower pot is attached with the teddy, where a Caption &amp;quot;For Someone Special&amp;quot; is written. So Gift this amazing present to your someone special.]]></image:caption>
+<image:title><![CDATA[Cute Ultra Soft Bunny (Blue white) with Roses Flower Pot | Combo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/55-mobile-phone-stent-with-car-mount-combo-for-mobile-grip-stand-mount.html]]></loc>
+<lastmod>2019-02-06T22:35:56+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/145-large_default/mobile-phone-stent-with-car-mount-combo-for-mobile-grip-stand-mount.jpg]]></image:loc>
+<image:caption><![CDATA[Mobile Phone Stent with Car Mount Combo used for Mobile Grip, Stand and mount. The stent comes up with the sticky adhesive material at the back so that it can stick to back of phone. Also, wall mount is also included in this product that is utilized for standing the mobile besides the wall. ]]></image:caption>
+<image:title><![CDATA[Mobile Phone Stent with Car Mount Combo for Mobile Grip, Stand, Mount]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/59-cute-stuffed-teddy-bear-with-red-heart-soft-toy-combo.html]]></loc>
+<lastmod>2019-02-10T13:31:03+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/177-large_default/cute-stuffed-teddy-bear-with-red-heart-soft-toy-combo.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Cute Stuffed Teddy Bear with Red Heart Soft toy. Ultra soft toys with FREE small soft heart flowers.]]></image:caption>
+<image:title><![CDATA[Cute Stuffed Teddy Bear with Red Heart Soft toy Combo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/60-cute-stuffed-4-teddy-bear-hangings-on-red-heart-wings.html]]></loc>
+<lastmod>2019-02-10T13:31:03+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/175-large_default/cute-stuffed-4-teddy-bear-hangings-on-red-heart-wings.jpg]]></image:loc>
+<image:caption><![CDATA[You can get Cute Stuffed 4 Teddy Bear Hangings on Red Heart wings. The soft toys are of best quality stuff and will be loved as romantic gifts. Suitable for Home Decoration.Height of 4 teddy Bears: 4 Inches]]></image:caption>
+<image:title><![CDATA[Cute Stuffed 4 Teddy Bear Hangings on Red Heart wings]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/61-cute-soft-5-teddy-bears-on-adorable-golden-hanging-.html]]></loc>
+<lastmod>2019-02-10T13:31:03+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/178-large_default/cute-soft-5-teddy-bears-on-adorable-golden-hanging-.jpg]]></image:loc>
+<image:caption><![CDATA[Cute Soft 5 Teddy Bears on adorable Golden Hanging with pearls in it. Great color combination for soft high quality colorful teddy bears. Buy to get OFF now.]]></image:caption>
+<image:title><![CDATA[Cute Soft 5 Teddy Bears on adorable Golden Hanging]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/62-personalized-phone-back-cover-mobile-cases-available-for-all-models.html]]></loc>
+<lastmod>2019-02-11T22:06:23+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/184-large_default/personalized-phone-back-cover-mobile-cases-available-for-all-models.jpg]]></image:loc>
+<image:caption><![CDATA[Buy best quality personalized mobile back covers and phone cases. ]]></image:caption>
+<image:title><![CDATA[Personalized Phone Back Cover | Mobile Cases available for all models]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/63-adjustable-queen-crown-for-girlswomen-with-pearls-goldensilver.html]]></loc>
+<lastmod>2019-02-12T23:53:55+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/188-large_default/adjustable-queen-crown-for-girlswomen-with-pearls-goldensilver.jpg]]></image:loc>
+<image:caption><![CDATA[Amazing offers on Queen Crown for Girls/Women with Pearls which is available in two color:GoldenSilverIts fitting can be adjusted according to your face size from the endings. ]]></image:caption>
+<image:title><![CDATA[Adjustable Queen Crown for Girls/Women with Pearls (Golden|Silver)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/64-dashing-king-crown-for-menboys-with-pearls-golden-silver.html]]></loc>
+<lastmod>2019-02-12T23:50:59+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/192-large_default/dashing-king-crown-for-menboys-with-pearls-golden-silver.jpg]]></image:loc>
+<image:caption><![CDATA[Buy Dashing King Crown for Men/Boys with pearls that are available in two colors:GoldenSilverA perfect Gift for him as one serve as King in your life.]]></image:caption>
+<image:title><![CDATA[Dashing King Crown for Men/Boys with pearls (Golden| Silver)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html]]></loc>
+<lastmod>2019-02-13T01:27:53+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/207-large_default/antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.jpg]]></image:loc>
+<image:caption><![CDATA[Beautiful and Antique Lantern, Torch, Phone charger (all in one). It includes rechargeable battery that gets its charging from Solar cells or 220 V charger(both options available).Highly useful in cases of power cut or while camping. Will be an asset to recharge your phone using its solar cell technology.]]></image:caption>
+<image:title><![CDATA[Antique Lantern, Torch, Phone charger Rechargeable with Solar cells/220 V charger]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/66-quirky-retro-led-lamp-blow-air-to-switch-on-rechargeable-light-adjusting-knob-.html]]></loc>
+<lastmod>2019-02-14T00:23:51+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/215-large_default/quirky-retro-led-lamp-blow-air-to-switch-on-rechargeable-light-adjusting-knob-.jpg]]></image:loc>
+<image:caption><![CDATA[Quirky Retro LED Lamp. Blow air to Switch it On. High capacity Rechargeable battery. Light adjusting knob.Very easy to switch it on, simply blow the air from the top or just place your hand over the top opening. The LED will blow up. ]]></image:caption>
+<image:title><![CDATA[Quirky Retro LED Lamp| Blow air to Switch On| Rechargeable| Light adjusting knob]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.html]]></loc>
+<lastmod>2019-02-13T12:23:17+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/221-large_default/smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.jpg]]></image:loc>
+<image:caption><![CDATA[Smart Bluetooth Speakers Music Flowerpot with Multi color Lights. You can add real plants into the pot. There is hole beneath the flower pot to escape the excess water. Music can be played like piano just by touching the flowers. You can connect your Laptop/mobile phone with the Bluetooth speakers and enjoy your playlist. Pink roses are inclusive of this price. If you want to exclude the roses then you can deselect it from the combination. Price will be changed accordingly.]]></image:caption>
+<image:title><![CDATA[Smart Bluetooth Speakers Flowerpot with disco Lights and Pink Roses]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/2-home]]></loc>
+<lastmod>2019-01-17T23:28:03+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/3-personalized-gifts]]></loc>
+<lastmod>2019-01-29T10:13:17+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/4-gifts-for-him]]></loc>
+<lastmod>2019-01-20T23:49:20+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/c/4-category_default/gifts-for-him.jpg]]></image:loc>
+<image:caption><![CDATA[T-shirts, sweaters, hoodies and men's accessories. From basics to original creations, for every style.  Get an amazing collection of unique gifts for your boyfriend, father and grandfather.]]></image:caption>
+<image:title><![CDATA[Gifts for Him]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/5-gifts-for-her]]></loc>
+<lastmod>2019-01-20T23:50:56+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/c/5-category_default/gifts-for-her.jpg]]></image:loc>
+<image:caption><![CDATA[T-shirts, sweaters, hoodies and women's accessories. From basics to original creations, for every style. Get an amazing collection of unique gifts for your girlfriend, mother and grandmother.]]></image:caption>
+<image:title><![CDATA[Gifts for Her]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/6-cards]]></loc>
+<lastmod>2019-01-20T23:53:14+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/c/6-category_default/cards.jpg]]></image:loc>
+<image:caption><![CDATA[Wish your loved ones with beautiful cards.]]></image:caption>
+<image:title><![CDATA[Cards]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/7-festive-cards]]></loc>
+<lastmod>2019-01-20T23:54:17+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/c/7-category_default/festive-cards.jpg]]></image:loc>
+<image:caption><![CDATA[Wish the festival with crazy and unique festive cards.]]></image:caption>
+<image:title><![CDATA[Festive Cards]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/8-wishing-cards]]></loc>
+<lastmod>2019-01-20T23:55:10+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/c/8-category_default/wishing-cards.jpg]]></image:loc>
+<image:caption><![CDATA[Buys a huge collection of cards to wish your friends and family members.]]></image:caption>
+<image:title><![CDATA[Wishing Cards]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/9-posters]]></loc>
+<lastmod>2019-01-21T00:00:31+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[https://galific.com/c/9-category_default/posters.jpg]]></image:loc>
+<image:caption><![CDATA[Motivational Poster, Celebrity Poster, Devotional, Abstract, Romantic]]></image:caption>
+<image:title><![CDATA[Posters]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/11-occasion-cards]]></loc>
+<lastmod>2019-01-20T23:56:26+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/12-corporate-cards]]></loc>
+<lastmod>2019-01-20T23:58:09+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/13-motivational]]></loc>
+<lastmod>2019-01-21T00:05:02+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/14-celebrity]]></loc>
+<lastmod>2019-01-21T00:02:02+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/15-devotional]]></loc>
+<lastmod>2019-01-21T00:02:23+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/16-abstract]]></loc>
+<lastmod>2019-01-21T00:02:42+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/17-romantic]]></loc>
+<lastmod>2019-01-21T00:02:59+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/18-virtual-gifts]]></loc>
+<lastmod>2019-01-21T00:12:13+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/19-mobile-cases]]></loc>
+<lastmod>2019-01-29T10:19:52+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/20-gadgets]]></loc>
+<lastmod>2019-01-25T01:14:33+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/21-gifts-toys]]></loc>
+<lastmod>2019-01-25T23:44:46+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[https://galific.com/22-paintings-and-craft]]></loc>
+<lastmod>2019-02-03T14:12:52+05:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>

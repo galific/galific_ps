@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en" lang="en">
+	<head>
+		<title>Inveo PrestaShop Module</title>
+		<meta http-equiv="content-language" content="en" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="index,follow" />
+		<meta name="author" content="Inveo s.r.o." />
+		<meta name="generator" content="Inveo Docs Framework" />
+		<script type="text/javascript">
+		<!--
+
+		window.onload = function() {
+			document.getElementById('lockedArea').style.display = 'none';
+		}
+
+		function handleAgreement(vote) {
+		
+			document.getElementById('progressBar').style.visibility = 'visible';
+		
+			if(vote) {
+				document.getElementById('formAccept').disabled = true;
+
+				window.setTimeout(function() {
+								document.getElementById('formAccept').style.fontWeight = 'bold';
+								document.getElementById('progressBar').style.visibility = 'hidden';
+								document.getElementById('formCancel').style.display = 'none';
+								document.getElementById('lockedArea').style.display = 'block';
+							},
+				750);
+			} else {
+				document.getElementById('formCancel').disabled = true;
+				document.getElementById('formCancel').style.fontWeight = 'bold';
+
+				window.setTimeout(function() {
+								document.getElementById('progressBar').style.visibility = 'hidden';
+								document.getElementById('formCancel').disabled = false;
+								document.getElementById('formCancel').style.fontWeight = 'normal';
+								alert('You must accept the license agreement to continue the Inveo PrestaShop Module installation.');
+							},
+				750);
+			
+			}
+		}
+
+		//-->
+		</script>
+
+		<style type="text/css">
+		<!--
+		
+		body {
+			font-family: Verdana, Helvetica, Arial, sans-serif;
+			font-size: 14px;
+			margin: 20px;
+			line-height: 150%;
+		}
+		
+		div.block-wrapper {
+			margin-top: 10px;
+			background-color: #e7dfd8;
+			padding: 10px 20px 10px 20px;
+		}
+		
+		h1, h2, h3 {
+			color: #b4633b;
+		}
+		
+		h1 {
+			border-bottom: 1px solid #b4633b;
+			border-left: 1px solid #b4633b;
+			width: 85%;
+			margin-left: 20px;
+			padding: 5px;
+		}
+		
+		h2 {
+			border-bottom: 1px solid #b4633b;
+			width: 75%;
+			margin-left: 40px;
+		}
+		
+		h3 {
+			border-left: 10px solid #b4633b;
+			padding-left: 10px;
+		}
+		
+		div.h2-wrapper {
+			background-color: #e4e4e4;
+			padding: 5px 20px 5px 20px;
+			margin-left: 60px;
+			width: 75%;
+		}
+		
+		form {
+			margin-left: 60px;
+		}
+		
+		textarea {
+			border: 1px solid #000000;
+			width: 50%;
+			height: 200px;
+			padding: 10px;
+			letter-spacing: 1px;
+		}
+		
+		input {
+			font-size: 16px;
+			cursor: hand;
+			cursor: pointer
+		}
+		
+		/*input#formAccept {
+		}*/
+		
+		input#formCancel {
+			margin-left: 10px;
+		}
+		
+		div#inputButtons {
+			/*margin-left: 10px;*/
+			/*margin-right: 25px;*/
+			/*clear: none;*/
+			/*float: left;*/
+		}
+		
+		hr.cleaner {
+			clear: both;
+			height: 0;
+			visibility: hidden;
+		}
+		
+		span#progressBar, span#progressBar2 {
+			/*width: 145px;
+			height: 15px;
+			border: none;*/
+
+			margin-left: 15px;
+			font-style: italic;
+			font-size: 90%;
+			visibility: hidden;
+		}
+		
+		span#progressBar2 {
+			margin-top: 20px;
+			text-align: center;
+			width: 100%;
+			font-size: 1.2em;
+			visibility: visible;
+			display: none;
+			color: #b4633b;
+			letter-spacing: 0.1em;
+		}
+		
+		input.product_buttons {
+			width: 200px;
+			height: 40px;
+			margin: 5px;
+		}
+
+		ul {
+			list-style-type: circle;
+		}
+		
+		ul li {
+			margin: 5px;
+		}
+		
+		code {
+			font-family: 'Courier New', monospace; 
+			color: #b4633b;
+			background-color: #f0ebe7;
+			border: 1px solid #cccccc;
+		}
+		
+		code.php {
+			white-space: pre;
+			display: block;
+			margin-left: 10px;
+			width: 80%;
+			overflow: scroll;
+			padding: 5px;
+			font-size: 75%;
+		}
+		
+		samp {
+			font-family: 'Courier New', monospace;
+		}
+		
+		p.important_note {
+			border: 2px dotted #b4633b;
+			padding: 1em;
+		}
+
+		-->
+		</style>
+	</head>
+
+<body>
+
+<div class="block-wrapper"><p>Thank you for purchasing this <a href="http://www.inveostore.com/">PrestaShop Module</a>. This README will guide you through PrestaShop Module installation and operation basics. It is strongly recommended that you read all accompanying documentation fully before proceeding with the installation.</p></div>
+
+<!-- table of contents -->
+
+<h1>Installation Guide</h1>
+
+<h2 id="license">License Agreement</h2>
+
+<form action="" method="get">
+<div><textarea readonly="readonly" cols="80" rows="20">PrestaShop Module LICENSE AGREEMENT
+
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY. This is
+a legal agreement between you, the end user ("Licensee"),
+and Inveo s.r.o. ("Producer"). You agree to be bound
+by the terms of this License by installing, copying, or otherwise
+using the product. If you do not agree, do not install or use
+the product.
+
+I. COPYRIGHT. The PrestaShop Module software program on whatever
+distribution media including documentation (the "SOFTWARE")
+is licensed to you for use only on the terms set forth here.
+Important - The SOFTWARE contains copyright works protected
+by copyright law and international conventions.
+
+II. GRANT OF LICENSE. The Producer grants you the right to:
+a) Use one copy of the SOFTWARE on one website and only
+   with PrestaShop installation so long as you comply
+   with the terms of this License.
+b) Make a copy of SOFTWARE if it is necessary for the use
+   of the SOFTWARE as mentioned in (a) above for the purposes
+   of the execution of program functions and for backup purposes.
+
+III. USE RESTRICTIONS. As the Licensee, you may not:
+a) Install SOFTWARE on other websites at the same time
+   than is authorized by this License.
+b) Make copies of SOFTWARE except as expressly permitted
+   by this License and/or applicable statutes and to distribute them.
+   You should be aware that any breach of this provision by you
+   constitutes the infringement of the producer's copyright and trade
+   mark rights.
+c) Reverse engineer, decompile, disassemble or create derivative works
+   from the SOFTWARE and distribute them and in any other way
+   interfere with the internal structure of SOFTWARE, except as
+   expressly authorized by this License and/or applicable statutes.
+d) Rent or lease the SOFTWARE, although you may transfer the SOFTWARE
+   on a permanent basis provided you retain no copies and
+   the recipient agrees to the terms of this License.
+
+IV. LIMITED WARRANTY
+Producer warrants that the SOFTWARE will perform in substantial
+compliance with the written documentation accompanying SOFTWARE
+for 180 days after date of delivery of the SOFTWARE. Your sole
+remedy under the warranty during this 180 day period is that Producer
+will undertake to correct within a reasonable period of time
+any reported SOFTWARE errors and correct errors in the documentation.
+Producer also may, at its sole and exclusive option, either replace
+the SOFTWARE with a functionally equivalent program at no charge to you.
+Producer does not warrant that the SOFTWARE will meet your
+requirements that operation of the SOFTWARE will be uninterrupted
+or error-free, or that all SOFTWARE errors will be corrected.
+The above warranties are exclusive and are in lieu of all other
+warranties, expressed or implied, including the implied warranties
+of merchantability, fitness for a particular purpose and
+non infringement.
+You may have other rights under applicable statutes.
+
+V. LIMITATION OF REMEDIES
+In no event will Producer be liable to you for any special,
+consequential, indirect or similar damages, including any lost profits
+or lost data arising out of the use or inability to use the SOFTWARE
+or any data supplied therewith even if Producer or anyone else has
+been advised of the possibility of such damages, or for any claim
+by any other party. You may have other rights under applicable
+statutes. In no case shall Producer's liability exceed the purchase
+price for the SOFTWARE.
+
+VI. TERMINATION
+This License is effective until terminated. This License will
+terminate automatically without notice from Producer if you fail
+to comply with any provisions of this License. This License is
+also terminated if and when exchanged for a new License regulating
+your use of an UPGRADE version of SOFTWARE. Upon termination, you
+shall stop use and shall destroy all copies of SOFTWARE including
+written documentation and including modified copies, if any.</textarea></div>
+<hr class="cleaner" />
+<div id="inputButtons"><input type="button" name="agree" value="Accept" id="formAccept" onclick="return !handleAgreement(true);" /><input type="button" name="cancel" value="Cancel" id="formCancel" onclick="return !handleAgreement(false);" /><span id="progressBar">Loading...</span></div>
+</form>
+<hr class="cleaner" />
+<div id="lockedArea">
+
+<h2 id="table">Table of contents</h2>
+
+<div class="h2-wrapper">
+<ol>
+<li><a href="#license">License Agreement</a></li>
+<li><a href="#requirements">Requirements</a></li>
+<li><a href="#installation">New installation</a></li>
+<li><a href="#upgrade">Upgrade</a></li>
+<li><a href="#help">Getting help</a></li>
+</ol>
+</div>
+
+<h2 id="requirements">Requirements</h2>
+
+<div class="h2-wrapper"><p>Inveo PrestaShop Module has a few requirements which must be met before you are able to install and use it.</p>
+
+<ul>
+<li>properly installed and set up <strong>PrestaShop 1.3.x.x/1.4.x.x/1.5.x.x/1.6.x.x</strong></li>
+<li>PHP 5 and later (<strong>Safe Mode is supported</strong>)</li>
+</ul>
+
+</div>
+
+
+<h2 id="installation">New installation</h2>
+
+<div class="h2-wrapper">
+
+<ol>
+
+<li><p>Decompress the PrestaShop Module archive to a local directory on your system.</p></li>
+<li><p>Upload all the files contained in this archive (retaining the directory structure and excluding the <code>docs</code> folder) to your server or hosting account with <strong>BINARY mode for transfer</strong> (do not use ASCII/Text mode or critical files get corrupted).</p></li>
+<li><p>Please go to PrestaShop admin panel - Modules tab and click the Install button.</p></li>
+<li><p>The installation process is finished.</p></li>
+
+</ol>
+
+</div>
+
+<h2 id="upgrade">Upgrade</h2>
+
+
+<div class="h2-wrapper">
+
+<ol>
+
+<li><p>Decompress the PrestaShop Module archive to a local directory on your system.</p></li>
+<li><p>Upload all the files contained in this archive (retaining the directory structure and excluding the <code>docs</code> folder) to your server or hosting account with <strong>BINARY mode for transfer</strong> (do not use ASCII/Text mode or critical files get corrupted) adn overwrite all exiting files.</p></li>
+<li><p>Please go to PrestaShop admin panel - Modules tab and click the Install button.</p></li>
+<li><p>The upgrade process is finished.</p></li>
+
+</ol>
+
+</div>
+
+<h2 id="help">Getting help</h2>
+
+<div class="h2-wrapper"><p>In the unlikely event you experience any difficulty, please visit our support forums at <a href="http://www.inveostore.com/community/">www.inveostore.com/community/</a> Be sure to include what version of PrestaShop and PrestaShop Module you are using and a complete description of the difficulty you seem to be encountering.</p></div>
+
+</div> <!-- /lockedArea -->
+
+<div class="block-wrapper"><p>The publication, reprint or distribution of any portion of the Software, Code or documentation, in any form including electronically, without the specific prior written permission from the Inveo s.r.o. is expressly prohibited.</p><p>Copyright &copy; <a href="http://www.inveostore.com/">Inveo s.r.o.</a> 2009 - 2015. All rights reserved.</p></div>
+
+</body>
+</html>

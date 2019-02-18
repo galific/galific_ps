@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockinvitereferrals</name>
+	<displayName><![CDATA[Advance Customer Referral Program - InviteReferrals]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Simplest tool to launch Customer Referral Campaigns to boost invites and site traffic.]]></description>
+	<author><![CDATA[InviteReferrals]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

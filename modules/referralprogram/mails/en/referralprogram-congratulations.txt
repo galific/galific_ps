@@ -8,7 +8,7 @@ placed his or her first order on {shop_name}
 [{shop_url}]!
 
 We are pleased to offer you a voucher worth {discount_display}
-(VOUCHER # {discount_name}) that you can use on your next order. 		 
+(VOUCHER # {discount_name}) that you can use on your next order. 
 
 Best regards, 
 

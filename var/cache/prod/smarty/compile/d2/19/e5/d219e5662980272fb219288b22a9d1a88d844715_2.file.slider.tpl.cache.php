@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-13 11:10:16
+/* Smarty version 3.1.33, created on 2019-02-18 00:19:13
   from '/var/www/html/modules/posslideshows/views/templates/hook/slider.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c63adc0cba372_28551820',
+  'unifunc' => 'content_5c69aca9d0cac5_64698846',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c63adc0cba372_28551820 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '15897449805c63adc0cb29c8_21575576';
+function content_5c69aca9d0cac5_64698846 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '20132003655c69aca9d037c8_33399547';
 if ($_smarty_tpl->tpl_vars['homeslider']->value['slides']) {?>
 <div class="slideshow_container">
 	<div class="pos-slideshow">

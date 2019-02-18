@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-13 11:10:17
+/* Smarty version 3.1.33, created on 2019-02-18 00:19:14
   from 'module:poslistcateproductviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c63adc14315c0_88398821',
+  'unifunc' => 'content_5c69acaa22c3b9_55679931',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c69acaa22c3b9_55679931 (Smarty_Internal_Template $_smarty_tpl) {
 ?>	<div class="poslistcateproduct poslistcateproduct_0 product_container"
 		data-items="5" 
 		data-speed="1000"
@@ -119,7 +119,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="63" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -187,7 +187,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="63" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -255,7 +255,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="64" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -323,7 +323,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="64" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -500,7 +500,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="60" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -567,7 +567,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="60" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -626,7 +626,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="61" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -691,7 +691,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="61" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -747,7 +747,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="47" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -814,7 +814,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="47" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -887,7 +887,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="46" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -955,7 +955,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="46" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1011,7 +1011,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="44" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1077,7 +1077,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="44" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1135,7 +1135,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="42" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1203,7 +1203,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="42" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1259,7 +1259,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="43" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1329,7 +1329,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="43" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1398,7 +1398,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="54" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1463,7 +1463,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="54" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1501,7 +1501,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -1520,7 +1519,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="38" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1592,7 +1591,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="38" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1643,7 +1642,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -1662,7 +1660,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="39" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1727,7 +1725,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="39" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1765,7 +1763,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -1784,7 +1781,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="40" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1849,7 +1846,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="40" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1889,7 +1886,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -1908,7 +1904,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="41" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -1973,7 +1969,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="41" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2011,7 +2007,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -2030,7 +2025,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="37" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2096,7 +2091,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="37" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2136,7 +2131,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -2155,7 +2149,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="36" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2220,7 +2214,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="36" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2258,7 +2252,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -2277,7 +2270,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="35" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2342,7 +2335,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="35" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2382,7 +2375,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -2401,7 +2393,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="34" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2466,7 +2458,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="34" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2543,253 +2535,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 											
 														<div class="item-product">
 															
-	<article class="product-miniature js-product-miniature" data-id-product="67" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-		<div class="img_block">
-		  
-			<a href="https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights.html" class="thumbnail product-thumbnail">
-			  <img
-				src = "https://galific.com/221-home_default/smart-bluetooth-speakers-flowerpot-with-disco-lights.jpg"
-				alt = "Smart Bluetooth Speakers Flowerpot with disco Lights"
-				data-full-size-image-url = "https://galific.com/221-large_default/smart-bluetooth-speakers-flowerpot-with-disco-lights.jpg"
-			  >
-			</a>
-		  
-		  
-			<ul class="product-flag">
-							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
-						</ul>
-			
-			
-								  <div class="product-price">
-										  						<span class="discount-percentage">-50%</span>
-					  					
-					
-
-					
-
-					
-				  </div>
-							
-			<ul class="add-to-links">
-				<li class="cart">
-					 
-<div class="product-add-to-cart">	
- <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
-   <input type="hidden" name="id_product" value="67" class="product_page_product_id">
-   <input type="hidden" name="qty" value="1">
-   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
-  		 <i class="ion-bag"></i> Add to cart
-   </button>
- </form>
-</div>
- 
-				</li>
-				<li>
-					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
-				</li>
-				<li>
-					<div class="wishlist product-item-wishlist">
-	<a class="addToWishlist wishlistProd_67" title="Add to wishlist" href="#" data-rel="67" onclick="WishlistCart('wishlist_block_list', 'add', '67', false, 1); return false;">
-		<i class="ion-android-favorite-outline"></i>Add to wishlist
-	</a>
-</div>
-
-				</li>
-			</ul>
-		</div>
-		<div class="product_desc">
-			
-			  <h1 itemprop="name"><a href="https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights.html" class="product_name">Smart Bluetooth Speakers Flowerpot with disco Lights</a></h1>
-			
-			
-				<div class="hook-reviews">
-					<div itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" class="comments_note">	
-	<div class="star_content clearfix">
-	<div class="star "></div>
-	<div class="star "></div>
-	<div class="star "></div>
-	<div class="star"></div>
-	<div class="star "></div>
-	</div>
-	</div>
-
-				</div>
-			
-			
-			  				<div class="product-price-and-shipping">
-				  					
-
-					<span class="sr-only">Regular price</span>
-					<span class="regular-price">₹999.00</span>
-				  
-				  
-
-				  <span class="sr-only">Price</span>
-				  <span itemprop="price" class="price">₹500.00</span>
-				  
-
-				  
-				</div>
-			  			
-			
-				<div class="product-desc" itemprop="description"><p><strong>Smart Bluetooth Speakers Music Flowerpot with Multi color Lights.</strong> You can add real plants into the pot. There is hole beneath the flower pot to escape the excess water. Music can be played like piano just by touching the flowers. You can connect your Laptop/mobile phone with...</div>
-			
-			<ul class="add-to-links">
-				<li class="cart">
-					 
-<div class="product-add-to-cart">	
- <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
-   <input type="hidden" name="id_product" value="67" class="product_page_product_id">
-   <input type="hidden" name="qty" value="1">
-   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
-  		 <i class="ion-bag"></i> Add to cart
-   </button>
- </form>
-</div>
- 
-				</li>
-				<li>
-					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
-				</li>
-				<li>
-					<a href="https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights.html" class="links-details" title="Details"><i class="ion-ios-copy"></i>Details</a>
-				</li>
-			</ul>
-			
-						
-		</div>
-	  </article>
-
-																		
-															
-	<article class="product-miniature js-product-miniature" data-id-product="65" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-		<div class="img_block">
-		  
-			<a href="https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html" class="thumbnail product-thumbnail">
-			  <img
-				src = "https://galific.com/207-home_default/antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.jpg"
-				alt = "Antique Lantern, Torch, Phone charger Rechargeable with Solar cells/220 V charger"
-				data-full-size-image-url = "https://galific.com/207-large_default/antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.jpg"
-			  >
-			</a>
-		  
-		  
-			<ul class="product-flag">
-							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
-						</ul>
-			
-			
-								  <div class="product-price">
-										  						<span class="discount-percentage">-68%</span>
-					  					
-					
-
-					
-
-					
-				  </div>
-							
-			<ul class="add-to-links">
-				<li class="cart">
-					 
-<div class="product-add-to-cart">	
- <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
-   <input type="hidden" name="id_product" value="65" class="product_page_product_id">
-   <input type="hidden" name="qty" value="1">
-   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
-  		 <i class="ion-bag"></i> Add to cart
-   </button>
- </form>
-</div>
- 
-				</li>
-				<li>
-					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
-				</li>
-				<li>
-					<div class="wishlist product-item-wishlist">
-	<a class="addToWishlist wishlistProd_65" title="Add to wishlist" href="#" data-rel="65" onclick="WishlistCart('wishlist_block_list', 'add', '65', false, 1); return false;">
-		<i class="ion-android-favorite-outline"></i>Add to wishlist
-	</a>
-</div>
-
-				</li>
-			</ul>
-		</div>
-		<div class="product_desc">
-			
-			  <h1 itemprop="name"><a href="https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html" class="product_name">Antique Lantern, Torch, Phone charger Rechargeable with Solar cells/220 V charger</a></h1>
-			
-			
-				<div class="hook-reviews">
-					<div itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" class="comments_note">	
-	<div class="star_content clearfix">
-	<div class="star "></div>
-	<div class="star "></div>
-	<div class="star "></div>
-	<div class="star"></div>
-	<div class="star "></div>
-	</div>
-	</div>
-
-				</div>
-			
-			
-			  				<div class="product-price-and-shipping">
-				  					
-
-					<span class="sr-only">Regular price</span>
-					<span class="regular-price">₹799.00</span>
-				  
-				  
-
-				  <span class="sr-only">Price</span>
-				  <span itemprop="price" class="price">₹256.00</span>
-				  
-
-				  
-				</div>
-			  			
-			
-				<div class="product-desc" itemprop="description"><p>Beautiful and Antique Lantern, Torch, Phone charger (all in one). It includes rechargeable battery that gets its charging from Solar cells or 220 V charger(both options available).</p>
-<p>Highly useful in cases of power cut or while camping. Will be an asset to recharge your phone using its...</div>
-			
-			<ul class="add-to-links">
-				<li class="cart">
-					 
-<div class="product-add-to-cart">	
- <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
-   <input type="hidden" name="id_product" value="65" class="product_page_product_id">
-   <input type="hidden" name="qty" value="1">
-   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
-  		 <i class="ion-bag"></i> Add to cart
-   </button>
- </form>
-</div>
- 
-				</li>
-				<li>
-					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
-				</li>
-				<li>
-					<a href="https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html" class="links-details" title="Details"><i class="ion-ios-copy"></i>Details</a>
-				</li>
-			</ul>
-			
-						
-		</div>
-	  </article>
-
-															</div>
-																		
-														<div class="item-product">
-															
 	<article class="product-miniature js-product-miniature" data-id-product="66" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
 		<div class="img_block">
 		  
@@ -2823,7 +2568,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="66" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2889,7 +2634,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="66" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -2904,6 +2649,253 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 				</li>
 				<li>
 					<a href="https://galific.com/66-quirky-retro-led-lamp-blow-air-to-switch-on-rechargeable-light-adjusting-knob-.html" class="links-details" title="Details"><i class="ion-ios-copy"></i>Details</a>
+				</li>
+			</ul>
+			
+						
+		</div>
+	  </article>
+
+																		
+															
+	<article class="product-miniature js-product-miniature" data-id-product="67" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+		<div class="img_block">
+		  
+			<a href="https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.html" class="thumbnail product-thumbnail">
+			  <img
+				src = "https://galific.com/221-home_default/smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.jpg"
+				alt = "Smart Bluetooth Speakers Flowerpot with disco Lights"
+				data-full-size-image-url = "https://galific.com/221-large_default/smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.jpg"
+			  >
+			</a>
+		  
+		  
+			<ul class="product-flag">
+							<li class="discount"><span>Reduced price</span></li>
+							<li class="new"><span>New</span></li>
+						</ul>
+			
+			
+								  <div class="product-price">
+										  						<span class="discount-percentage">-45%</span>
+					  					
+					
+
+					
+
+					
+				  </div>
+							
+			<ul class="add-to-links">
+				<li class="cart">
+					 
+<div class="product-add-to-cart">	
+ <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
+   <input type="hidden" name="id_product" value="67" class="product_page_product_id">
+   <input type="hidden" name="qty" value="1">
+   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
+  		 <i class="ion-bag"></i> Add to cart
+   </button>
+ </form>
+</div>
+ 
+				</li>
+				<li>
+					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
+				</li>
+				<li>
+					<div class="wishlist product-item-wishlist">
+	<a class="addToWishlist wishlistProd_67" title="Add to wishlist" href="#" data-rel="67" onclick="WishlistCart('wishlist_block_list', 'add', '67', false, 1); return false;">
+		<i class="ion-android-favorite-outline"></i>Add to wishlist
+	</a>
+</div>
+
+				</li>
+			</ul>
+		</div>
+		<div class="product_desc">
+			
+			  <h1 itemprop="name"><a href="https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.html" class="product_name">Smart Bluetooth Speakers Flowerpot with disco Lights and Pink Roses</a></h1>
+			
+			
+				<div class="hook-reviews">
+					<div itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" class="comments_note">	
+	<div class="star_content clearfix">
+	<div class="star "></div>
+	<div class="star "></div>
+	<div class="star "></div>
+	<div class="star"></div>
+	<div class="star "></div>
+	</div>
+	</div>
+
+				</div>
+			
+			
+			  				<div class="product-price-and-shipping">
+				  					
+
+					<span class="sr-only">Regular price</span>
+					<span class="regular-price">₹999.00</span>
+				  
+				  
+
+				  <span class="sr-only">Price</span>
+				  <span itemprop="price" class="price">₹549.00</span>
+				  
+
+				  
+				</div>
+			  			
+			
+				<div class="product-desc" itemprop="description"><p><strong>Smart Bluetooth Speakers Music Flowerpot with Multi color Lights.</strong> You can add real plants into the pot. There is hole beneath the flower pot to escape the excess water. Music can be played like piano just by touching the flowers. You can connect your Laptop/mobile phone with...</div>
+			
+			<ul class="add-to-links">
+				<li class="cart">
+					 
+<div class="product-add-to-cart">	
+ <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
+   <input type="hidden" name="id_product" value="67" class="product_page_product_id">
+   <input type="hidden" name="qty" value="1">
+   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
+  		 <i class="ion-bag"></i> Add to cart
+   </button>
+ </form>
+</div>
+ 
+				</li>
+				<li>
+					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
+				</li>
+				<li>
+					<a href="https://galific.com/67-smart-bluetooth-speakers-flowerpot-with-disco-lights-and-pink-roses.html" class="links-details" title="Details"><i class="ion-ios-copy"></i>Details</a>
+				</li>
+			</ul>
+			
+						
+		</div>
+	  </article>
+
+															</div>
+																		
+														<div class="item-product">
+															
+	<article class="product-miniature js-product-miniature" data-id-product="65" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+		<div class="img_block">
+		  
+			<a href="https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html" class="thumbnail product-thumbnail">
+			  <img
+				src = "https://galific.com/207-home_default/antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.jpg"
+				alt = "Antique Lantern, Torch, Phone charger Rechargeable with Solar cells/220 V charger"
+				data-full-size-image-url = "https://galific.com/207-large_default/antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.jpg"
+			  >
+			</a>
+		  
+		  
+			<ul class="product-flag">
+							<li class="discount"><span>Reduced price</span></li>
+							<li class="new"><span>New</span></li>
+						</ul>
+			
+			
+								  <div class="product-price">
+										  						<span class="discount-percentage">-68%</span>
+					  					
+					
+
+					
+
+					
+				  </div>
+							
+			<ul class="add-to-links">
+				<li class="cart">
+					 
+<div class="product-add-to-cart">	
+ <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
+   <input type="hidden" name="id_product" value="65" class="product_page_product_id">
+   <input type="hidden" name="qty" value="1">
+   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
+  		 <i class="ion-bag"></i> Add to cart
+   </button>
+ </form>
+</div>
+ 
+				</li>
+				<li>
+					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
+				</li>
+				<li>
+					<div class="wishlist product-item-wishlist">
+	<a class="addToWishlist wishlistProd_65" title="Add to wishlist" href="#" data-rel="65" onclick="WishlistCart('wishlist_block_list', 'add', '65', false, 1); return false;">
+		<i class="ion-android-favorite-outline"></i>Add to wishlist
+	</a>
+</div>
+
+				</li>
+			</ul>
+		</div>
+		<div class="product_desc">
+			
+			  <h1 itemprop="name"><a href="https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html" class="product_name">Antique Lantern, Torch, Phone charger Rechargeable with Solar cells/220 V charger</a></h1>
+			
+			
+				<div class="hook-reviews">
+					<div itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" class="comments_note">	
+	<div class="star_content clearfix">
+	<div class="star "></div>
+	<div class="star "></div>
+	<div class="star "></div>
+	<div class="star"></div>
+	<div class="star "></div>
+	</div>
+	</div>
+
+				</div>
+			
+			
+			  				<div class="product-price-and-shipping">
+				  					
+
+					<span class="sr-only">Regular price</span>
+					<span class="regular-price">₹799.00</span>
+				  
+				  
+
+				  <span class="sr-only">Price</span>
+				  <span itemprop="price" class="price">₹256.00</span>
+				  
+
+				  
+				</div>
+			  			
+			
+				<div class="product-desc" itemprop="description"><p>Beautiful and Antique Lantern, Torch, Phone charger (all in one). It includes rechargeable battery that gets its charging from Solar cells or 220 V charger(both options available).</p>
+<p>Highly useful in cases of power cut or while camping. Will be an asset to recharge your phone using its...</div>
+			
+			<ul class="add-to-links">
+				<li class="cart">
+					 
+<div class="product-add-to-cart">	
+ <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
+   <input type="hidden" name="id_product" value="65" class="product_page_product_id">
+   <input type="hidden" name="qty" value="1">
+   <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
+  		 <i class="ion-bag"></i> Add to cart
+   </button>
+ </form>
+</div>
+ 
+				</li>
+				<li>
+					<a href="#" class="quick-view" data-link-action="quickview" title="Quick view"><i class="ion-eye"></i>Quick view</a>
+				</li>
+				<li>
+					<a href="https://galific.com/65-antique-lantern-torch-phone-charger-rechargeable-with-solar-cells220-v-charger.html" class="links-details" title="Details"><i class="ion-ios-copy"></i>Details</a>
 				</li>
 			</ul>
 			
@@ -2945,7 +2937,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="55" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3015,7 +3007,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="55" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3073,7 +3065,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="22" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3138,7 +3130,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="22" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3176,7 +3168,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -3195,7 +3186,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="33" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3261,7 +3252,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="33" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3301,7 +3292,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -3320,7 +3310,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="32" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3385,7 +3375,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="32" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3423,7 +3413,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -3442,7 +3431,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="30" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3512,7 +3501,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="30" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3575,7 +3564,6 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 		  
 			<ul class="product-flag">
 							<li class="discount"><span>Reduced price</span></li>
-							<li class="new"><span>New</span></li>
 						</ul>
 			
 			
@@ -3594,7 +3582,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="29" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >
@@ -3660,7 +3648,7 @@ function content_5c63adc14315c0_88398821 (Smarty_Internal_Template $_smarty_tpl)
 					 
 <div class="product-add-to-cart">	
  <form action="https://galific.com/cart" method="post" class="add-to-cart-or-refresh">
-   <input type="hidden" name="token" value="37b319d30dd53f34969d278947e9d94d">
+   <input type="hidden" name="token" value="78f2763c877a509d5726be24eebc3697">
    <input type="hidden" name="id_product" value="29" class="product_page_product_id">
    <input type="hidden" name="qty" value="1">
    <button class="button ajax_add_to_cart_button add-to-cart btn-default" data-button-action="add-to-cart" type="submit" >

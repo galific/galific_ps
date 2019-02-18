@@ -1,0 +1,5 @@
+*ERROR* 	v1.7.5.0	2019/02/15 - 00:29:57: No template found for mailalerts-account.tpl at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v1.7.5.0	2019/02/15 - 00:38:56: No template found for mailalerts-account.tpl at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v1.7.5.0	2019/02/15 - 09:45:31: No template found for loyalty.tpl at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v1.7.5.0	2019/02/15 - 09:45:45: No template found for loyalty.tpl at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v1.7.5.0	2019/02/15 - 09:47:59: No template found for loyalty.tpl at line 68 in file classes/Smarty/TemplateFinder.php

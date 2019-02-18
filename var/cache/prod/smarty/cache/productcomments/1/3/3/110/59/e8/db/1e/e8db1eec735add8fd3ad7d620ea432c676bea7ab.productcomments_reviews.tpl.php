@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-13 11:10:17
+/* Smarty version 3.1.33, created on 2019-02-18 00:19:13
   from '/var/www/html/modules/productcomments/productcomments_reviews.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c63adc10f2cc6_65833240',
+  'unifunc' => 'content_5c69aca9f0ff87_56399165',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5c63adc10f2cc6_65833240 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c69aca9f0ff87_56399165 (Smarty_Internal_Template $_smarty_tpl) {
 ?>	<div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
 		<div class="star_content clearfix">
 												<div class="star star_on"></div>

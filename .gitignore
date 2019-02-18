@@ -1,0 +1,5 @@
+./cache/*
+./pdf/*
+./var/logs/*
+./var/cache/*
+.tmp/*

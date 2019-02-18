@@ -1,0 +1,66 @@
+#module_inveocopyright {
+	float:right
+}
+
+#intro_inveocopyright{
+	margin-top:10px;
+	border-top:1px solid #CCCED7;
+	border-bottom:1px solid #CCCED7;
+	float: left;
+}
+
+#intro_inveocopyright h4, #completion_inveocopyright h4{
+	margin-top:10px;
+	font-weight:bold;
+	font-size:18px;
+	color:#343943;
+	text-shadow: 1px 1px 1px #fff
+}
+#intro_inveocopyright h4 {
+	margin-top:0;
+}
+
+#intro_inveocopyright #left_intro, #intro_inveocopyright #right_intro{
+	margin-top: 20px;
+}
+#intro_inveocopyright #left_intro{
+	float:left;
+	width:67%;
+	padding-right:20px;
+	padding-left:20px;
+}
+
+#intro_inveocopyright #left_intro h4{
+	float: right;
+}
+
+#intro_inveocopyright #left_intro p{
+	text-align:justify;
+	text-indent: 20px;
+	padding: 20px;
+	float: left;
+	width:100%;
+	margin-bottom: 20px
+}
+#intro_inveocopyright #right_intro{
+	float:left;
+	padding-left:20px;
+	border-left:1px solid #CCCED7;
+	width:23%;
+}
+
+#intro_inveocopyright #right_intro a{
+	color:#268ccd;
+	font-size:15px;
+	font-weight:bold
+	
+}
+#intro_inveocopyright #right_intro li{
+	color:#343943;
+	font-size:15px;
+	font-weight:bold
+}
+
+#intro_inveocopyright #right_intro li span, #intro_inveocopyright #right_intro li a{
+	line-height:22px
+}

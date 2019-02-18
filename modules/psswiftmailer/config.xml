@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>psswiftmailer</name>
+    <displayName><![CDATA[Swift Mailer 5 for PrestaShop]]></displayName>
+    <version><![CDATA[5.0.02]]></version>
+    <description><![CDATA[Add support for the latest Swift Mailer.]]></description>
+    <author><![CDATA[Inveo s.r.o.]]></author>
+    <tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[To fully uninstall the module, you will need to manually revert /var/www/html/classes/ file. Do you want continue?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
