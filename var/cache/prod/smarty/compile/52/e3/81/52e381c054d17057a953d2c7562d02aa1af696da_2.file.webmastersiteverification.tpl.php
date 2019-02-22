@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-18 00:19:10
+/* Smarty version 3.1.33, created on 2019-02-22 14:22:33
   from '/var/www/html/modules/webmastersiteverification/webmastersiteverification.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c69aca6ea4eb1_80246293',
+  'unifunc' => 'content_5c6fb85136fc85_91482546',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c69aca6ea4eb1_80246293 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c6fb85136fc85_91482546 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['page_name']->value == 'index') {?>
 <!-- Webmaster Site Verifications -->
 <?php if (isset($_smarty_tpl->tpl_vars['google_pass_thou']->value)) {?><meta name="google-site-verification" content="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['google_pass_thou']->value, ENT_QUOTES, 'UTF-8');?>

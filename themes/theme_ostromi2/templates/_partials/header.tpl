@@ -25,14 +25,14 @@
 
 {block name='header_top'}
   <div class="container">
-       <div class="row" style="padding: 15px;">
+       <div class="row header-top" style="padding: 15px 0;">
 		<div class="header_logo col-left col col-lg-3 col-md-12 col-xs-6">
 		  <a href="{$urls.base_url}" class="clearfix">
-			<img class="logo img-responsive" style="max-width: 150px;" src="{$shop.logo}" alt="{$shop.name}">
+			<img class="logo img-responsive"  src="{$shop.logo}" alt="{$shop.name}">
 		  </a>
 		</div>
-		<div class="col-right col col-xs-12 col-lg-9 col-md-12 display_top">
-			{hook h='displayTop'} 
+		<div class="col-right col col-sm-9 col-lg-9 col-md-12 display_top">
+			<div class="top-links clearfix"> 	{hook h='displayTop'}  </div> 
 		</div>
       </div>
     </div>

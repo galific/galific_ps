@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-18 00:19:13
+/* Smarty version 3.1.33, created on 2019-02-22 14:22:33
   from 'module:postabcatesliderviewstemp' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c69aca9e29f74_55396124',
+  'unifunc' => 'content_5c6fb851d12e03_49433942',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_5c69aca9e29f74_55396124 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c6fb851d12e03_49433942 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="tab-category-container-slider"  
 	data-items="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['slider_options']->value['number_item'], ENT_QUOTES, 'UTF-8');?>

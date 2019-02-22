@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-18 00:19:13
+/* Smarty version 3.1.33, created on 2019-02-22 14:22:33
   from 'module:poslistcategoriesviewstem' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c69aca9d33989_94419535',
+  'unifunc' => 'content_5c6fb851ab60f4_15376526',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6cde3405a83e54bc9e5af3924a8ce9acec0e049b' => 
     array (
       0 => 'module:poslistcategoriesviewstem',
-      1 => 1548364870,
+      1 => 1550465972,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5c69aca9d33989_94419535 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c6fb851ab60f4_15376526 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="poslistcategories">
 	<div class="pos_title">
@@ -38,7 +38,7 @@ function content_5c69aca9d33989_94419535 (Smarty_Internal_Template $_smarty_tpl)
 								Personalized Gifts
 								
 							</div>		
-							<span class="number_product">2 products</span>
+							<span class="number_product">5 products</span>
 							<!-- 							<div class="description-list">
 								<div class="desc-content">
 									<p>Personalized Gift, Customised Gift, Mug, ...

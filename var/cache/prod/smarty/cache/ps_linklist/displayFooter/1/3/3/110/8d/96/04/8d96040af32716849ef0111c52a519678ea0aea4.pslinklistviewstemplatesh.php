@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-18 00:19:14
+/* Smarty version 3.1.33, created on 2019-02-22 14:22:34
   from 'module:pslinklistviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c69acaa282c40_24481452',
+  'unifunc' => 'content_5c6fb85220a529_49134022',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,11 +18,11 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5c69acaa282c40_24481452 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c6fb85220a529_49134022 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
       <div class="col-xs-12 col-md-6 col-lg-3 links footer_block">
       <h3 class=" hidden-sm-down">Products</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_11798" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_27301" data-toggle="collapse">
         <h3>Products</h3>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -31,7 +31,7 @@ function content_5c69acaa282c40_24481452 (Smarty_Internal_Template $_smarty_tpl)
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_11798" class="footer_list collapse">
+      <ul id="footer_sub_menu_27301" class="footer_list collapse">
                   <li>
             <a
                 id="link-product-page-prices-drop-1"
@@ -56,7 +56,7 @@ function content_5c69acaa282c40_24481452 (Smarty_Internal_Template $_smarty_tpl)
     </div>
       <div class="col-xs-12 col-md-6 col-lg-3 links footer_block">
       <h3 class=" hidden-sm-down">Our company</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_93034" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_82673" data-toggle="collapse">
         <h3>Our company</h3>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -65,7 +65,7 @@ function content_5c69acaa282c40_24481452 (Smarty_Internal_Template $_smarty_tpl)
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_93034" class="footer_list collapse">
+      <ul id="footer_sub_menu_82673" class="footer_list collapse">
                   <li>
             <a
                 id="link-cms-page-1-2"

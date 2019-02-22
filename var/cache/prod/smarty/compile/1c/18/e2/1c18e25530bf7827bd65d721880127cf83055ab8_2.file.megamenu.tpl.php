@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-18 00:19:13
+/* Smarty version 3.1.33, created on 2019-02-22 14:22:33
   from '/var/www/html/modules/posmegamenu/megamenu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c69aca9cfa819_23551759',
+  'unifunc' => 'content_5c6fb851a74884_69687646',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1c18e25530bf7827bd65d721880127cf83055ab8' => 
     array (
       0 => '/var/www/html/modules/posmegamenu/megamenu.tpl',
-      1 => 1548364870,
+      1 => 1550824017,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c69aca9cfa819_23551759 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c6fb851a74884_69687646 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- Block categories module -->
 <?php if ($_smarty_tpl->tpl_vars['blockCategTree']->value != '') {?>
 	<div class="ma-nav-mobile-container hidden-lg-up">

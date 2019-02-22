@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-02-18 00:19:13
+/* Smarty version 3.1.33, created on 2019-02-22 14:22:33
   from 'module:poslistcategoriesviewstem' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c69aca9d2f029_57440696',
+  'unifunc' => 'content_5c6fb851ab1449_22033183',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6cde3405a83e54bc9e5af3924a8ce9acec0e049b' => 
     array (
       0 => 'module:poslistcategoriesviewstem',
-      1 => 1548364870,
+      1 => 1550465972,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c69aca9d2f029_57440696 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '4646435135c69aca9d1efb4_58658996';
+function content_5c6fb851ab1449_22033183 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '13652860685c6fb851aa1f48_81543467';
 ?>
 
 <div class="poslistcategories">
