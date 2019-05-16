@@ -1,0 +1,7 @@
+.kb_error_field {
+    border: 1px solid #F44336 !important;
+}
+
+.kb_error_message {
+    color: #F44336;
+}

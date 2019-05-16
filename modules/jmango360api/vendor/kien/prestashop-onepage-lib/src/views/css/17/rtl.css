@@ -1,0 +1,15 @@
+.step-title .section-control{
+    left:0;
+    right:auto;
+}
+.step-title .step-number-wrapper{
+    padding-left:0.5em;
+    padding-right:0;
+}
+.form-list .custom-checkbox span + label{
+    text-align:right;
+    margin: 0px 20px 0 0 !important;
+}
+.ladda-button .ladda-spinner{
+    margin-left: -16px !important;
+}

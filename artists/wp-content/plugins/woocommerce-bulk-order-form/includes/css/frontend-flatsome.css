@@ -1,0 +1,11 @@
+.wcbulkorderform .selectize-input input {
+	height: auto;
+}
+
+.wcbulkorderform .wc_bof_product_name .selectize-control {
+	margin-bottom: -4px;
+}
+
+.wcbof_action_btn {
+	margin-right: 1em;
+}

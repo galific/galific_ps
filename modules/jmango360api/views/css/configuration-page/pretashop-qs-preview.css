@@ -1,0 +1,91 @@
+.pretashop-qs-preview-app .title-block {
+    padding-bottom: 15px!important;
+}
+.pretashop-qs-preview-app .preview-app-main-content {
+    display: table;
+    width: 100%;
+}
+.pretashop-qs-preview-app .preview-app-col-left {
+    float: left;
+    width: 65%;
+    padding-right: 30px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content {
+    display: table;
+    width: 100%;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-1 {
+    padding-bottom: 45px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-1 .title {
+    font-size: 17px;
+    margin-bottom: 8px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-1 .desc {
+    line-height: 16px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 {
+    padding-bottom: 20px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .image {
+    float: left;
+    width: 126px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail {
+    margin-left: 130px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail .title {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail .desc {
+    line-height: 16px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail .btn-action-buttons {
+    margin-top: 10px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail .btn-action-buttons a {
+    display: inline-block;
+    height: 38px;
+    line-height: 36px;
+    border: 1px solid #e3e3e3;
+    background: #fafafa;
+    border-radius: 2px;
+    padding: 0 15px;
+    color: #757576;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 5px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail .btn-action-buttons a.btn-google-store {
+    background: url(../../img/backend_pretashop_qs/icon-google-play.png) 13px center scroll no-repeat #fafafa;
+    padding-left: 34px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-2 .detail .btn-action-buttons a.btn-apple-store {
+    background: url(../../img/backend_pretashop_qs/icon-apple-store.png) 19px center scroll no-repeat #fafafa;
+    padding-left: 38px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-3 .line-1 {
+    padding-bottom: 40px;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-3 a {
+    color: #4a90e2;
+    font-weight: 600;
+    text-decoration: none;
+}
+.pretashop-qs-preview-app .preview-app-col-left .row-content-3 a:hover {
+    color: #2275d7;
+}
+.pretashop-qs-preview-app .preview-app-col-right {
+    float: right;
+    width: 35%;
+    padding-left: 30px;
+    border-left: 1px solid #e0e0e0;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom:20px;
+}
+.pretashop-qs-preview-app .preview-app-col-right .image {
+    text-align: center;
+}

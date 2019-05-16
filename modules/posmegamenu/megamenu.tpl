@@ -73,7 +73,7 @@
 </div>
 {/if}
 <!-- /Block categories module -->
-<div class="nav-container hidden-md-down">
+<div class="nav-container hidden-md-down clearfix">
 	<div class="nav-inner">
 		<div id="pt_custommenu" class="pt_custommenu">
 		    {$megamenu nofilter}

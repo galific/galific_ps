@@ -1,0 +1,115 @@
+.btn:focus {
+    outline: none!important;
+}
+.pretashop-qs-business-question .form-fields {
+    padding-top: 10px;
+}
+.pretashop-qs-business-question .form-fields .form-field {
+    position: relative;
+    padding-right: 35px;
+    padding-bottom: 35px;
+}
+.pretashop-qs-business-question .form-fields .form-field .sucess-msg {
+    display: none;
+    color: #7bc12f;
+    position: absolute;
+    right: 0;
+    top: 0;
+    line-height: 50px;
+    font-size: 17px;
+}
+.pretashop-qs-business-question .form-fields .form-field .error-business-info {
+    display: none;
+    font-size: 13px;
+    color: #d0021b;
+    position: absolute;
+    left: 3px;
+    top: -25px;
+    white-space: nowrap;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question {
+    position: relative;
+    width: 100% !important;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.invalid button.dropdown-toggle {
+    border: 1px solid #d0021b;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question button.dropdown-toggle {
+    background: #fff !important;
+    border: 1px solid #e4e5e7;
+    border-radius: 3px;
+    line-height: 50px;
+    height: 52px;
+    padding: 0 23px;
+    box-shadow: none !important;
+    position: relative;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    width:100%;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question button.dropdown-toggle .caret {
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    margin-top: 0;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question button.dropdown-toggle .caret:before {
+    font-family: FontAwesome;
+    content: "\f107";
+}
+.pretashop-qs-business-question .bootstrap-select.business-question button.dropdown-toggle:hover {
+    opacity: 1;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question button.dropdown-toggle:before {
+    width: calc(100% - 40px);
+    left: 20px;
+    content: '';
+    border-bottom: 1px solid #d9d9d9;
+    bottom: 0;
+    position: absolute;
+    display: none;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question div.dropdown-menu {
+    box-shadow: none !important;
+    border: 1px solid #e4e5e7;
+    margin: 0;
+    padding: 5px 0;
+    font-size: 13px;
+    width:100%;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question .dropdown-menu {
+    font-size: inherit;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question .dropdown-menu li a {
+    line-height: 20px;
+    padding: 5px 23px;
+    color: inherit;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.open:not(.dropup) button.dropdown-toggle {
+    border-radius: 3px 3px 0 0;
+    border-bottom: 1px solid #fff;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.open:not(.dropup) button.dropdown-toggle:before {
+    display: block;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.open:not(.dropup) .dropdown-menu {
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #fff;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.open.dropup button.dropdown-toggle {
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #fff;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.open.dropup button.dropdown-toggle:before {
+    display: block;
+    bottom: auto;
+    top: 0;
+}
+.pretashop-qs-business-question .bootstrap-select.business-question.open.dropup .dropdown-menu {
+    border-radius: 3px 3px 0 0;
+    border-bottom: 1px solid #fff;
+}

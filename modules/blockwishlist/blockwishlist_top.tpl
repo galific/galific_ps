@@ -40,5 +40,10 @@ var mywishlist_url='{$link->getModuleLink('blockwishlist', 'mywishlist', array()
 <a class="wishtlist_top" href="{$link->getModuleLink('blockwishlist', 'mywishlist', array(), true)|escape:'html':'UTF-8'}">
     <i class="ion-android-favorite-outline"></i>
     <span class="cart-wishlist-number">{$count_product}</span>
+    <small style="position: absolute;
+    left: -2px;
+    top: 33px;
+    color: #fff;">Wishlist</small>
+
 </a>
 </div>

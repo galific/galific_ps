@@ -1,0 +1,863 @@
+﻿app_text_sec,sec
+app_text_min,min
+app_text_hour,Ora
+apicall_954834405d762e3b854af89d3841eb2a,Cerere indisponibil?
+appcheckabandonedcart_0259a1bb6da0603027485ebdec0e64e3,Notificarea trimis? cu succes
+appcheckabandonedcart_32cc9bac41739e0edebc83e239783807,Setarea co? abandonate este dezactivat?
+appcheckabandonedcart_d5591d98b2f74d48205cfba7803045cf,Nu esti autorizat sa accesezi aceasta pagina
+apppayment_c91ceabee74d73ebaa1c93e38a108179,"Nu se pot înc?rca co?, co? de id-ul lipseste."
+apppayment_02d12101fb0f9afa9e6edb0fef748a42,"Nu se pot înc?rca co?, co? nu este valid."
+apppayment_5189067f57ecc2a8b0fed9324bb808ca,Adresa de expediere nu este valid?.
+apppayment_208a75cceeac8424211bff23a9c5fae9,E-mail client nu este valid?
+apppayment_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+apppayment_dd6b089a49908d671c3e9cc8dc5899ae,mesaj nevalid
+appaddaddress_5058fb0856b024c6a3c18d8e0c764157,adresa de expediere a fost actualizat cu succes.
+appaddaddress_51c3de87708e874610d18c0f70e525a3,adresa de expediere a fost adaugata cu succes.
+appaddaddress_432100411a1c9a89bf06133afe8b96ce,A ap?rut o eroare la ad?ugarea adresei.
+appaddaddress_eeabead01c6c6f25f22bf0b041df58a9,Trebuie s? v? înregistra?i cel pu?in un num?r de telefon.
+appaddaddress_66ed24fd1b91e55ae0ad7fdb4ed251c7,Aceast? ?ar? necesit? s? ales un stat.
+appaddaddress_3dc3fe315fc270e7425b12e157e4619d,Aceast? ?ar? nu este activ?.
+appaddaddress_78f66140209a4979028fb80f21be5a44,Fermoarul / codul po?tal pe care \ 'am introdus este nevalid. Acesta trebuie s? urmeze acest format:% s
+appaddaddress_50b668816d2acbdb62484bb5ea5d25ab,Este nevoie de un cod po?tal / po?tal.
+appaddaddress_e6c1e151f2554afad6c0d551046650e8,Codul zip / po?tal este nevalid.
+appaddaddress_7c77177e0084c27161d63e7de535a1c6,Num?rul de identificare este incorect? sau a fost deja utilizat.
+appaddaddress_355169a606c66a6a39b8d23609f7329e,Alias-ul% s a fost deja utilizat. V? rug?m s? selecta?i altul.
+appaddaddress_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appaddaddress_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appaddgiftwrapping_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appaddgiftwrapping_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appaddgiftwrapping_6665e3761028c84e1d228de3432229ed,SKU
+appaddgiftwrapping_287234a1ff35a314b5b6bc4e5828e745,atribute
+appaddgiftwrapping_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appaddgiftwrapping_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appaddgiftwrapping_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appaddgiftwrapping_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appaddgiftwrapping_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appaddgiftwrapping_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appaddgiftwrapping_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appaddgiftwrapping_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appaddtocart_d0be3f6fa5d819a2a4b8cbf33ed465fe,Datele despre produs lipse?te
+appaddtocart_dfbe69c6d9568ecb0e65e7b32ed92a3a,Produsul nu a fost g?sit
+appaddtocart_b771481cd2413f3944a8dd1a7336a7a6,mesaj nevalid
+appaddtocart_884d700eec6bda171ce20acc5195fb3d,Ad?uga?i Cantitatea minim? de produs
+appaddtocart_92a8d89d9ecdd91b4cc4566666b16a60,Nu se poate ad?uga un produs în co?
+appaddtocart_d09302c4932f23969957f06289bfddb3,Produs ad?ugat cu succes
+appaddtowishlist_64d3e466dc798bae867ca9044b65822e,Nu se poate înc?rca produs
+appaddtowishlist_ac588dbf1ea617c2628b10c2406e0ed0,Modulul listei este fie inactiv sau nu este instalat.
+appaddtowishlist_b65db11517e70558e870ea4bc6dfbf0e,Clien?i cu acest e-mail nu este exist?.
+appaddtowishlist_0e042db7a9a38d0d1c833dd4c141d77d,Adresa de e-mail lipse?te sau este nevalid.
+appaddtowishlist_6cba49b790757be59e258de6d28fa078,Produs ad?ugat la lista de dorin?e
+appapplydelayshipping_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appapplydelayshipping_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appapplydelayshipping_6665e3761028c84e1d228de3432229ed,SKU
+appapplydelayshipping_287234a1ff35a314b5b6bc4e5828e745,atribute
+appapplydelayshipping_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appapplydelayshipping_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appapplydelayshipping_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appapplydelayshipping_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appapplydelayshipping_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appapplydelayshipping_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appapplydelayshipping_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appapplydelayshipping_824a96e60e7720c695e8c6f7abd856f4,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total este% 2s"
+appapplydelayshipping_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appapplyvoucher_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appapplyvoucher_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appapplyvoucher_6665e3761028c84e1d228de3432229ed,SKU
+appapplyvoucher_287234a1ff35a314b5b6bc4e5828e745,atribute
+appapplyvoucher_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appapplyvoucher_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appapplyvoucher_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appapplyvoucher_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appapplyvoucher_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appapplyvoucher_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appapplyvoucher_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appapplyvoucher_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appapplyvoucher_e15b9d349af7453e81350c8ffd2a7615,Trebuie s? introduce?i un cod de cupon
+appapplyvoucher_f49f486fa8a77bcf2d4506587422ed4f,Codul de cupon este nevalid
+appapplyvoucher_a866f5cd5e6f4bc4e3ccb09293101e4e,Voucherul aplicat cu succes în co?
+appapplyvoucher_e062b646b60fd5fffc3c21afe87eb2ce,Aceast? caracteristic? nu este activ? pentru acest voucher
+appcheckorderstatus_dfcd44bdec4088a7597f5a3d85c6d5bf,Nu se poate înc?rca co?
+appcheckorderstatus_430328c36edf7e197527273c216533a2,Comanda creat de acest co? de cump?r?turi
+appcheckorderstatus_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appcheckorderstatus_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appcheckout_3f324964e384daea4b317e5f179016df,Co?ul de identitate lipse?te
+appcheckout_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appcheckout_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appcheckout_63d5049791d9d79d86e9a108b0a999ca,Referin??
+appcheckout_287234a1ff35a314b5b6bc4e5828e745,atribute
+appcheckout_da7a26ae7679cdec15e19468cdc4c66d,Informa?ii Co? înc?rcate cu succes
+appcheckout_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appcheckout_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appcheckout_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appcheckout_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appcheckout_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appcheckout_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appcheckout_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appcheckout_f633584ed6ab75aa538bdf7c9269aac1,(Cost suplimentar de
+appcheckout_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appcheckout_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appcheckout_04f20f929ad93c8a94dbf706e05a9bd6,Nu se pot ob?ine detalii despre adresa de transport
+appcheckout_700c53d8cec1b1e9cf6c247944126166,A ap?rut o eroare la actualizarea co?.
+appcheckout_78c46e5c6e68799668e5b0af361e8e5d,Nu exist? purt?tori care livreaz? unor adrese selectate.
+appcheckout_3ce77aba56f064e8e177a01a7d88d415,Nu exist? purt?tori care livreaz? la o adres? selectat?.
+appcheckout_d049e05d0babc4c1643c4b36397be24d,Nu exist? purt?tori care livreaz? la adresa selectat?.
+appcheckout_51dfe3dfbcd0ea5974aba6663a660a2b,Nu livrare Metoda Obligatoriu
+appcheckout_b24ce0cd392a5b0b8dedc66c25213594,Liber
+appcheckout_6e15f72a51837e528df003792a367360,Nici o metoda valabila de livrare
+appcheckout_e01c4498102e120635a233f6ece469da,Nu se pot ob?ine detalii cu adresa de facturare
+appcore_453584dcf31a45f1a2285e736091ab88,Modulul Mobile App este dezactivat.
+appcore_eef6d0bfb2baac0933acaeb8386f3bf3,Modulul Mobile App este fie inactiv sau nu este instalat.
+appcore_de0d079814594c9a07785c5433b7830f,Nu se poate ob?ine lista de produse
+appcreateorder_3f324964e384daea4b317e5f179016df,Co?ul de identitate lipse?te
+appcreateorder_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appcreateorder_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appcreateorder_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appcreateorder_04d56d3845162acfb694a4a9e43652d2,"""Poate înc?rca \ t Starea comenzii"
+appcreateorder_bd46744c55c6dcf066dd125fedf954a6,Tasta securizat? nu se potrive?te
+appcreateorder_cd53515e3ac8aaa8cbef5e3d66d934e1,CartRule utilizat în acest co? de cump?r?turi nu este valid ?i a fost retras din co?
+appcreateorder_9056f5dba2507645e07d0c7b55c74c90,Co?ul este gol.
+appcreateorder_f7328eec8ea840e9eeafae3766e4bca9,?ara Adresa de livrare nu este activ.
+appcreateorder_21117dd42fc79f46a81ccb5f7d66c460,Comanda nu poate fi creat
+appcreateorder_a6addeb40ed0462485e6e95ba6def81f,"Eroare la plata, pentru economisire"
+appcreateorder_845c771e8459c46db334e5ad7bbad9b8,Comanda fost creat cu succes
+appcreateorder_b08d3867be98e6fff3233cd40ab8134a,crearea de Comand? a e?uat
+appcreateorder_43423b4056880b08f2c9aa50d8670531,Co?ul nu pot fi înc?rcate sau o comand? a fost deja plasat folosind acest co? de cump?r?turi
+appforgotpassword_e267e2be02cf3e29f4ba53b5d97cf78a,Adresa email invalida.
+appforgotpassword_b51cb75f23091c0f98bea54ae7615080,Nu exist? nici un cont înregistrat pentru aceast? adres? de e-mail.
+appforgotpassword_194496a52d41fba1c9e6140c4eb34f83,Nu pute?i regenera parola pentru acest cont.
+appforgotpassword_922dc0515643fb69585b67281692644a,Pute?i regenera parola doar la fiecare% d minut (e)
+appforgotpassword_62a0ad9b46a5eed332c032b0c11ce07a,Un e-mail de confirmare a fost trimis la adresa:
+appforgotpassword_6e2fc94479ac0c63543886a235e3370c,A ap?rut o eroare la trimiterea de e-mail.
+appforgotpassword_ea3729ee448ef1d87bd298843f658749,Parametrul de e-mail nu este setat
+appgetaddressdetails_69fb27bd2e44f47a9ae98aa1695df278,Nu se pot înc?rca adresa
+appgetaddressdetails_c462960a6bd53db34f778d0562703ad3,TVA
+appgetaddressdetails_b60bb13a87fe3ae5463aeb0980a5a8a1,Numar de identificare
+appgetaddressdetails_e4eb5dadb6ee84c5c55a8edf53f6e554,Zip / Cod Po?tal
+appgetaddressdetails_20db0bfeecd8fe60533206a2b5e9891a,Nume
+appgetaddressdetails_8d3f5eff9c40ee315d452392bed5309b,Numele de familie
+appgetaddressdetails_dd7bf230fde8d4836917806aff6a6b27,Adresa
+appgetaddressdetails_846a54955f32846032981f8fe48c35ff,Adresa (linia 2)
+appgetaddressdetails_57d056ed0984166336b7879c2af3657f,Ora?
+appgetaddressdetails_59716c97497eb9694541f7c3d37b1a4d,?ar?
+appgetaddressdetails_46a2a41cc6e552044816a2d04634545d,Stat
+appgetaddressdetails_1c76cbfe21c6f44c1d1e59d54f3e4420,Companie
+appgetaddressdetails_fe66abce284ec8589e7d791185b5c442,Telefon fix
+appgetaddressdetails_41c2fff4867cc204120f001e7af20f7a,Telefon mobil
+appgetaddressdetails_0f68b904e33d9ac04605aecc958bcf52,Informatii suplimentare
+appgetaddressdetails_711ccfcebd3f316fa55e127061a1044a,Adresa din titlu
+appgetaddressdetails_37e084acb152f3e6a5877f861e08819e,Adresa înc?rcat cu succes
+appgetaddressform_c462960a6bd53db34f778d0562703ad3,TVA
+appgetaddressform_b60bb13a87fe3ae5463aeb0980a5a8a1,Numar de identificare
+appgetaddressform_e4eb5dadb6ee84c5c55a8edf53f6e554,Zip / Cod Po?tal
+appgetaddressform_20db0bfeecd8fe60533206a2b5e9891a,Nume
+appgetaddressform_8d3f5eff9c40ee315d452392bed5309b,Numele de familie
+appgetaddressform_dd7bf230fde8d4836917806aff6a6b27,Adresa
+appgetaddressform_846a54955f32846032981f8fe48c35ff,Adresa (linia 2)
+appgetaddressform_57d056ed0984166336b7879c2af3657f,Ora?
+appgetaddressform_59716c97497eb9694541f7c3d37b1a4d,?ar?
+appgetaddressform_46a2a41cc6e552044816a2d04634545d,Stat
+appgetaddressform_1c76cbfe21c6f44c1d1e59d54f3e4420,Companie
+appgetaddressform_fe66abce284ec8589e7d791185b5c442,Telefon fix
+appgetaddressform_41c2fff4867cc204120f001e7af20f7a,Telefon mobil
+appgetaddressform_0f68b904e33d9ac04605aecc958bcf52,Informatii suplimentare
+appgetaddressform_711ccfcebd3f316fa55e127061a1044a,Adresa din titlu
+appgetaddressform_958a1c94f27df673dc5b258b2b0cc528,Nu se pot ob?ine de stat pentru ?ar?
+appgetaddressform_69fb27bd2e44f47a9ae98aa1695df278,Nu se pot înc?rca adresa
+appgetaddressform_37e084acb152f3e6a5877f861e08819e,Adresa înc?rcat cu succes
+appgetcartdetails_08d0d87bfba2d0c58c04494fc2143cad,Scuze. Co?ul de identitate lipse?te
+appgetcartdetails_56ca67fde405db4d75fb5fc3350db81b,Scuze. Nu putem reînnoi comanda.
+appgetcartdetails_b22604f6ddd3fb79ff38568a5a0141e0,"Unele elemente nu mai sunt disponibile, ?i nu putem reînnoi comanda."
+appgetcartdetails_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appgetcartdetails_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appgetcartdetails_6665e3761028c84e1d228de3432229ed,SKU
+appgetcartdetails_287234a1ff35a314b5b6bc4e5828e745,atribute
+appgetcartdetails_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appgetcartdetails_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appgetcartdetails_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appgetcartdetails_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appgetcartdetails_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appgetcartdetails_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appgetcartdetails_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appgetcartdetails_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appgetcategorydetails_b22529647cbe4f4d260f349baec9d630,Categorie id lipse?te
+appgetcategorydetails_bd964ff97bc91ddd97289acc711b84f9,Termenul de c?utare este lipse?te
+appgetcustomeraddress_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appgetcustomeraddress_18dc0570e2b85b76ff5773027fd75248,Clientul nu exist? pentru aceast? adres? de e-mail.
+appgetfilters_b22529647cbe4f4d260f349baec9d630,Categorie id lipse?te
+appgetfilters_bd964ff97bc91ddd97289acc711b84f9,Termenul de c?utare este lipse?te
+appgethome_cf75826aa860140d05ad30996cf175e8,Top Sliders
+appgethome_2d9b9a764fb0be4be10e1b2fce63f561,cursor
+appgethome_7c0ad572fae721669da32e4ef439c1b4,Bannere Top
+appgethome_6ff29916f99fff9d2494d28e721ae77e,stindard
+appgethome_9a90d6756768c9c8b41e0db9a384c251,Produse Recomandate
+appgethome_1276c482cb32edf4fce51761a9792716,Produse speciale
+appgethome_26e2d291250a79cb9d62ae299ff7fffa,bestseller Produse
+appgethome_31d26a6487e08357bd771619e894b0c6,Sosiri noi
+appgethome_dfcd44bdec4088a7597f5a3d85c6d5bf,Nu se poate înc?rca co?
+appgethome_430328c36edf7e197527273c216533a2,Comanda creat de acest co? de cump?r?turi
+appgetmobilepaymentmethods_98ce442fb183c4de4fbe7d67e056b117,Nicio metod? de plat? este activat?
+appgetmobilepaymentmethods_5b7d532d6e7746d362b89e27cdb51a36,Nu Metode de plat? a fost configurat?
+appgetorderdetails_a237560ece5935da47dd1c9b1cea4d19,ID comand? lipse?te
+appgetorderdetails_5f34ed748b73efce4af2b84461f86d51,Nu se pot înc?rca detaliile comenzii
+appgetorders_ca3e85454678003dbdba2fbbb34ec11d,Nu se pot înc?rca istoricul comenzilor
+appgetorders_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appgetorders_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appgetorders_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appgetorders_6665e3761028c84e1d228de3432229ed,SKU
+appgetproductdetails_04ed5396be771c71ecc89b3beb627684,ID-ul produsului lipseste
+appgetproductdetails_dfbe69c6d9568ecb0e65e7b32ed92a3a,Produsul nu a fost g?sit
+appgetproductdetails_1be6f9eb563f3bf85c78b4219bf09de9,Marca
+appgetproductdetails_6665e3761028c84e1d228de3432229ed,SKU
+appgetproductdetails_9e2941b3c81256fac10392aaca4ccfde,Condi?ie
+appgetproductdetails_db5963a70dd965e53337043be1dcb991,"Acest produs nu este disponibil pe App, deoarece are fi?ier câmp de personalizare."
+appgetprofile_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appgetprofile_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appgetregions_958a1c94f27df673dc5b258b2b0cc528,Nu se pot ob?ine de stat pentru ?ar?
+appgetwishlist_ac588dbf1ea617c2628b10c2406e0ed0,Modulul listei este fie inactiv sau nu este instalat.
+appgetwishlist_b65db11517e70558e870ea4bc6dfbf0e,Clien?i cu acest e-mail nu este exist?.
+appgetwishlist_0e042db7a9a38d0d1c833dd4c141d77d,Adresa de e-mail lipse?te sau este nevalid.
+appgetwishlist_9db509ecd7d739938fdc3dda8bc12bc9,Nu g?sit în lista de dorin?e produs
+appguestregistration_164b06b3d14521584edbc4dda05b220d,V? rug?m s? furniza?i adresa de e-mail
+appguestregistration_e267e2be02cf3e29f4ba53b5d97cf78a,Adresa email invalida.
+appguestregistration_db8a6a25796eff7d9010bfe3774c2382,Un cont utilizând aceast? adres? de e-mail a fost deja înregistrat.
+applogin_96550f206ccd1c321be787e4f1875ed4,O adres? de e-mail necesar?.
+applogin_e267e2be02cf3e29f4ba53b5d97cf78a,Adresa email invalida.
+applogin_20aedd1e6de4dcf8d115b5a7424c58d7,Parola este necesara.
+applogin_e388a72d1abdd7af5f08b44ff698afbe,Parol? Invalid?.
+applogin_47d03b2e9a827c42170ba95d35af06d2,ISN contului dvs. \ 't disponibile în acest moment.
+applogin_802b207b05fe5cea22e11b9db804b33d,Autentificare esuata.
+applogin_23449e6c6fb211fb8bf12eae126cf555,Autentificare utilizatori cu succes
+appregisteruser_7ffc7db3c8072a468937761b9fa9583c,Nume nevalid.
+appregisteruser_5226b39ad81c6d482af27920b0d532ae,Nume nevalid.
+appregisteruser_e267e2be02cf3e29f4ba53b5d97cf78a,Adresa email invalida.
+appregisteruser_e388a72d1abdd7af5f08b44ff698afbe,Parol? Invalid?.
+appregisteruser_0984b2c0c7aa81adae4ab22b4c39d350,datele nu sunt disponibile pentru clien?i.
+appregisteruser_db8a6a25796eff7d9010bfe3774c2382,Un cont utilizând aceast? adres? de e-mail a fost deja înregistrat.
+appregisteruser_52255315e18d82f8e728722aae90ed1e,Clientul a fost creat cu succes.
+appremovedelayshipping_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appremovedelayshipping_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appremovedelayshipping_6665e3761028c84e1d228de3432229ed,SKU
+appremovedelayshipping_287234a1ff35a314b5b6bc4e5828e745,atribute
+appremovedelayshipping_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appremovedelayshipping_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appremovedelayshipping_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appremovedelayshipping_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appremovedelayshipping_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appremovedelayshipping_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appremovedelayshipping_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appremovedelayshipping_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appremovegiftwrapping_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appremovegiftwrapping_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appremovegiftwrapping_6665e3761028c84e1d228de3432229ed,SKU
+appremovegiftwrapping_287234a1ff35a314b5b6bc4e5828e745,atribute
+appremovegiftwrapping_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appremovegiftwrapping_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appremovegiftwrapping_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appremovegiftwrapping_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appremovegiftwrapping_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appremovegiftwrapping_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appremovegiftwrapping_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appremovegiftwrapping_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appremoveproduct_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appremoveproduct_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appremoveproduct_6665e3761028c84e1d228de3432229ed,SKU
+appremoveproduct_287234a1ff35a314b5b6bc4e5828e745,atribute
+appremoveproduct_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appremoveproduct_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appremoveproduct_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appremoveproduct_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appremoveproduct_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appremoveproduct_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appremoveproduct_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appremoveproduct_824a96e60e7720c695e8c6f7abd856f4,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total este% 2s"
+appremoveproduct_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appremoveproduct_83af0c74c4cd7eef63a11d3ba7e48fda,Datele despre produs lipsesc.
+appremoveproduct_f7ac9125e391518b45badf32ca5b152b,Id-ul produsului lipseste.
+appremoveproduct_dfbe69c6d9568ecb0e65e7b32ed92a3a,Produsul nu a fost g?sit
+appremoveproduct_0d38c90d843c787c0be14f790998210c,Trebuie s? ad?uga?i% cantitate minim? d
+appremoveproduct_3a3f4a8eb22f25c672d3af4e42df7d33,Produs eliminat cu succes
+appremovevoucher_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appremovevoucher_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appremovevoucher_6665e3761028c84e1d228de3432229ed,SKU
+appremovevoucher_287234a1ff35a314b5b6bc4e5828e745,atribute
+appremovevoucher_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appremovevoucher_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appremovevoucher_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appremovevoucher_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appremovevoucher_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appremovevoucher_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appremovevoucher_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appremovevoucher_824a96e60e7720c695e8c6f7abd856f4,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total este% 2s"
+appremovevoucher_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appremovevoucher_b718489ea250655f5a6de41d6ad9539e,Voucher eliminat cu succes
+appremovevoucher_15bddec15f9c9237c333ed66cf65baf6,A ap?rut o eroare la eliminarea voucher
+appremovewishlist_64d3e466dc798bae867ca9044b65822e,Nu se poate înc?rca produs
+appremovewishlist_ac588dbf1ea617c2628b10c2406e0ed0,Modulul listei este fie inactiv sau nu este instalat.
+appremovewishlist_b65db11517e70558e870ea4bc6dfbf0e,Clien?i cu acest e-mail nu este exist?.
+appremovewishlist_0e042db7a9a38d0d1c833dd4c141d77d,Adresa de e-mail lipse?te sau este nevalid.
+appremovewishlist_956d818758e07660a5885268e15c92a9,Produs eliminat din lista de dorin?e
+appreorder_56ca67fde405db4d75fb5fc3350db81b,Scuze. Nu putem reînnoi comanda.
+appreorder_b22604f6ddd3fb79ff38568a5a0141e0,"Unele elemente nu mai sunt disponibile, ?i nu putem reînnoi comanda."
+appreorder_1c5fea3a8662e49ee07edf2b7fd22eb5,Scuze. Nu putem reînnoi comanda. Id-ul comenzii lipse?te
+appreorder_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appreorder_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appreorder_6665e3761028c84e1d228de3432229ed,SKU
+appreorder_287234a1ff35a314b5b6bc4e5828e745,atribute
+appreorder_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appreorder_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appreorder_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appreorder_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appreorder_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appreorder_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appreorder_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appreorder_824a96e60e7720c695e8c6f7abd856f4,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total este% 2s"
+appreorder_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appsavegiftmessage_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appsavegiftmessage_15bddec15f9c9237c333ed66cf65baf6,A ap?rut o eroare la eliminarea voucher
+appsavegiftmessage_4af3f045da697ee7929661dd4dde0242,Mesaj pentru cadou salvat
+appsavegiftmessage_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appsavegiftmessage_6665e3761028c84e1d228de3432229ed,SKU
+appsavegiftmessage_287234a1ff35a314b5b6bc4e5828e745,atribute
+appsavegiftmessage_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appsavegiftmessage_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appsavegiftmessage_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appsavegiftmessage_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appsavegiftmessage_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appsavegiftmessage_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appsavegiftmessage_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appsavegiftmessage_824a96e60e7720c695e8c6f7abd856f4,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total este% 2s"
+appsavegiftmessage_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appsetbillingaddress_3f324964e384daea4b317e5f179016df,Co?ul de identitate lipse?te
+appsetbillingaddress_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appsetbillingaddress_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appsetbillingaddress_63d5049791d9d79d86e9a108b0a999ca,Referin??
+appsetbillingaddress_287234a1ff35a314b5b6bc4e5828e745,atribute
+appsetbillingaddress_da7a26ae7679cdec15e19468cdc4c66d,Informa?ii Co? înc?rcate cu succes
+appsetbillingaddress_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appsetbillingaddress_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appsetbillingaddress_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appsetbillingaddress_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appsetbillingaddress_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appsetbillingaddress_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appsetbillingaddress_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appsetbillingaddress_f633584ed6ab75aa538bdf7c9269aac1,(Cost suplimentar de
+appsetbillingaddress_bf804c0fa1807646b297f7be6843138f,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total de achizi?ie este% 2s"
+appsetbillingaddress_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appsetbillingaddress_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appsetbillingaddress_04f20f929ad93c8a94dbf706e05a9bd6,Nu se pot ob?ine detalii despre adresa de transport
+appsetbillingaddress_700c53d8cec1b1e9cf6c247944126166,A ap?rut o eroare la actualizarea co?.
+appsetbillingaddress_0383858ad9a560ca2ecb8066c1681807,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil: este prea greu. V? rug?m s? modifice co?ul de a reduce greutatea sa.
+appsetbillingaddress_942649e42a59a56bd717acc3fed307b8,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil?. V? rug?m s? modifice co?.
+appsetbillingaddress_7c013b3defbf4cec9cd69f2e99a8d84c,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil: dimensiunea acesteia nu se potrive?te. V? rug?m s? modifice co?ul de a reduce dimensiunea sa.
+appsetbillingaddress_78c46e5c6e68799668e5b0af361e8e5d,Nu exist? purt?tori care livreaz? unor adrese selectate.
+appsetbillingaddress_3ce77aba56f064e8e177a01a7d88d415,Nu exist? purt?tori care livreaz? la o adres? selectat?.
+appsetbillingaddress_d049e05d0babc4c1643c4b36397be24d,Nu exist? purt?tori care livreaz? la adresa selectat?.
+appsetbillingaddress_51dfe3dfbcd0ea5974aba6663a660a2b,Nu livrare Metoda Obligatoriu
+appsetbillingaddress_b24ce0cd392a5b0b8dedc66c25213594,Liber
+appsetbillingaddress_6e15f72a51837e528df003792a367360,Nici o metoda valabila de livrare
+appsetbillingaddress_e01c4498102e120635a233f6ece469da,Nu se pot ob?ine detalii cu adresa de facturare
+appsetshippingaddress_3f324964e384daea4b317e5f179016df,Co?ul de identitate lipse?te
+appsetshippingaddress_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appsetshippingaddress_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appsetshippingaddress_63d5049791d9d79d86e9a108b0a999ca,Referin??
+appsetshippingaddress_287234a1ff35a314b5b6bc4e5828e745,atribute
+appsetshippingaddress_da7a26ae7679cdec15e19468cdc4c66d,Informa?ii Co? înc?rcate cu succes
+appsetshippingaddress_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appsetshippingaddress_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appsetshippingaddress_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appsetshippingaddress_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appsetshippingaddress_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appsetshippingaddress_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appsetshippingaddress_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appsetshippingaddress_f633584ed6ab75aa538bdf7c9269aac1,(Cost suplimentar de
+appsetshippingaddress_bf804c0fa1807646b297f7be6843138f,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total de achizi?ie este% 2s"
+appsetshippingaddress_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appsetshippingaddress_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appsetshippingaddress_04f20f929ad93c8a94dbf706e05a9bd6,Nu se pot ob?ine detalii despre adresa de transport
+appsetshippingaddress_700c53d8cec1b1e9cf6c247944126166,A ap?rut o eroare la actualizarea co?.
+appsetshippingaddress_0383858ad9a560ca2ecb8066c1681807,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil: este prea greu. V? rug?m s? modifice co?ul de a reduce greutatea sa.
+appsetshippingaddress_942649e42a59a56bd717acc3fed307b8,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil?. V? rug?m s? modifice co?.
+appsetshippingaddress_7c013b3defbf4cec9cd69f2e99a8d84c,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil: dimensiunea acesteia nu se potrive?te. V? rug?m s? modifice co?ul de a reduce dimensiunea sa.
+appsetshippingaddress_78c46e5c6e68799668e5b0af361e8e5d,Nu exist? purt?tori care livreaz? unor adrese selectate.
+appsetshippingaddress_3ce77aba56f064e8e177a01a7d88d415,Nu exist? purt?tori care livreaz? la o adres? selectat?.
+appsetshippingaddress_d049e05d0babc4c1643c4b36397be24d,Nu exist? purt?tori care livreaz? la adresa selectat?.
+appsetshippingaddress_51dfe3dfbcd0ea5974aba6663a660a2b,Nu livrare Metoda Obligatoriu
+appsetshippingaddress_b24ce0cd392a5b0b8dedc66c25213594,Liber
+appsetshippingaddress_6e15f72a51837e528df003792a367360,Nici o metoda valabila de livrare
+appsetshippingaddress_e01c4498102e120635a233f6ece469da,Nu se pot ob?ine detalii cu adresa de facturare
+appsetshippingmethod_3f324964e384daea4b317e5f179016df,Co?ul de identitate lipse?te
+appsetshippingmethod_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appsetshippingmethod_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appsetshippingmethod_63d5049791d9d79d86e9a108b0a999ca,Referin??
+appsetshippingmethod_287234a1ff35a314b5b6bc4e5828e745,atribute
+appsetshippingmethod_da7a26ae7679cdec15e19468cdc4c66d,Informa?ii Co? înc?rcate cu succes
+appsetshippingmethod_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appsetshippingmethod_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appsetshippingmethod_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appsetshippingmethod_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appsetshippingmethod_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appsetshippingmethod_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appsetshippingmethod_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appsetshippingmethod_f633584ed6ab75aa538bdf7c9269aac1,(Cost suplimentar de
+appsetshippingmethod_bf804c0fa1807646b297f7be6843138f,"Este nevoie de un total minim de achizi?ie% 1s pentru a valida comanda, curent total de achizi?ie este% 2s"
+appsetshippingmethod_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appsetshippingmethod_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appsetshippingmethod_04f20f929ad93c8a94dbf706e05a9bd6,Nu se pot ob?ine detalii despre adresa de transport
+appsetshippingmethod_700c53d8cec1b1e9cf6c247944126166,A ap?rut o eroare la actualizarea co?.
+appsetshippingmethod_0383858ad9a560ca2ecb8066c1681807,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil: este prea greu. V? rug?m s? modifice co?ul de a reduce greutatea sa.
+appsetshippingmethod_942649e42a59a56bd717acc3fed307b8,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil?. V? rug?m s? modifice co?.
+appsetshippingmethod_7c013b3defbf4cec9cd69f2e99a8d84c,Selec?ia de produs nu poate fi livrat de transportator (e) disponibil: dimensiunea acesteia nu se potrive?te. V? rug?m s? modifice co?ul de a reduce dimensiunea sa.
+appsetshippingmethod_78c46e5c6e68799668e5b0af361e8e5d,Nu exist? purt?tori care livreaz? unor adrese selectate.
+appsetshippingmethod_3ce77aba56f064e8e177a01a7d88d415,Nu exist? purt?tori care livreaz? la o adres? selectat?.
+appsetshippingmethod_d049e05d0babc4c1643c4b36397be24d,Nu exist? purt?tori care livreaz? la adresa selectat?.
+appsetshippingmethod_51dfe3dfbcd0ea5974aba6663a660a2b,Nu livrare Metoda Obligatoriu
+appsetshippingmethod_b24ce0cd392a5b0b8dedc66c25213594,Liber
+appsetshippingmethod_6e15f72a51837e528df003792a367360,Nici o metoda valabila de livrare
+appsetshippingmethod_e01c4498102e120635a233f6ece469da,Nu se pot ob?ine detalii cu adresa de facturare
+appsociallogin_bc9b4a91502bd9531dc9d7b544855a7a,date sociale nu sunt disponibile.
+appsociallogin_23449e6c6fb211fb8bf12eae126cf555,Autentificare utilizatori cu succes
+appupdateaddress_5058fb0856b024c6a3c18d8e0c764157,adresa de expediere a fost actualizat cu succes.
+appupdateaddress_432100411a1c9a89bf06133afe8b96ce,A ap?rut o eroare la ad?ugarea adresei.
+appupdateaddress_eeabead01c6c6f25f22bf0b041df58a9,Trebuie s? v? înregistra?i cel pu?in un num?r de telefon.
+appupdateaddress_66ed24fd1b91e55ae0ad7fdb4ed251c7,Aceast? ?ar? necesit? s? ales un stat.
+appupdateaddress_3dc3fe315fc270e7425b12e157e4619d,Aceast? ?ar? nu este activ?.
+appupdateaddress_78f66140209a4979028fb80f21be5a44,Fermoarul / codul po?tal pe care \ 'am introdus este nevalid. Acesta trebuie s? urmeze acest format:% s
+appupdateaddress_50b668816d2acbdb62484bb5ea5d25ab,Este nevoie de un cod po?tal / po?tal.
+appupdateaddress_e6c1e151f2554afad6c0d551046650e8,Codul zip / po?tal este nevalid.
+appupdateaddress_7c77177e0084c27161d63e7de535a1c6,Num?rul de identificare este incorect? sau a fost deja utilizat.
+appupdateaddress_355169a606c66a6a39b8d23609f7329e,Alias-ul% s a fost deja utilizat. V? rug?m s? selecta?i altul.
+appupdateaddress_a00acc9b49d721d1e3006715a0ce7014,Adresa de email nu este valid?
+appupdateaddress_dcf951059ca444f87d296d3b192783e6,Clien?i cu acest e-mail nu exista
+appupdatecartquantity_e61f52d02b9f52fbe1fd41ed320e29c3,Cos nu a fost g?sit
+appupdatecartquantity_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appupdatecartquantity_6665e3761028c84e1d228de3432229ed,SKU
+appupdatecartquantity_287234a1ff35a314b5b6bc4e5828e745,atribute
+appupdatecartquantity_604279a9bb5369542695f2ad9e6185ca,Pre? total (F?r? TVA.)
+appupdatecartquantity_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appupdatecartquantity_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appupdatecartquantity_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appupdatecartquantity_c6995d6cc084c192bc2e742f052a5c74,Transport gratuit!
+appupdatecartquantity_b602e0d0c6a72053d0a5be60cb2f8126,Taxa total?
+appupdatecartquantity_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appupdatecartquantity_ec1f68c64fcaf8260cfacf58cd4d4af7,Profita?i de ofertele noastre exclusive
+appupdatecartquantity_83af0c74c4cd7eef63a11d3ba7e48fda,Datele despre produs lipsesc.
+appupdatecartquantity_1f4c1c7eb53c734122abd654be5f8164,Cantitatea trebuie sa fie mai mare decât zero.
+appupdatecartquantity_dfbe69c6d9568ecb0e65e7b32ed92a3a,Produsul nu a fost g?sit
+appupdatecartquantity_91e6cde963af2000218553722fc7a093,Acest produs nu mai este disponibil.
+appupdatecartquantity_4d2c41ad87059d5fd9ea5283cee720a5,Acolo nu e \ 't produs în stoc suficient.
+appupdatecartquantity_0d38c90d843c787c0be14f790998210c,Trebuie s? ad?uga?i% cantitate minim? d
+appupdatecartquantity_de10fc28511b894f704c1a67fcff7b4f,Ave?i deja cantitatea maxim? disponibil? pentru acest produs.
+appupdatecartquantity_14d4a4be033fb0076188581e0ab67808,Produs actualizat cu succes
+appupdatecartquantity_ce395fa164eff74838bd51a583fb3b65,Nici o schimbare g?sit în cantitate.
+appupdateprofile_7ffc7db3c8072a468937761b9fa9583c,Nume nevalid.
+appupdateprofile_5226b39ad81c6d482af27920b0d532ae,Nume nevalid.
+appupdateprofile_54084a1c09c68221979d134e9613ef84,Parola pe care a-ti introdus-o este incorecta.
+appupdateprofile_f02a41f3e448d379e3c06d39bd3cc4de,Parola ?i confirmarea acesteia nu se potrivesc.
+appupdateprofile_626295ee4555407394df3e9998e1fc19,Parol? Invalid?
+appupdateprofile_c1e500b0e2c09aa39a86bb1a5ea129ca,Informa?ii personale actualizate cu succes.
+appupdateprofile_4a26ddbc1e75f300f27d3ba1f36fcb63,Informa?iile nu pot fi actualizate.
+appupdateprofile_c56f8985cdec11f87c16beebf6a58b62,Informa?iile personale lipsesc.
+appupdateprofile_b65db11517e70558e870ea4bc6dfbf0e,Clien?i cu acest e-mail nu este exist?.
+appupdateprofile_0e042db7a9a38d0d1c833dd4c141d77d,Adresa de e-mail lipse?te sau este nevalid.
+appgetaddressform_ae7bdef7fe2bbbbf02c11e92c5fceb40,Adresa mea
+appgetcartdetails_362dec2f2247134cd9d3cefbcb1c9a6e,Costul suplimentar al
+appgetfilters_9e2941b3c81256fac10392aaca4ccfde,Condi?ie
+appgetfilters_c0bd7654d5b278e65f21cf4e9153fdb4,Produc?tor
+appgetfilters_3601146c4e948c32b6424d2c0a7f0118,Pre?
+appgetorderdetails_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appgetorderdetails_6665e3761028c84e1d228de3432229ed,SKU
+appgetorderdetails_9dffbf69ffba8bc38bc4e01abf4b1675,Text
+appgetorderdetails_b0f79042ac83c64f3ccc42268c8ade26,Produse total
+appgetorderdetails_ada0f55ef37f4928c5cd970f378c15e8,total de tichete
+appgetorderdetails_7c166105b10b8a6a0c0f1c6540f5cd5e,ambalaj total cadou
+appgetorderdetails_f4e8b53a114e5a17d051ab84d326cae5,Transport total
+appgetorderdetails_f3547ae5e06426d87312eff7dda775aa,Pretul total
+appgetsellerproducts_26380f3c8aeeb67ff17d9f961e09e045,Vanzatorul ID-ul lipse?te
+appgetsellerproducts_a5d37da2d02dcb1893938c19016a3834,Vanzatorul nu a fost g?sit
+appgetsellerproducts_b1c94ca2fbc3e78fc30069c8d0f01680,Toate
+appgetsellerproducts_49ee3087348e8d44e1feda1917443987,Nume
+appgetsellerproducts_3601146c4e948c32b6424d2c0a7f0118,Pre?
+appgetsellerproducts_0c43922c2fd0b2886820ce8d59d0a425,A-Z
+appgetsellerproducts_b45a57134da0f07ba49d5b99713855fa,Z-A
+appgetsellerproducts_6b26ffddeab191d3a45e641f47ff780c,Sc?zut la ridicat
+appgetsellerproducts_4bc0df4deaccf71b305d791e1e3b6f76,Ridicat la sc?zut
+appgetsellerreviews_26380f3c8aeeb67ff17d9f961e09e045,Vanzatorul ID-ul lipse?te
+appgetsellerreviews_a5d37da2d02dcb1893938c19016a3834,Vanzatorul nu a fost g?sit
+appgetsellers_4c555a8b12ac7069095ae1dd3bf43c7e,Nu sunt men?ionate
+appsavesellerreview_26380f3c8aeeb67ff17d9f961e09e045,Vanzatorul ID-ul lipse?te
+appsavesellerreview_a5d37da2d02dcb1893938c19016a3834,Vanzatorul nu a fost g?sit
+appsavesellerreview_b494ce60923c04e8e4c91b0d47177d95,Logare ceruta
+appsavesellerreview_ffb5972c963f37cdc76e79c8ab636e74,Nu este în m?sur? s?-?i prezinte recenzia. Titlu sau un comentariu lipse?te.
+appsavesellerreview_ed24e2b88b32983fb74e58cbc7e02038,Nu se poate salva revizuirea ca op?iune este dezactivat? de administrator
+appsavesellerreview_dfcf16c470a033996c2d1b56340dc2d7,"Recenzia a fost trimis? cu succes ?i prezentate altora, dup? ob?inerea aprob?rii de la magazin."
+appsavesellerreview_63ef1b9280784b89d4476f66396fc5dd,Recenzia dvs. a fost trimis cu succes.
+appsavesellerreview_b4d8c9132ae2d46618be30173e75b6ef,"Chiar acum, sistemul nu putea trimite comentariul tau. V? rug?m s? încerca?i din nou mai târziu"
+contact-form_bbaff12800505b22a853e8b7f4eb6a22,a lua legatura
+contact-form_2273d1167a6212812d95dc8fadbae78e,Serviciu clien?i
+contact-form_d754a9e8cb640da12849a040f3ca8176,R?spunsul t?u
+contact-form_02d4482d332e1aef3437cd61c9bcc624,Contacteaza-ne
+contact-form_4ec1c39345fe8820d68463eea8803b0f,Mesajul a fost trimis cu succes la echipa noastr?.
+contact-form_7c9d4636fc5ed97bb78bc2aac486beab,Mesajul dvs. a fost deja trimis.
+contact-form_b3e4d8d61f99bac80e6aa1774d73445b,Trimite un mesaj
+contact-form_6c27c08f40e1b0d9901deb9ff5f722f7,Subiect Titlu
+contact-form_7bc873cba11f035df692c3549366c722,- Alegeti -
+contact-form_b357b524e740bc85b9790a0712d84a30,Adresa de email
+contact-form_5d4710f9a8250b13164a82c94d5b00d1,Comand?
+contact-form_deb10517653c255364175796ace3553f,Produs
+contact-form_13d6078da2e6592822ede083931d6826,Ataseaza fisier
+contact-form_4c2a8fe7eaf24721cc7a9f0175115bd4,Mesaj
+contact-form_94966d90747b97d1f0f206c98a8b1ac3,Trimite
+contact-form_f787618e514c038851726224d7e4421e,Niciun fisier selectat
+contact-form_e635032a5f71d809146d3872389f5b0c,Alege fi?ierul
+order-opc_a40cab5994f36d4c48103a22ca082e8f,Co?ul t?u de cump?r?turi
+order-opc_78fa1019f9a9759b45c76e186393756f,Noua comand? nu a fost acceptat?.
+order-opc_879f6b8877752685a966564d072f498f,Cosul de cumparaturi este gol.
+order-opc_1f87346a16cf80c372065de3c54c86d9,(taxe incluse.)
+order-opc_21034ae6d01a83e702839a72ba8a77b0,(f?r? taxe)
+order-opc_ea295188b69aa5e04810abcc38b2b2be,a fost selectat
+order-opc_9504d494016e17a6de7e7b51da637bc4,Nr operator de transport a fost selectat
+order-opc_238a062a6a2543fd85d6616a8506fbe8,Nu suport este necesar pentru aceast? comand?
+order-opc_2e75f367f058646a1ba2fd01ceb74423,Nu ave?i nevoie s? accepta?i Termenii de serviciu pentru aceast? comand?.
+order-opc_d236af51d8eac54fe7c366af1f6b358c,Termenii de serviciu au fost acceptate
+order-opc_25d8efaba32cb44a922a727f20eaa002,Termenii de servicii nu au fost acceptate
+order-opc_4ce81305b7edb043d0a7a5c75cab17d0,Exist?
+order-opc_fe816ec4b30c11a39edfd8b0a4cfab49,Error (s)
+order-opc_af0f5bdc5be121b9307687aeeae38c17,Adres? de livrare
+order-opc_601d8c4b9f72fc1862013c19b677a499,Adresa de facturare
+order-opc_449374f661344e843453c4e189ddeed8,Modifica?i adresa mea
+order-opc_d87f73e8ff8d933ed2ba5ddf25040827,Instant Checkout
+order-opc_ad52144224a9fb9e04b8b9ef22ce36f7,Va rugam sa incepeti prin a alege o adresa.
+order-opc_b24ce0cd392a5b0b8dedc66c25213594,Liber
+order-opc_da9d6ec2998a07c31ec9eb93c9f254ed,Adresa de facturare
+order-opc_8a8c9edb5531fa2f822295d1830d090f,adresa dumneavoastr? livrare
+order-opc_06933067aafd48425d67bcb01bba5cb6,Actualiza?i
+app_text_category_products,Categorie
+app_text_demo_app_user_form,V? rug?m s? completa?i detaliile!
+app_text_full_name_demo_app_user,Numele dumneavoastr?*
+app_text_email_demo_app_user,E-mail*
+app_text_store_url_demo_app_user,Adresa URL a magazinului *
+app_text_continue_demo_app_user_form,Continua
+app_text_invalid_url,A se p?stra URL nevalid!
+app_text_invalid_email,E-mail invalid!
+app_text_search,C?utare
+app_text_shopping_bag,Punga de cumparaturi
+app_text_check_out,Verific?
+app_text_no_internet,Problema cu internetul
+app_text_product_image_viewer,Produs Image Viewer
+app_text_payment_methods,Metode de plata
+app_text_wishlist,lista de dorin?e
+app_text_seller_comments,Vânz?tor Comentariu (s)
+app_text_home,Acas?
+app_text_category,Categorii
+app_text_login,Logare
+app_text_logout,Deconectare
+app_text_login_signup,Log In / Înregistrare
+app_text_account,Contul meu
+app_text_contact,Contacteaza-ne
+app_text_about,Despre noi
+app_text_add_to_wishlist,Adaug? la lista de dorin?e
+app_text_add_to_cart,Adaug? în co?
+app_text_off,de pe
+app_text_all,Toate
+app_text_languages,Limba (i)
+app_text_sort,Fel
+app_text_filter,Filtru
+app_text_sort_order,Selecta?i comanda Sortare
+app_text_price_asce,Pret: Mic la Mare
+app_text_price_desc,Pret: Mare la Mic
+app_text_product,Produs
+app_text_select,Selecta?i
+app_text_instock,In stoc
+app_text_outstock,Stoc epuizat
+app_text_product_info,Informatii despre produs ?i îngrijire
+app_text_customization,Personalizare articol
+app_text_accessories,Accesorii
+app_text_view_less,Mai pu?ine
+app_text_view_more,Vezi mai mult
+app_text_provide_details,V? rug?m s? furniza?i detalii
+app_text_bag,Punga de cumparaturi
+app_text_apply_voucher,Se aplic? Voucher
+app_text_entry_voucher_code,Introduceti codul voucher-ului
+app_text_apply,aplica
+app_text_gift,Ambalaj pentru cadouri
+app_text_entry_message,Introduce?i mesajul
+app_text_available_first,Trimite produse disponibile mai întâi
+app_text_continue_shopping,Continua cumparaturile
+app_text_continue_checkout,Continu? la Google Checkout
+app_text_update_quantity,Actualizare Cantitate
+app_text_enter_quantity,Introdu cantitatea
+app_text_empty_cart,Co?ul de cump?r?turi de transport maritim este gol!
+app_text_goto_home,"Mergi la pagina principal?, mergi la pagina de început"
+app_text_review_your_order,Verifica-ti comanda
+app_text_add_new_shipping_address,Ad?uga?i o nou? adres?
+app_text_history,Detalii de expediere
+app_text_summary,Comanda Rezumat
+app_text_shipping_methods,Metode de expediere
+app_text_comment,Comanda Comentariu
+app_text_payment_summary,Sumarul platii
+app_text_proceed,Finaliza?i plata
+app_text_make_payment,Plateste
+app_text_congratulations,Felicit?ri
+app_text_addresses,Adresa (e)
+app_text_order_detail,Detaliile comenzii
+app_text_update_personal,Actualizare Detalii personale
+app_text_update_password,Actualizare parol?
+app_text_current_password,Parola actual?
+app_text_new_password,Parol? Nou?
+app_text_confirm_password,confirma parola
+app_text_cancel,Anulare
+app_text_save,Salva?i
+app_text_order_ref,Comand?
+app_text_status,stare
+app_text_placed,Pus pe
+app_text_reorder,Reordonarea
+app_text_order_details,Comanda Detalii
+app_text_status_history,Istoric Statut
+app_text_shipping_address,Adresa de transport
+app_text_order_summary,Comanda Rezumat
+app_text_shipping_method,Metod? de livrare
+app_text_payment_method,Modalitate de plat?
+app_text_gift_wrapping,Impachetarea cadourilor
+app_text_no_shipping_address,Nicio adres? de expediere disponibil?!
+app_text_no_order_details,Nu exist? detalii de ordine disponibile!
+app_text_signup,Inscrie-te
+app_text_continue_guest,Continu? ca invitat
+app_text_email,E-mail
+app_text_password,Parola
+app_text_forgot_password,A?i uitat parola
+app_text_login_social_account,V? pute?i conecta cu contul social?.
+app_text_login_with_google,Autentific?-te cu Google+
+app_text_login_with_facebook,Logheaza-te cu Facebook
+app_text_signup_with_google,Inregistreaza-te cu Google+
+app_text_signup_with_facebook,Inscrie-te cu Facebook
+app_text_msg_enter_valid_email,V? rug?m s? introduce?i e-mail valid?!
+app_text_msg_enter_email,V? rug?m s? introduce?i adresa de email!
+app_text_msg_enter_password,Te rog introdu parola!
+app_text_msg_password_characters_less_than_3,V? rug?m s? introduce?i parola cu mai multe caractere care sau egal cu 3!
+app_text_msg_first_name,Nume
+app_text_msg_last_name,Numele de familie
+app_text_msg_dob,Data de nastere
+app_text_msg_confirm_password,confirma parola
+app_text_msg_personal_details,Detalii personale
+app_text_msg_pass_not_matched,Parola ?i parola de confirmare nu corespund!
+app_text_sold_by,Vandut de:
+app_text_write_review,Scrie o recenzie
+app_text_view_review,Vezi Review (s)
+app_text_view_seller_products,Vezi Vanzatorul Produs (e)
+app_text_wait,Te rog asteapta
+app_text_loading,Înc?rcare date...
+app_text_msg_went_wrong,Ceva n-a mers bine. V? rug?m s? încerca?i din nou.
+app_text_msg_no_internet_found,Nu exist? nicio conexiune la internet g?sit.
+app_text_msg_no_internet_title,Fara Internet
+app_text_msg_request,Solicitarea nu poate fi proces. Acest lucru ar putea fi din cauza conexiune lent? la internet.
+app_text_msg_order_placed_email,Comanda a fost plasat? successfully.You va primi un e-mail cu privire la acela?i lucru.
+app_text_msg_product_look,Poti sa te uiti pentru produsul (e) de categoria lor.
+app_text_msg_search_product,Pute?i c?uta orice produs în magazin prin text sau voce!
+app_text_msg_view_cart,Pute?i vizualiza co?ul de cump?r?turi cu cantitate!
+app_text_msg_logout,Sunte?i logout cu succes!
+app_text_msg_view_product,Pute?i vizualiza produsul în list? sau în modul gril?!
+app_text_msg_sort_product,Pute?i sorta produs dup? pre? lor!
+app_text_msg_filter_product,Pute?i filtra produs (e) ca pe nevoia ta!
+app_text_text_next,Urm?tor ?
+app_text_text_okay,bine
+app_text_required,Necesar
+app_text_msg_rating,V? rug?m s? selecta?i de rating
+app_text_msg_add_cart,Pute?i ad?uga produsul în co? de cump?r?turi prin simpla clic pe butonul \ „Adauga in cos \“!
+app_text_msg_add_wishlist,Pute?i ad?uga produsul în lista de dorin?e prin simpla clic pe butonul \ „Adaug? în lista de dorin?e \“!
+app_text_msg_product_price,Pre?ul produsului a fost actualizat!
+app_text_msg_product_not_available,Acest produs nu este disponibil pentru comanda!
+app_text_msg_combination,Aceast? combina?ie nu exist? pentru acest produs. V? rug?m s? selecta?i o alt? combina?ie.
+app_text_msg_product_no_stock,Acest produs nu este disponibil în cantitatea dorit? sau nu în stoc!
+app_text_msg_out_stock,Unele dintre produsele din co? nu sunt disponibile în cantitatea dorit? sau nu în stoc. V? rug?m s? elimina?i astfel de produs (e) din co?!
+app_text_msg_checkout_products,Pute?i checkout produse în co?ul de cump?r?turi prin simpla click pe butonul „Deplasare la Checkout“.
+app_text_msg_apply_voucher,Pute?i aplica voucher la cosul de cumparaturi!
+app_text_msg_update_quantity,Pute?i actualiza cantitatea de produs sau elimina din co?ul de cump?r?turi!
+app_text_msg_view_details,"Pute?i vedea detaliile produsului, f?când clic pe imaginea produsului!"
+app_text_msg_success,Succes!
+app_text_msg_failure,Nerespectarea!
+app_text_msg_enter_quantity,V? rug?m s? introduce?i cantitatea
+app_text_quantity,Cantitate
+app_text_remove,Elimina
+app_text_customization_details,Personalizare Detalii
+app_text_msg_add_address,"Pute?i ad?uga o nou? adres? de expediere, f?când clic pe butonul!"
+app_text_msg_update_address,V? pute?i actualiza adresa de expediere!
+app_text_msg_select_address,Pute?i selecta orice adres? de expediere prin simpla clic pe ea!
+app_text_select_address_text,* V? rug?m s? selecta?i adresa de expediere pentru a revizui comanda.
+app_text_msg_no_product,Nu sunt produse disponibile!
+app_text_msg_no_comment_available,Nici un comentariu (e) disponibil?!
+app_text_msg_reset_password,Pute?i reseta parola f?când clic `Uita Password`
+app_text_msg_login,V? pute?i conecta în magazin de aici!
+app_text_msg_login_fb,"De asemenea, pute?i conecta în magazin din contul dvs. Facebook!"
+app_text_msg_login_google,"De asemenea, pute?i conecta în magazin din contul dvs. Google!"
+app_text_msg_update_profile,"Pute?i actualiza detaliile profilului, detaliile de livrare sau pentru a vedea detaliile comenzii de aici!"
+app_text_product_info_and_care,Informatii despre produs ?i îngrijire
+app_text_download,Descarca
+app_text_minimal_quantity,Cantitatea minim?
+app_text_seller_details,Detaliile vanzatorului
+app_text_pack_content,Con?inut de ambalaj
+app_text_submit,A depune
+app_text_msg_forget_password,Introdu adresa de e-mail asociat? contului. Face?i clic pe submit pentru a avea parola de e-mail pentru a v?.
+app_text_enter_your_email,Introduce?i adresa dvs. de email
+app_text_reset_password,Reseteaza parola
+app_text_view_selected_filter,"Pute?i vizualiza rezultatul dvs. filtru selectat, f?când clic pe aceast? imagine!"
+app_text_clear_selected_filter,"Pute?i ?terge filtrul aplicat, f?când clic pe aceast? imagine!"
+app_text_no_filter,Nu exist? filtre
+app_text_phone_number_required,* Trebuie s? se înregistreze cel pu?in un num?r de telefon
+app_text_refresh,Reîmprosp?ta
+app_text_internet_connection_failed,Conexiune internet a e?uat!
+app_text_internet_connection_problem,Ar putea exista unele probleme cu conexiunea la internet. Te rog verifica.
+app_text_cancel_transaction,Anulare tranzac?ie
+app_text_middle_of_payment,Sunte?i în mijlocul procesului de tranzac?ie de plat?. Chiar vrei anula?i tranzac?ia?
+app_text_yes,da
+app_text_no,Nu
+app_text_enter_your_comment,Introdu comentariul t?u
+app_text_msg_shipping_methods_unavailable,"Pentru unele produse (e), metodele de expediere nu sunt disponibile. V? rug?m s? elimina?i astfel de produs (e) din co? ?i încerca?i din nou."
+app_text_msg_select_shipping_methods,V? rug?m s? selecta?i metoda de expediere
+youtube_api_key,AIzaSyA1UXXtMmvYcsJpcUMCXRENdi_gDYXPpe0
+server_not_found,Serverul nu a fost gasit
+authorization_error,Eroare de autorizare
+check_internet_connection,Conexiune de re?ea Error.Please verifica?i conexiunea la internet
+parse_error,Eroare de analiz? în API
+app_text_share_log,Spune-le prietenilor Jurnal
+app_text_payment_failed_contact_support,Comanda dvs. nu a putut fi procesat?. suport de contact cu amabilitate pentru orice întreb?ri
+app_text_choose_payment_method,Alege metoda de plata
+app_text_no_payment_method,Nu Metoda (e) de plat? g?sit!
+app_text_no_payment_currently,Nu exist? nici o metod? de plat? în prezent.
+app_text_no_make_payment,Ai castigat \ 't s? fie în m?sur? s? fac? plata ca acest App mobil este de configurare pentru scopul demo.
+app_text_make_payment_after_select,Pute?i efectua plata dup? selectarea orice metod? de plat?!
+app_text_title_paypal_payment,PayPal Plata
+app_text_order_total_price,Comanda Pre? total
+app_text_user_cancelled_the_payment,Utilizatorul a anulat plata
+app_text_invalid_payment_try_again,plat? nevalid. V? rug?m s? încerca?i din nou
+app_text_wishlist_item_removed,Articolul a fost eliminat din lista de dorin?e.
+app_text_wishlist_item_added,Articolul a fost ad?ugat în lista de dorin?e
+app_text_subject,Hei Verifica?i asta!
+app_text_text_extra_share,Disponibil aici :
+app_text_share_intent_title,Ac?iune
+app_text_error_product_name_url,Numele produsului sau URL-ul poate fi gol.
+app_text_tag_error,Eroare
+app_text_view_your_store,Vezi un magazin?
+app_text_view_demo,Demonstra?ia
+app_text_currency,Moneda (e)
+app_text_same_as_shipping_details,La fel ca adresa de expediere
+app_text_billing_details,detalii de facturare
+app_text_shipping_addresses,Adresa de expediere (e)
+app_text_billing_addresses,Adresa de facturare (s)
+app_text_billing_address,Adresa De Facturare
+app_text_sellers,Vânz?tori
+app_text_seller,Vânz?tor
+app_text_seller_shipping_policy,Politic? de livrare
+app_text_seller_return_policy,Politica de returnare
+app_text_review_title,Titlu *
+app_text_review_comment,Cometariu *
+app_text_review_rating,Rating-ul *
+app_text_filter_products,Filtrul Produs (e)
+app_text_select_category,selecteaza categoria
+app_text_select_sort,Selecta?i Sort
+app_text_clear,clar
+app_text_edit,Edita?i | ×
+app_text_cart,Cart
+app_text_move_to_cart,Muta?i în co?
+app_text_no_shipping_method_available,Nici Metoda de expediere disponibil?
+app_text_module_not_installed,V? rug?m s? contacta?i administratorul site-ului pentru a vizualiza datele de pe aceast? pagin?.
+app_text_no_data_found,Nu s-au gasit date!
+app_text_enter_coupon_code,Introdu codul cuponului
+app_text_apply_coupon,Aplicare cupon
+app_text_add_more_in_cart,Ad?uga?i mai mult în co? pentru a plasa aceast? comand?
+app_text_shipping_details,Detalii de expediere
+app_text_choose_app_theme,Alege?i App Tema
+app_text_enter_store_url,Introduce?i URL-ul magazinului dvs.
+app_text_sample_store_url,Ex: http://your_store.com/
+app_text_downloads,Desc?rc?ri
+app_text_done,Terminat
+app_text_posted_on,Postat pe:
+app_text_commented_by,Comentat? de:
+app_text_seller_comment,Cometariu:
+app_text_open,Deschis
+app_text_order_status,Deschis
+app_text_special_products,Produse speciale
+app_text_product_information,Informa?ii despre produs
+app_text_featured_products,Produse Recomandate
+app_text_requested_gift_order,A?i solicitat ambalaj cadou pentru aceast? comand?
+app_text_step_one_of_three,pasul 1/3
+app_text_review_checkout,Revizuirea Checkout
+app_text_your_wishlist_is_empty,Lista de dorin?e este gol!
+app_text_no_shipping_method,Nici Metoda de expediere disponibil?
+app_text_no_order_found,Nici un ordin g?sit!
+app_text_percent_off,% off
+app_text_coupon_length_validation,caractere cod cupon trebuie s? fie mai mare sau egal cu 4.
+app_text_coupon_code_removed,reducere cupon a fost eliminat cu succes!
+app_text_facebook_login_cancelled,Facebook Login a fost anulat?.
+app_text_facebook_login_failure,Facebook Login Nerespectarea:
+app_text_login_failed,Autentificare esuata!
+app_text_wrong_url_install_mab,S-ar putea fi introdus o adres? URL gre?it? sau nu a?i instalat mobil modulul nostru de constructor App.
+app_text_install_module,Instala?i modulul
+app_text_text_loading,se incarca
+app_text_text_exception,Excep?ie:
+app_text_msg_reset_password_click,Pute?i reseta parola f?când clic pe \ „Ai uitat parola \“!
+app_text_login_from_here,V? pute?i conecta în magazin de aici!
+app_text_login_from_facebook_account,"De asemenea, pute?i conecta în magazin din contul dvs. Facebook!"
+app_text_login_from_google_account,"De asemenea, pute?i conecta în magazin din contul dvs. Google!"
+app_text_text_warning,Avertizare!
+app_text_update_address_if_exists,"V? pute?i actualiza adresa de expediere sau de a alege orice alt? adres?, dac? exist?!"
+app_text_continue_to_checkout_click_msg,Pute?i checkout produse în co?ul de cump?r?turi prin simpla clic pe butonul \ „Deplasare la Checkout \“!
+app_text_please_enter_store_url,V? rug?m s? introduce?i adresa URL a magazinului
+app_text_product_not_desired_quantity,Unele dintre produsele din co? nu sunt disponibile în cantitatea dorit? sau nu în stoc. V? rug?m s? elimina?i astfel de produs (e) din co?!
+app_text_select_shipping_methods,Selecta?i metoda de expediere (e)
+app_text_send_email,Trimite email...
+app_text_error_in_google_sign_in,Unele eroare în Google login.Please încerca?i din nou.
+app_text_process_payment_problem,A ap?rut o eroare în timpul proces?rii pl??ii. V? rug?m s? încerca?i din nou.
+app_text_text_state,Stat
+app_text_update_address,actualizarea adresei
+app_text_unit_price,Pre? unitar
+app_text_total_price,Pretul total
+app_text_text_totals,totaluri
+app_text_text_success,Succes!
+app_text_sale,Vânzare
+app_text_new,Nou
+app_text_title_payment_paypal,PayPal Plata
+app_text_extra_share,Disponibil aici :
+app_text_intent_title,Ac?iune
+app_text_ok,O.K
+app_text_choose_your_app_theme,Alege?i App Tema
+app_text_terms_and_conditions,Termeni si conditii de utilizare
+app_text_wishlist_only,lista de dorin?e
+app_text_wishlist_remove,Elimina?i din lista de dorin?e
+app_text_state_not_required,Statul nu este necesar pentru ?ara selectat?
+app_text_currencies,Moneda (e)
+app_text_payment_failed,A ap?rut o eroare în timpul proces?rii pl??ii. V? rug?m s? încerca?i din nou
+app_text_entered_wrong_url,S-ar putea fi introdus o adres? URL gre?it? sau nu a?i instalat mobil bodule nostru constructor app.
+app_text_choose_your_app_theme,Alege?i App Tema
+app_text_fill_all_required_fields,V? rug?m s? completa?i toate câmpurile obligatorii.
+appgetwishlist_694e8d1f2ee056f98ee488bdc4982d73,Cantitate
+appgetwishlist_6665e3761028c84e1d228de3432229ed,SKU
+appgetwishlist_287234a1ff35a314b5b6bc4e5828e745,atribute
+app_text_share_feedback,Feedback Share / cerere de modificare personalizat?
+app_text_install_whatsapp ,WhatsApp nu este instalat pe dispozitiv
+app_text_no_account_registered ,Nr de cont este înregistrat pentru autentificare biometric? în acest dispozitiv. V? rug?m s? înregistra?i mai întâi un cont.
+app_text_confirm_for_authentication ,Confirma?i amprenta digital? sau se confrunt? pentru a te autentifica.
+app_text_login_with_fingerprint ,Autentificare cu amprent? digital?
+app_text_register_for_fingerprint ,Înregistra?i-v? pentru amprent? digital? Autentificare
+app_text_biometric_not_available ,Autentificarea biometric? nu este disponibil? pentru acest dispozitiv.
+app_text_fingerprint_not_recognized ,"ID-ul Touch nu recunoa?te amprenta. V? rug?m încerca?i din nou, cu amprenta inscrisi."
+app_text_face_not_recognizes ,Face ID-ul nu recunoa?te fa?a. V? rug?m s? încerca?i din nou cu fa?a înscri?i.
+app_text_fingerprint_or_face_not_enrolled ,Nu amprentele digitale / fe?ei înscri?i în dispozitiv.
+app_text_biometry_locked_out ,"Func?ionalitatea este blocat acum, din cauza prea multe încerc?ri nereu?ite."
+app_text_register_for_fingerpring ,Înregistra?i-v? pentru amprent? digital?
+app_text_register_for_fingerprint_details ,"Nu dori?i s? v? înregistra?i acest cont pentru func?ionalitatea de amprent? digital?. Odat? ce a?i f?cut, v? pute?i autentifica în acest cont f?r? a utiliza ID-ul de e-mail sau parol?, folosind doar verificarea amprentelor digitale."
+app_text_register ,Inregistreaza-te
+app_text_verify ,Verifica
+app_text_get_otp ,Ob?ine?i OTP
+app_text_mobile_number ,Numar de mobil
+app_text_mobile_number_optional ,Num?r de telefon mobil (op?ional)
+app_text_error_number_verification ,Num?rul de mobil nu a putut fi verificat! V? rug?m încerca?i din nou cu num?rul corect OTP!
+app_text_phone_number_already_exists ,Num?rul de telefon este deja înregistrat. V? rug?m s? încerca?i din nou cu un alt num?r de telefon!
+app_text_number_verification ,Num?r de verificare
+app_text_number_verification_description ,Trebuie s? confirma?i num?rul de telefon. V? rug?m s? introduce?i num?rul de telefon ?i trimite
+app_text_login_with_phone_number ,Autentificare cu num?r de telefon
+app_text_fingerprint_not_available ,? Autentificare cu amprent? digital? nu este disponibil? în acest aparat!
+app_text_fingerprint_not_enrolled ,? Nu exist? amprente înregistrate în dispozitiv.
+app_text_android_marshmallow_required ,? Atleast Android Marshmallow este necesar? pentru a sprijini autentificarea cu amprent? digital?.
+app_text_fingerprint_error_try_again ,? Exist? o eroare cu amprent? digital?. V? rug?m s? încerca?i din nou sau s? continue f?r? amprent? digital?!
+app_text_fingerprint_wipe_sensor_try_again ,? S-ar putea fi unele praf de pe senzorul de amprent? digital?. V? rug?m s?-l ?terge?i ?i încerca?i din nou.
+app_text_place_your_finger_on_sensor ,? Pune?i degetul pe senzor pentru a continua

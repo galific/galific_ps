@@ -1,0 +1,36 @@
+[
+    {
+        "name": "kien/prestashop-api-lib",
+        "version": "dev-hotfix/1.18.7",
+        "version_normalized": "dev-hotfix/1.18.7",
+        "source": {
+            "type": "git",
+            "url": "git@gitlab.jmango360.com:kien.pham/prestashop-api-lib.git",
+            "reference": "f16e8de5639c3ecdf49fdaae68da32a81a89a3cb"
+        },
+        "time": "2019-04-11T02:46:49+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "proprietary"
+        ],
+        "description": "prestashop api library"
+    },
+    {
+        "name": "kien/prestashop-onepage-lib",
+        "version": "dev-hotfix/1.18.7",
+        "version_normalized": "dev-hotfix/1.18.7",
+        "source": {
+            "type": "git",
+            "url": "git@gitlab.jmango360.com:kien.pham/prestashop-onepage-lib.git",
+            "reference": "b14bb0f0f7a754a55477358907fefeb18be7b691"
+        },
+        "time": "2019-04-10T08:43:16+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "proprietary"
+        ],
+        "description": "prestashop onepage library"
+    }
+]

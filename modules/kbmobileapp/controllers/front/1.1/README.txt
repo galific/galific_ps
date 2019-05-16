@@ -1,0 +1,1 @@
+Version 1.7 of PrestaShop was not there for API version 1.1 this is why this folder is empty. APP version below 1.5 will not work with PrestaShop v1.7

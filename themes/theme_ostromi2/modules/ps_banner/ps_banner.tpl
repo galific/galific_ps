@@ -24,7 +24,7 @@
  *}
  <div class="banner-nav">
 	<span class="close_banner"><i class="material-icons">close</i></span>
-	<a class="banner" href="{$banner_link}" title="{$banner_desc}">
+	<a class="banner" style="text-align: center;" href="{$banner_link}" title="{$banner_desc}">
 	  {if isset($banner_img)}
 		<img src="{$banner_img}" alt="{$banner_desc}" title="{$banner_desc}" class="img-fluid">
 	  {else}

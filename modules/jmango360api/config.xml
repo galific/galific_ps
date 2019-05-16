@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>jmango360api</name>
+    <displayName><![CDATA[JMango360 Mobile App Builder]]></displayName>
+    <version><![CDATA[1.18.7]]></version>
+    <description><![CDATA[Create a native iOS and Android mobile app for your Prestashop webstore using the JMango360 plugin.]]></description>
+    <author><![CDATA[Prestashop Partners]]></author>
+    <tab><![CDATA[mobile]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

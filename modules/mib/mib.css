@@ -1,0 +1,31 @@
+/**
+ * PrestaShop module created by VEKIA, a guy from official PrestaShop community ;-)
+ *
+ * @author    VEKIA https://www.prestashop.com/forums/user/132608-vekia/
+ * @copyright 2010-9999 VEKIA
+ * @license   This program is not free software and you can't resell and redistribute it
+ *
+ * CONTACT WITH DEVELOPER http://mypresta.eu
+ * support@mypresta.eu
+ */
+
+.MyPrestaBrandsCarousel a {
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    opacity: 1.0;
+    display: block!important;
+    text-align: center!important;
+}
+
+.MyPrestaBrandsCarousel a:hover {
+    opacity: 0.7;
+}
+
+#mypresta_mib {
+    box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+    margin-bottom: 1.563rem;
+    background: #fff;
+    padding: 10px;
+    clear:both;
+}

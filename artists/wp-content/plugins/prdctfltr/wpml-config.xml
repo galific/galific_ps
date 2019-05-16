@@ -1,0 +1,23 @@
+<wpml-config>
+	<admin-texts>
+		<key name="prdctfltr_wc_default">
+			<key name="wc_settings_prdctfltr_title" />
+			<key name="wc_settings_prdctfltr_submit" />
+			<key name="wc_settings_prdctfltr_noproducts" />
+			<key name="wc_settings_prdctfltr_orderby_title" />
+			<key name="wc_settings_prdctfltr_orderby_description" />
+			<key name="wc_settings_prdctfltr_perpage_title" />
+			<key name="wc_settings_prdctfltr_perpage_description" />
+			<key name="wc_settings_prdctfltr_instock_title" />
+			<key name="wc_settings_prdctfltr_instock_description" />
+			<key name="wc_settings_prdctfltr_price_title" />
+			<key name="wc_settings_prdctfltr_price_description" />
+			<key name="wc_settings_prdctfltr_cat_title" />
+			<key name="wc_settings_prdctfltr_cat_description" />
+			<key name="wc_settings_prdctfltr_tag_title" />
+			<key name="wc_settings_prdctfltr_tag_description" />
+			<key name="wc_settings_prdctfltr_custom_tax_title" />
+			<key name="wc_settings_prdctfltr_custom_tax_description" />
+		</key>
+	</admin-texts>
+</wpml-config>

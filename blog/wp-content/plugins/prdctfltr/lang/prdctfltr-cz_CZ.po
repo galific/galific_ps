@@ -1,0 +1,2542 @@
+# Copyright (C) 2017 WooCommerce Product Filter
+# This file is distributed under the same license as the WooCommerce Product Filter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Filter 6.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/prdctfltr\n"
+"POT-Creation-Date: 2018-01-08 19:20:30+00:00\n"
+"PO-Revision-Date: 2017-08-03 11:56+0200\n"
+"Last-Translator: dzeriho@gmail.com <support@mihajlovicnenad.com>\n"
+"Language-Team: Language cz\n"
+"Language: cz_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/pf-characteristics.php:10
+msgctxt "taxonomy general name"
+msgid "Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:11
+msgctxt "taxonomy singular name"
+msgid "Characteristic"
+msgstr ""
+
+#: lib/pf-characteristics.php:12
+msgid "Search Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:13
+msgid "Popular Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:14
+msgid "All Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:17
+msgid "Edit Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:18
+msgid "Update Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:19
+msgid "Add New Characteristic"
+msgstr ""
+
+#: lib/pf-characteristics.php:20
+msgid "New Characteristic Name"
+msgstr ""
+
+#: lib/pf-characteristics.php:21
+msgid "Separate Characteristics with commas"
+msgstr ""
+
+#: lib/pf-characteristics.php:22
+msgid "Add or remove Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:23
+msgid "Choose from the most used Characteristics"
+msgstr ""
+
+#: lib/pf-characteristics.php:24
+msgid "No Characteristics found"
+msgstr ""
+
+#: lib/pf-characteristics.php:25 lib/pf-frontend.php:2749
+#: lib/pf-settings.php:152
+msgid "Characteristics"
+msgstr ""
+
+#: lib/pf-composer.php:9 lib/pf-settings.php:1988 lib/pf-settings.php:2083
+#: lib/pf-settings.php:2241 lib/pf-settings.php:2610 lib/pf-settings.php:3394
+#: lib/pf-settings.php:3476 lib/pf-settings.php:4858 lib/pf-widget.php:128
+msgid "Default"
+msgstr ""
+
+#. #-#-#-#-#  prdctfltr-en_UK.pot (WooCommerce Product Filter 6.5.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lib/pf-composer.php:45
+msgid "WooCommerce Product Filter"
+msgstr ""
+
+#: lib/pf-composer.php:48
+msgid "Content"
+msgstr ""
+
+#: lib/pf-composer.php:50
+msgid "All in one Product Filter for WooCommerce!"
+msgstr ""
+
+#: lib/pf-composer.php:56
+msgid "Show Filter"
+msgstr ""
+
+#: lib/pf-composer.php:69 lib/pf-settings.php:88 lib/pf-settings.php:3464
+msgid "Filter Preset"
+msgstr ""
+
+#: lib/pf-composer.php:79 lib/pf-settings.php:3404
+msgid "Show Categories"
+msgstr ""
+
+#: lib/pf-composer.php:92
+msgid "Category Columns"
+msgstr ""
+
+#: lib/pf-composer.php:102
+msgid "Show Products (Step Filter mode when set to NO)"
+msgstr ""
+
+#: lib/pf-composer.php:115
+msgid "Product Columns"
+msgstr ""
+
+#: lib/pf-composer.php:125
+msgid "Product Rows"
+msgstr ""
+
+#: lib/pf-composer.php:135 lib/pf-settings.php:1921
+msgid "Pagination"
+msgstr ""
+
+#: lib/pf-composer.php:149
+msgid "Ajax"
+msgstr ""
+
+#: lib/pf-composer.php:162 lib/pf-settings.php:1668 lib/pf-settings.php:1908
+msgid "Order By"
+msgstr ""
+
+#: lib/pf-composer.php:172
+msgid "Order"
+msgstr ""
+
+#: lib/pf-composer.php:182
+msgid "Min Price"
+msgstr ""
+
+#: lib/pf-composer.php:192
+msgid "Max Price"
+msgstr ""
+
+#: lib/pf-composer.php:202
+msgid "Product Category"
+msgstr ""
+
+#: lib/pf-composer.php:212
+msgid "Product Tag"
+msgstr ""
+
+#: lib/pf-composer.php:222
+msgid "Product Characteristics"
+msgstr ""
+
+#: lib/pf-composer.php:232
+msgid "Sale Products"
+msgstr ""
+
+#: lib/pf-composer.php:246
+msgid "Instock Products"
+msgstr ""
+
+#: lib/pf-composer.php:261
+msgid "HTTP Query"
+msgstr ""
+
+#: lib/pf-composer.php:271 lib/pf-settings.php:1642 lib/pf-settings.php:1648
+msgid "Custom Action"
+msgstr ""
+
+#: lib/pf-composer.php:281
+msgid "Show Loop Title"
+msgstr ""
+
+#: lib/pf-composer.php:294
+msgid "Show Loop Price"
+msgstr ""
+
+#: lib/pf-composer.php:307
+msgid "Show Loop Rating"
+msgstr ""
+
+#: lib/pf-composer.php:320
+msgid "Show Loop Add to Cart"
+msgstr ""
+
+#: lib/pf-composer.php:333
+msgid "Fallback CSS (If columns option is not working)"
+msgstr ""
+
+#: lib/pf-composer.php:359
+msgid "Disable Preset Overrides"
+msgstr ""
+
+#: lib/pf-composer.php:372
+msgid "Bottom Margin"
+msgstr ""
+
+#: lib/pf-composer.php:382
+msgid "Shortcode ID"
+msgstr ""
+
+#: lib/pf-composer.php:392
+msgid "Class"
+msgstr ""
+
+#: lib/pf-composer.php:423
+msgid "Product Filter - Activate"
+msgstr ""
+
+#: lib/pf-composer.php:436
+msgid "Product Filter - Ajax"
+msgstr ""
+
+#: lib/pf-composer.php:448
+msgid "Product Filter - Select Preset"
+msgstr ""
+
+#: lib/pf-composer.php:457
+msgid "Product Filter - Pagination"
+msgstr ""
+
+#: lib/pf-frontend.php:436
+msgid "Close filter"
+msgstr ""
+
+#: lib/pf-frontend.php:437
+msgid "Filter terms"
+msgstr ""
+
+#: lib/pf-frontend.php:438 lib/pf-settings.php:75
+msgid "AJAX Error!"
+msgstr ""
+
+#: lib/pf-frontend.php:439
+msgid "Show More"
+msgstr ""
+
+#: lib/pf-frontend.php:440
+msgid "Show Less"
+msgstr ""
+
+#: lib/pf-frontend.php:441 lib/pf-frontend.php:3000 lib/pf-frontend.php:3003
+msgid "No products found!"
+msgstr ""
+
+#: lib/pf-frontend.php:442
+msgid "Clear all filters"
+msgstr ""
+
+#: lib/pf-frontend.php:443
+msgid "Show products"
+msgstr ""
+
+#: lib/pf-frontend.php:2218
+msgid "Filter selected"
+msgstr ""
+
+#: lib/pf-frontend.php:2228
+msgid "Show only products on sale"
+msgstr ""
+
+#: lib/pf-frontend.php:2240
+msgid "Show out of stock products"
+msgstr ""
+
+#: lib/pf-frontend.php:2243
+msgid "In stock only"
+msgstr ""
+
+#: lib/pf-frontend.php:2271 lib/pf-frontend.php:2811 lib/pf-frontend.php:3414
+#: lib/pf-frontend.php:3417 lib/pf-frontend.php:4231 lib/pf-frontend.php:4234
+#: lib/pf-frontend.php:4296 lib/pf-frontend.php:4351 lib/pf-settings.php:1991
+#: lib/pf-settings.php:2394 lib/pf-settings.php:4857 lib/pf-settings.php:4888
+#: lib/pf-settings.php:5329
+msgid "None"
+msgstr ""
+
+#: lib/pf-frontend.php:2465
+msgid "trillion"
+msgstr ""
+
+#: lib/pf-frontend.php:2468
+msgid "billion"
+msgstr ""
+
+#: lib/pf-frontend.php:2471
+msgid "million"
+msgstr ""
+
+#: lib/pf-frontend.php:2474
+msgid "thousand"
+msgstr ""
+
+#: lib/pf-frontend.php:2743 lib/pf-settings.php:146
+msgid "Categories"
+msgstr ""
+
+#: lib/pf-frontend.php:2746 lib/pf-settings.php:149
+msgid "Tags"
+msgstr ""
+
+#: lib/pf-frontend.php:2793 lib/pf-settings.php:4847
+msgid "All Products"
+msgstr ""
+
+#: lib/pf-frontend.php:2794 lib/pf-settings.php:2551 lib/pf-settings.php:4848
+msgid "In Stock"
+msgstr ""
+
+#: lib/pf-frontend.php:2795 lib/pf-settings.php:4849
+msgid "Out Of Stock"
+msgstr ""
+
+#: lib/pf-frontend.php:2812 lib/pf-settings.php:2611 lib/pf-settings.php:4859
+msgid "Review Count"
+msgstr ""
+
+#: lib/pf-frontend.php:2813 lib/pf-settings.php:2612 lib/pf-settings.php:4860
+msgid "Popularity"
+msgstr ""
+
+#: lib/pf-frontend.php:2814 lib/pf-settings.php:2613 lib/pf-settings.php:4861
+msgid "Average rating"
+msgstr ""
+
+#: lib/pf-frontend.php:2815 lib/pf-settings.php:2614 lib/pf-settings.php:4862
+msgid "Newness"
+msgstr ""
+
+#: lib/pf-frontend.php:2816 lib/pf-settings.php:2615 lib/pf-settings.php:4863
+msgid "Price: low to high"
+msgstr ""
+
+#: lib/pf-frontend.php:2817 lib/pf-settings.php:2616 lib/pf-settings.php:4864
+msgid "Price: high to low"
+msgstr ""
+
+#: lib/pf-frontend.php:2818 lib/pf-settings.php:2617 lib/pf-settings.php:4865
+msgid "Random Products"
+msgstr ""
+
+#: lib/pf-frontend.php:2819 lib/pf-settings.php:2618 lib/pf-settings.php:4866
+msgid "Product Name"
+msgstr ""
+
+#: lib/pf-frontend.php:3007
+msgid "Found a single result"
+msgstr ""
+
+#: lib/pf-frontend.php:3010
+msgid "Showing the single result"
+msgstr ""
+
+#: lib/pf-frontend.php:3015 lib/pf-frontend.php:3023
+msgid "Found"
+msgstr ""
+
+#: lib/pf-frontend.php:3015 lib/pf-frontend.php:3018 lib/pf-frontend.php:3023
+#: lib/pf-frontend.php:3026
+msgid "results"
+msgstr ""
+
+#: lib/pf-frontend.php:3018
+msgid "Showing all"
+msgstr ""
+
+#: lib/pf-frontend.php:3026
+msgid "Showing"
+msgstr ""
+
+#: lib/pf-frontend.php:3026
+msgid "of"
+msgstr ""
+
+#: lib/pf-frontend.php:3049
+msgid "Filter Products"
+msgstr ""
+
+#: lib/pf-frontend.php:3393 lib/pf-options-array.php:90
+msgid "Product keywords"
+msgstr ""
+
+#: lib/pf-frontend.php:3424 lib/pf-settings.php:5102
+msgid "Error! No terms!"
+msgstr ""
+
+#: lib/pf-frontend.php:3459 lib/pf-frontend.php:3598
+msgid "Price Range"
+msgstr ""
+
+#: lib/pf-frontend.php:3542 lib/pf-settings.php:306 lib/pf-settings.php:1494
+#: lib/pf-settings.php:2431
+msgid "Products Per Page"
+msgstr ""
+
+#: lib/pf-frontend.php:3556
+msgid "Product Availability"
+msgstr ""
+
+#: lib/pf-frontend.php:3570 lib/pf-settings.php:299 lib/pf-settings.php:1490
+#: lib/pf-settings.php:2584
+msgid "Sort By"
+msgstr ""
+
+#: lib/pf-frontend.php:3584 lib/pf-settings.php:304 lib/pf-settings.php:1492
+#: lib/pf-settings.php:2508
+msgid "Vendor"
+msgstr ""
+
+#: lib/pf-frontend.php:3612 lib/pf-options-array.php:89
+msgid "Search Products"
+msgstr ""
+
+#: lib/pf-frontend.php:3640
+msgid "Product Meta"
+msgstr ""
+
+#: lib/pf-frontend.php:3675
+msgid "Range"
+msgstr ""
+
+#: lib/pf-frontend.php:4418 lib/pf-settings.php:4928 lib/pf-settings.php:5396
+msgid "Products"
+msgstr ""
+
+#: lib/pf-settings.php:64
+msgid "Activate?"
+msgstr ""
+
+#: lib/pf-settings.php:65
+msgid "Deactivate?"
+msgstr ""
+
+#: lib/pf-settings.php:66
+msgid "Delete?"
+msgstr ""
+
+#: lib/pf-settings.php:67
+msgid "Remove?"
+msgstr ""
+
+#: lib/pf-settings.php:68
+msgid "Remove key from database?"
+msgstr ""
+
+#: lib/pf-settings.php:69
+msgid "Add override?"
+msgstr ""
+
+#: lib/pf-settings.php:70
+msgid "Remove override?"
+msgstr ""
+
+#: lib/pf-settings.php:71
+msgid "Please select both term and the filter preset."
+msgstr ""
+
+#: lib/pf-settings.php:72
+msgid "Added!"
+msgstr ""
+
+#: lib/pf-settings.php:73
+msgid "Load?"
+msgstr ""
+
+#: lib/pf-settings.php:74
+msgid "Saved!"
+msgstr ""
+
+#: lib/pf-settings.php:76
+msgid "Missing name or settings."
+msgstr ""
+
+#: lib/pf-settings.php:77
+msgid "Not selected!"
+msgstr ""
+
+#: lib/pf-settings.php:78
+msgid "Deleted!"
+msgstr ""
+
+#: lib/pf-settings.php:79
+msgid "Customization created!"
+msgstr ""
+
+#: lib/pf-settings.php:79 lib/pf-settings.php:80
+msgid ""
+"Please save your default or your current filter preset to make customization "
+"changes!"
+msgstr ""
+
+#: lib/pf-settings.php:80 lib/pf-settings.php:90
+msgid "Removed!"
+msgstr ""
+
+#: lib/pf-settings.php:81
+msgid "Analytics data deleted!"
+msgstr ""
+
+#: lib/pf-settings.php:82 lib/pf-settings.php:468 lib/pf-settings.php:473
+#: lib/pf-settings.php:1418 lib/pf-settings.php:3980
+msgid "Advanced Filter"
+msgstr ""
+
+#: lib/pf-settings.php:83 lib/pf-settings.php:851 lib/pf-settings.php:856
+#: lib/pf-settings.php:1423 lib/pf-settings.php:4392
+msgid "Range Filter"
+msgstr ""
+
+#: lib/pf-settings.php:84 lib/pf-settings.php:1094 lib/pf-settings.php:1099
+#: lib/pf-settings.php:1428 lib/pf-settings.php:3674
+msgid "Meta Filter"
+msgstr ""
+
+#: lib/pf-settings.php:85
+msgid "Use only numbers and the decimal separator!"
+msgstr ""
+
+#: lib/pf-settings.php:86 lib/pf-settings.php:3464
+msgid "Remove Override"
+msgstr ""
+
+#: lib/pf-settings.php:87 lib/pf-settings.php:3464
+msgid "Term slug"
+msgstr ""
+
+#: lib/pf-settings.php:89
+msgid "Loaded!"
+msgstr ""
+
+#: lib/pf-settings.php:91
+msgid ""
+"Invalid key! Cannot be removed from database! Please save your settings."
+msgstr ""
+
+#: lib/pf-settings.php:92
+msgid ""
+"This action will reset ALL Product Filter options, presets and overrides! "
+"Are you sure?"
+msgstr ""
+
+#: lib/pf-settings.php:93
+msgid "Saving options, please wait!"
+msgstr ""
+
+#: lib/pf-settings.php:94
+msgid "Loading options, please wait!"
+msgstr ""
+
+#: lib/pf-settings.php:95
+msgid "Deleting preset, please wait!"
+msgstr ""
+
+#: lib/pf-settings.php:96
+msgid "Save default?"
+msgstr ""
+
+#: lib/pf-settings.php:123
+msgid ""
+"Filtering Analytics are empty! Please enable the filtering analytics and "
+"wait for the results! Thank you!"
+msgstr ""
+
+#: lib/pf-settings.php:128
+msgid "Reset Analytics"
+msgstr ""
+
+#: lib/pf-settings.php:178 lib/pf-settings.php:182 lib/pf-settings.php:3188
+msgid "Filter"
+msgstr ""
+
+#: lib/pf-settings.php:178
+msgid "Total hits count:"
+msgstr ""
+
+#: lib/pf-settings.php:187
+msgid "Filtering data for taxonomy"
+msgstr ""
+
+#: lib/pf-settings.php:300 lib/pf-settings.php:1491 lib/pf-settings.php:2677
+msgid "By Price"
+msgstr ""
+
+#: lib/pf-settings.php:301
+msgid "By Categories"
+msgstr ""
+
+#: lib/pf-settings.php:302
+msgid "By Tags"
+msgstr ""
+
+#: lib/pf-settings.php:303
+msgid "By Characteristics"
+msgstr ""
+
+#: lib/pf-settings.php:305 lib/pf-settings.php:1493
+msgid "In Stock Filter"
+msgstr ""
+
+#: lib/pf-settings.php:307 lib/pf-settings.php:1495
+msgid "Search Filter"
+msgstr ""
+
+#: lib/pf-settings.php:327 lib/pf-settings.php:2111 lib/pf-settings.php:2417
+msgid "General Settings"
+msgstr ""
+
+#: lib/pf-settings.php:332 lib/pf-settings.php:2231
+msgid "Filter Style"
+msgstr ""
+
+#: lib/pf-settings.php:337 lib/pf-settings.php:2041
+msgid "Adoptive Filtering"
+msgstr ""
+
+#: lib/pf-settings.php:342 lib/pf-settings.php:2011
+msgid "Mobile Preset"
+msgstr ""
+
+#: lib/pf-settings.php:347
+msgid "Filter Settings"
+msgstr ""
+
+#: lib/pf-settings.php:349
+msgid ""
+"Create filters! Greens are active, reds are not. Blue buttons add as many "
+"filters as you need! Need help? Check this link"
+msgstr ""
+
+#: lib/pf-settings.php:349 lib/pf-settings.php:1578 lib/pf-settings.php:1602
+#: lib/pf-settings.php:1632 lib/pf-settings.php:1985 lib/pf-settings.php:2419
+#: lib/pf-settings.php:3435
+msgid "Product Filter - Documentation and Guide"
+msgstr ""
+
+#: lib/pf-settings.php:370
+msgid "Add advanced filter"
+msgstr ""
+
+#: lib/pf-settings.php:371
+msgid "Add range filter"
+msgstr ""
+
+#: lib/pf-settings.php:372
+msgid "Add meta filter"
+msgstr ""
+
+#: lib/pf-settings.php:474 lib/pf-settings.php:857 lib/pf-settings.php:1100
+#: lib/pf-settings.php:2433 lib/pf-settings.php:2510 lib/pf-settings.php:2553
+#: lib/pf-settings.php:2586 lib/pf-settings.php:2646 lib/pf-settings.php:2679
+#: lib/pf-settings.php:2757 lib/pf-settings.php:2924 lib/pf-settings.php:3047
+#: lib/pf-settings.php:3190 lib/pf-settings.php:3675 lib/pf-settings.php:3981
+#: lib/pf-settings.php:4393
+msgid "Setup filter. Check following link for more information."
+msgstr ""
+
+#: lib/pf-settings.php:474 lib/pf-settings.php:857 lib/pf-settings.php:1100
+#: lib/pf-settings.php:2433 lib/pf-settings.php:2510 lib/pf-settings.php:2553
+#: lib/pf-settings.php:2586 lib/pf-settings.php:2646 lib/pf-settings.php:2679
+#: lib/pf-settings.php:2757 lib/pf-settings.php:2924 lib/pf-settings.php:3047
+#: lib/pf-settings.php:3190 lib/pf-settings.php:3675 lib/pf-settings.php:3981
+#: lib/pf-settings.php:4393
+msgid "Documentation & Knowledge Base"
+msgstr ""
+
+#: lib/pf-settings.php:480 lib/pf-settings.php:863 lib/pf-settings.php:1106
+#: lib/pf-settings.php:2436 lib/pf-settings.php:2513 lib/pf-settings.php:2556
+#: lib/pf-settings.php:2589 lib/pf-settings.php:2649 lib/pf-settings.php:2682
+#: lib/pf-settings.php:2775 lib/pf-settings.php:2927 lib/pf-settings.php:3050
+#: lib/pf-settings.php:3193 lib/pf-settings.php:3681 lib/pf-settings.php:3987
+#: lib/pf-settings.php:4399
+msgid "Filter Title"
+msgstr ""
+
+#: lib/pf-settings.php:488 lib/pf-settings.php:871 lib/pf-settings.php:1114
+#: lib/pf-settings.php:2438 lib/pf-settings.php:2515 lib/pf-settings.php:2558
+#: lib/pf-settings.php:2591 lib/pf-settings.php:2651 lib/pf-settings.php:2684
+#: lib/pf-settings.php:2777 lib/pf-settings.php:2929 lib/pf-settings.php:3052
+#: lib/pf-settings.php:3195 lib/pf-settings.php:3689 lib/pf-settings.php:3995
+#: lib/pf-settings.php:4407
+msgid "Override filter title."
+msgstr ""
+
+#: lib/pf-settings.php:488 lib/pf-settings.php:871 lib/pf-settings.php:1114
+#: lib/pf-settings.php:2438 lib/pf-settings.php:2454 lib/pf-settings.php:2515
+#: lib/pf-settings.php:2558 lib/pf-settings.php:2591 lib/pf-settings.php:2651
+#: lib/pf-settings.php:2667 lib/pf-settings.php:2684 lib/pf-settings.php:2777
+#: lib/pf-settings.php:2929 lib/pf-settings.php:3052 lib/pf-settings.php:3195
+#: lib/pf-settings.php:3689 lib/pf-settings.php:3995 lib/pf-settings.php:4407
+msgid "If you leave this field empty default will be used."
+msgstr ""
+
+#: lib/pf-settings.php:494 lib/pf-settings.php:877 lib/pf-settings.php:1120
+#: lib/pf-settings.php:2444 lib/pf-settings.php:2521 lib/pf-settings.php:2564
+#: lib/pf-settings.php:2597 lib/pf-settings.php:2657 lib/pf-settings.php:2690
+#: lib/pf-settings.php:2783 lib/pf-settings.php:2935 lib/pf-settings.php:3058
+#: lib/pf-settings.php:3201 lib/pf-settings.php:3695 lib/pf-settings.php:4001
+#: lib/pf-settings.php:4413
+msgid "Filter Description"
+msgstr ""
+
+#: lib/pf-settings.php:498 lib/pf-settings.php:881 lib/pf-settings.php:1124
+#: lib/pf-settings.php:2446 lib/pf-settings.php:2523 lib/pf-settings.php:2566
+#: lib/pf-settings.php:2599 lib/pf-settings.php:2659 lib/pf-settings.php:2692
+#: lib/pf-settings.php:2785 lib/pf-settings.php:2937 lib/pf-settings.php:3060
+#: lib/pf-settings.php:3203 lib/pf-settings.php:3699 lib/pf-settings.php:4005
+#: lib/pf-settings.php:4417
+msgid ""
+"Enter description for the current filter. If entered small text will apprear "
+"just bellow the filter title."
+msgstr ""
+
+#: lib/pf-settings.php:508 lib/pf-settings.php:4015
+msgid "Select Taxonomy"
+msgstr ""
+
+#: lib/pf-settings.php:523 lib/pf-settings.php:4033
+msgid "Select filter product taxonomy."
+msgstr ""
+
+#: lib/pf-settings.php:529 lib/pf-settings.php:921 lib/pf-settings.php:2605
+#: lib/pf-settings.php:2791 lib/pf-settings.php:2943 lib/pf-settings.php:3066
+#: lib/pf-settings.php:3209 lib/pf-settings.php:4039 lib/pf-settings.php:4457
+msgid "Select Terms"
+msgstr ""
+
+#: lib/pf-settings.php:547 lib/pf-settings.php:944 lib/pf-settings.php:2531
+#: lib/pf-settings.php:2607 lib/pf-settings.php:2793 lib/pf-settings.php:2945
+#: lib/pf-settings.php:3068 lib/pf-settings.php:3211 lib/pf-settings.php:4057
+#: lib/pf-settings.php:4481
+msgid "Select terms to include."
+msgstr ""
+
+#: lib/pf-settings.php:547 lib/pf-settings.php:944 lib/pf-settings.php:2531
+#: lib/pf-settings.php:2607 lib/pf-settings.php:2793 lib/pf-settings.php:2945
+#: lib/pf-settings.php:3068 lib/pf-settings.php:3211 lib/pf-settings.php:3421
+#: lib/pf-settings.php:4057 lib/pf-settings.php:4481
+msgid "Use CTRL+Click to select terms or clear selection."
+msgstr ""
+
+#: lib/pf-settings.php:553 lib/pf-settings.php:3218 lib/pf-settings.php:4063
+msgid "Appearance"
+msgstr ""
+
+#: lib/pf-settings.php:561 lib/pf-settings.php:3223 lib/pf-settings.php:4071
+#: lib/pf-settings.php:4755 lib/pf-settings.php:5053 lib/pf-settings.php:5181
+#: lib/pf-settings.php:5201 lib/pf-settings.php:5220 lib/pf-settings.php:5376
+#: lib/pf-settings.php:5416 lib/pf-settings.php:5452
+msgid "Text"
+msgstr ""
+
+#: lib/pf-settings.php:562 lib/pf-settings.php:3224 lib/pf-settings.php:4072
+msgid "Thumbnails with text"
+msgstr ""
+
+#: lib/pf-settings.php:563 lib/pf-settings.php:3225 lib/pf-settings.php:4073
+msgid "Thumbnails only"
+msgstr ""
+
+#: lib/pf-settings.php:573 lib/pf-settings.php:4083
+msgid ""
+"Select style preset to use with the current taxonomy (works only with "
+"product attributes)."
+msgstr ""
+
+#: lib/pf-settings.php:579 lib/pf-settings.php:950 lib/pf-settings.php:2800
+#: lib/pf-settings.php:2952 lib/pf-settings.php:3075 lib/pf-settings.php:3231
+#: lib/pf-settings.php:4089 lib/pf-settings.php:4487
+msgid "Terms Order By"
+msgstr ""
+
+#: lib/pf-settings.php:587 lib/pf-settings.php:958 lib/pf-settings.php:2805
+#: lib/pf-settings.php:2957 lib/pf-settings.php:3080 lib/pf-settings.php:3236
+#: lib/pf-settings.php:4097 lib/pf-settings.php:4495
+msgid "None (Custom Menu Order)"
+msgstr ""
+
+#: lib/pf-settings.php:588 lib/pf-settings.php:959 lib/pf-settings.php:2806
+#: lib/pf-settings.php:2958 lib/pf-settings.php:3081 lib/pf-settings.php:3237
+#: lib/pf-settings.php:4098 lib/pf-settings.php:4496
+msgid "ID"
+msgstr ""
+
+#: lib/pf-settings.php:589 lib/pf-settings.php:960 lib/pf-settings.php:2807
+#: lib/pf-settings.php:2959 lib/pf-settings.php:3082 lib/pf-settings.php:3238
+#: lib/pf-settings.php:4099 lib/pf-settings.php:4497
+msgid "Name"
+msgstr ""
+
+#: lib/pf-settings.php:590 lib/pf-settings.php:961 lib/pf-settings.php:2808
+#: lib/pf-settings.php:2960 lib/pf-settings.php:3083 lib/pf-settings.php:3239
+#: lib/pf-settings.php:4100 lib/pf-settings.php:4498
+msgid "Number"
+msgstr ""
+
+#: lib/pf-settings.php:591 lib/pf-settings.php:962 lib/pf-settings.php:2809
+#: lib/pf-settings.php:2961 lib/pf-settings.php:3084 lib/pf-settings.php:3240
+#: lib/pf-settings.php:4101 lib/pf-settings.php:4499
+msgid "Slug"
+msgstr ""
+
+#: lib/pf-settings.php:592 lib/pf-settings.php:963 lib/pf-settings.php:2810
+#: lib/pf-settings.php:2962 lib/pf-settings.php:3085 lib/pf-settings.php:3241
+#: lib/pf-settings.php:4102 lib/pf-settings.php:4500
+msgid "Count"
+msgstr ""
+
+#: lib/pf-settings.php:602 lib/pf-settings.php:971
+msgid "Select term ordering."
+msgstr ""
+
+#: lib/pf-settings.php:608 lib/pf-settings.php:977 lib/pf-settings.php:3247
+#: lib/pf-settings.php:4118 lib/pf-settings.php:4514
+msgid "Terms Order"
+msgstr ""
+
+#: lib/pf-settings.php:616 lib/pf-settings.php:985 lib/pf-settings.php:2821
+#: lib/pf-settings.php:2973 lib/pf-settings.php:3096 lib/pf-settings.php:3252
+#: lib/pf-settings.php:4126 lib/pf-settings.php:4522
+msgid "ASC"
+msgstr ""
+
+#: lib/pf-settings.php:617 lib/pf-settings.php:986 lib/pf-settings.php:2822
+#: lib/pf-settings.php:2974 lib/pf-settings.php:3097 lib/pf-settings.php:3253
+#: lib/pf-settings.php:4127 lib/pf-settings.php:4523
+msgid "DESC"
+msgstr ""
+
+#: lib/pf-settings.php:627 lib/pf-settings.php:995 lib/pf-settings.php:2818
+#: lib/pf-settings.php:2970 lib/pf-settings.php:3093 lib/pf-settings.php:3249
+#: lib/pf-settings.php:4137 lib/pf-settings.php:4532
+msgid "Select ascending or descending order."
+msgstr ""
+
+#: lib/pf-settings.php:633 lib/pf-settings.php:1282 lib/pf-settings.php:2828
+#: lib/pf-settings.php:2980 lib/pf-settings.php:3103 lib/pf-settings.php:3259
+#: lib/pf-settings.php:3857 lib/pf-settings.php:4143
+msgid "Show More Button"
+msgstr ""
+
+#: lib/pf-settings.php:640 lib/pf-settings.php:1289 lib/pf-settings.php:2830
+#: lib/pf-settings.php:2982 lib/pf-settings.php:3105 lib/pf-settings.php:3261
+#: lib/pf-settings.php:3863 lib/pf-settings.php:4149
+msgid "Limit number of terms to display before the Show More button."
+msgstr ""
+
+#: lib/pf-settings.php:646 lib/pf-settings.php:653 lib/pf-settings.php:4155
+#: lib/pf-settings.php:4162
+msgid "Use Taxonomy Hierarchy"
+msgstr ""
+
+#: lib/pf-settings.php:659 lib/pf-settings.php:4168
+msgid "Check this option to enable hierarchy on current filter."
+msgstr ""
+
+#: lib/pf-settings.php:668 lib/pf-settings.php:4177
+msgid "Taxonomy Hierarchy Filtering Mode"
+msgstr ""
+
+#: lib/pf-settings.php:676 lib/pf-settings.php:2853 lib/pf-settings.php:3284
+#: lib/pf-settings.php:4185
+msgid "Show all"
+msgstr ""
+
+#: lib/pf-settings.php:677 lib/pf-settings.php:2854 lib/pf-settings.php:3285
+#: lib/pf-settings.php:4186
+msgid "Show same level only (Drill filter)"
+msgstr ""
+
+#: lib/pf-settings.php:678 lib/pf-settings.php:2855 lib/pf-settings.php:3286
+#: lib/pf-settings.php:4187
+msgid "Drill filter with removable parent"
+msgstr ""
+
+#: lib/pf-settings.php:679 lib/pf-settings.php:2856 lib/pf-settings.php:3287
+#: lib/pf-settings.php:4188
+msgid "Show only child terms, selected parents will not be removable"
+msgstr ""
+
+#: lib/pf-settings.php:680 lib/pf-settings.php:2857 lib/pf-settings.php:3288
+#: lib/pf-settings.php:4189
+msgid "Show only child terms with removable parent"
+msgstr ""
+
+#: lib/pf-settings.php:690 lib/pf-settings.php:2850 lib/pf-settings.php:3281
+#: lib/pf-settings.php:4199
+msgid "Select filter hierarchy mode."
+msgstr ""
+
+#: lib/pf-settings.php:696 lib/pf-settings.php:703 lib/pf-settings.php:4205
+#: lib/pf-settings.php:4212
+msgid "Taxonomy Expand Parents"
+msgstr ""
+
+#: lib/pf-settings.php:709 lib/pf-settings.php:3296 lib/pf-settings.php:4218
+msgid " Check this option to expand parent terms on load."
+msgstr ""
+
+#: lib/pf-settings.php:718 lib/pf-settings.php:725 lib/pf-settings.php:1295
+#: lib/pf-settings.php:1302 lib/pf-settings.php:2870 lib/pf-settings.php:2993
+#: lib/pf-settings.php:3116 lib/pf-settings.php:3301 lib/pf-settings.php:3869
+#: lib/pf-settings.php:3876 lib/pf-settings.php:4227 lib/pf-settings.php:4234
+msgid "Use Multi Select"
+msgstr ""
+
+#: lib/pf-settings.php:731 lib/pf-settings.php:1308 lib/pf-settings.php:2872
+#: lib/pf-settings.php:2995 lib/pf-settings.php:3118 lib/pf-settings.php:3303
+#: lib/pf-settings.php:3882 lib/pf-settings.php:4240
+msgid "Check this option to enable multi term selection."
+msgstr ""
+
+#: lib/pf-settings.php:740 lib/pf-settings.php:1317 lib/pf-settings.php:2877
+#: lib/pf-settings.php:3000 lib/pf-settings.php:3123 lib/pf-settings.php:3308
+#: lib/pf-settings.php:3891 lib/pf-settings.php:4249
+msgid "Multi Select Terms Relation"
+msgstr ""
+
+#: lib/pf-settings.php:748 lib/pf-settings.php:1325 lib/pf-settings.php:2882
+#: lib/pf-settings.php:3005 lib/pf-settings.php:3128 lib/pf-settings.php:3313
+#: lib/pf-settings.php:3899 lib/pf-settings.php:4257
+msgid "Filtered products have at least one term (IN)"
+msgstr ""
+
+#: lib/pf-settings.php:749 lib/pf-settings.php:1326 lib/pf-settings.php:2883
+#: lib/pf-settings.php:3006 lib/pf-settings.php:3129 lib/pf-settings.php:3314
+#: lib/pf-settings.php:3900 lib/pf-settings.php:4258
+msgid "Filtered products have selected terms (AND)"
+msgstr ""
+
+#: lib/pf-settings.php:759 lib/pf-settings.php:1336 lib/pf-settings.php:2879
+#: lib/pf-settings.php:3002 lib/pf-settings.php:3125 lib/pf-settings.php:3310
+#: lib/pf-settings.php:3910 lib/pf-settings.php:4268
+msgid "Select term relation when multiple terms are selected."
+msgstr ""
+
+#: lib/pf-settings.php:765 lib/pf-settings.php:772 lib/pf-settings.php:2889
+#: lib/pf-settings.php:3012 lib/pf-settings.php:3135 lib/pf-settings.php:3320
+#: lib/pf-settings.php:4274 lib/pf-settings.php:4281
+msgid "Selection Change Reset"
+msgstr ""
+
+#: lib/pf-settings.php:778 lib/pf-settings.php:2891 lib/pf-settings.php:3014
+#: lib/pf-settings.php:3137 lib/pf-settings.php:3322 lib/pf-settings.php:4287
+msgid "Check this option to reset other filters when this one is used."
+msgstr ""
+
+#: lib/pf-settings.php:787 lib/pf-settings.php:794 lib/pf-settings.php:1052
+#: lib/pf-settings.php:1059 lib/pf-settings.php:2896 lib/pf-settings.php:3019
+#: lib/pf-settings.php:3142 lib/pf-settings.php:3327 lib/pf-settings.php:4296
+#: lib/pf-settings.php:4303 lib/pf-settings.php:4589 lib/pf-settings.php:4596
+msgid "Use Adoptive Filtering"
+msgstr ""
+
+#: lib/pf-settings.php:800 lib/pf-settings.php:1065 lib/pf-settings.php:2898
+#: lib/pf-settings.php:3021 lib/pf-settings.php:3144 lib/pf-settings.php:3329
+#: lib/pf-settings.php:4309 lib/pf-settings.php:4602
+msgid "Check this option to enable adoptive filtering on the current filter."
+msgstr ""
+
+#: lib/pf-settings.php:809 lib/pf-settings.php:816 lib/pf-settings.php:1342
+#: lib/pf-settings.php:1349 lib/pf-settings.php:2624 lib/pf-settings.php:2727
+#: lib/pf-settings.php:2903 lib/pf-settings.php:3026 lib/pf-settings.php:3149
+#: lib/pf-settings.php:3334 lib/pf-settings.php:3916 lib/pf-settings.php:3923
+#: lib/pf-settings.php:4318 lib/pf-settings.php:4325
+msgid "Hide None"
+msgstr ""
+
+#: lib/pf-settings.php:822 lib/pf-settings.php:1355 lib/pf-settings.php:2626
+#: lib/pf-settings.php:2729 lib/pf-settings.php:2905 lib/pf-settings.php:3028
+#: lib/pf-settings.php:3151 lib/pf-settings.php:3336 lib/pf-settings.php:3929
+#: lib/pf-settings.php:4331
+msgid "Check this option to hide none in the current filter."
+msgstr ""
+
+#: lib/pf-settings.php:831 lib/pf-settings.php:1364 lib/pf-settings.php:2486
+#: lib/pf-settings.php:2538 lib/pf-settings.php:2572 lib/pf-settings.php:2631
+#: lib/pf-settings.php:2734 lib/pf-settings.php:2910 lib/pf-settings.php:3033
+#: lib/pf-settings.php:3156 lib/pf-settings.php:3341 lib/pf-settings.php:3938
+#: lib/pf-settings.php:4340
+msgid "Style Customization Key"
+msgstr ""
+
+#: lib/pf-settings.php:838 lib/pf-settings.php:1371 lib/pf-settings.php:1384
+#: lib/pf-settings.php:2488 lib/pf-settings.php:2497 lib/pf-settings.php:2540
+#: lib/pf-settings.php:2574 lib/pf-settings.php:2633 lib/pf-settings.php:2736
+#: lib/pf-settings.php:2745 lib/pf-settings.php:2912 lib/pf-settings.php:3035
+#: lib/pf-settings.php:3158 lib/pf-settings.php:3343 lib/pf-settings.php:3945
+#: lib/pf-settings.php:3958 lib/pf-settings.php:4347
+msgid ""
+"Once customized, customization key will appear. If you use matching filters "
+"in presets just copy and paste this key to get the same customization."
+msgstr ""
+
+#: lib/pf-settings.php:890 lib/pf-settings.php:4426
+msgid "Select Range"
+msgstr ""
+
+#: lib/pf-settings.php:898 lib/pf-settings.php:4434
+msgid "Price range"
+msgstr ""
+
+#: lib/pf-settings.php:915 lib/pf-settings.php:4451
+msgid ""
+"Enter title for the current range filter. If you leave this field blank "
+"default will be used."
+msgstr ""
+
+#: lib/pf-settings.php:1001 lib/pf-settings.php:2236 lib/pf-settings.php:4538
+#: lib/pf-settings.php:4752
+msgid "Select Style"
+msgstr ""
+
+#: lib/pf-settings.php:1009 lib/pf-settings.php:2163 lib/pf-settings.php:4546
+msgid "Flat"
+msgstr ""
+
+#: lib/pf-settings.php:1010 lib/pf-settings.php:4547
+msgid "Modern"
+msgstr ""
+
+#: lib/pf-settings.php:1011 lib/pf-settings.php:4548
+msgid "HTML5"
+msgstr ""
+
+#: lib/pf-settings.php:1012 lib/pf-settings.php:4549
+msgid "White"
+msgstr ""
+
+#: lib/pf-settings.php:1013 lib/pf-settings.php:4550
+msgid "Thin"
+msgstr ""
+
+#: lib/pf-settings.php:1014 lib/pf-settings.php:4551
+msgid "Knob"
+msgstr ""
+
+#: lib/pf-settings.php:1015 lib/pf-settings.php:4552
+msgid "Metal"
+msgstr ""
+
+#: lib/pf-settings.php:1024 lib/pf-settings.php:4561
+msgid "Select current range style."
+msgstr ""
+
+#: lib/pf-settings.php:1030 lib/pf-settings.php:1037 lib/pf-settings.php:4567
+#: lib/pf-settings.php:4574
+msgid "Use Grid"
+msgstr ""
+
+#: lib/pf-settings.php:1043 lib/pf-settings.php:4580
+msgid "Check this option to use grid in current range."
+msgstr ""
+
+#: lib/pf-settings.php:1074 lib/pf-settings.php:4611
+msgid "Custom Settings"
+msgstr ""
+
+#: lib/pf-settings.php:1078 lib/pf-settings.php:4615
+msgid "Enter custom settings for the range filter."
+msgstr ""
+
+#: lib/pf-settings.php:1133 lib/pf-settings.php:3708
+msgid "Key"
+msgstr ""
+
+#: lib/pf-settings.php:1140 lib/pf-settings.php:3715
+msgid "Meta key."
+msgstr ""
+
+#: lib/pf-settings.php:1146 lib/pf-settings.php:3721
+msgid "Compare"
+msgstr ""
+
+#: lib/pf-settings.php:1218 lib/pf-settings.php:3793
+msgid "Meta compare."
+msgstr ""
+
+#: lib/pf-settings.php:1224 lib/pf-settings.php:3799 lib/pf-settings.php:4972
+#: lib/pf-settings.php:5264
+msgid "Type"
+msgstr ""
+
+#: lib/pf-settings.php:1276 lib/pf-settings.php:3851
+msgid "Meta type."
+msgstr ""
+
+#: lib/pf-settings.php:1377 lib/pf-settings.php:2495 lib/pf-settings.php:2743
+#: lib/pf-settings.php:3951
+msgid "Terms Customization Key"
+msgstr ""
+
+#: lib/pf-settings.php:1449
+msgid "Product Filter"
+msgstr ""
+
+#: lib/pf-settings.php:1531
+msgid "Default Filter and Filter Presets"
+msgstr ""
+
+#: lib/pf-settings.php:1535
+msgid "Filter Overrides and Restrictions"
+msgstr ""
+
+#: lib/pf-settings.php:1539
+msgid "Installation and Advanced Options"
+msgstr ""
+
+#: lib/pf-settings.php:1543
+msgid "Filter Analytics"
+msgstr ""
+
+#: lib/pf-settings.php:1547
+msgid "Register and Automatic Updates"
+msgstr ""
+
+#: lib/pf-settings.php:1561
+msgid "More plugins for WooCommerce?"
+msgstr ""
+
+#: lib/pf-settings.php:1562
+msgid "Get ShopKit Theme for WooCommerce!"
+msgstr ""
+
+#: lib/pf-settings.php:1564
+msgid "Delete/Reset Product Filter Options!"
+msgstr ""
+
+#: lib/pf-settings.php:1576
+msgid "Product Filter Registration"
+msgstr ""
+
+#: lib/pf-settings.php:1578
+msgid ""
+"By entering your purchase code you will enable the Automatic Updates option! "
+"Use one license per domain please! Need help? Check this link"
+msgstr ""
+
+#: lib/pf-settings.php:1581
+msgid "Register Product Filter"
+msgstr ""
+
+#: lib/pf-settings.php:1583
+msgid ""
+"Enter your purchase code to get instant updated! Updates will come even "
+"before the Codecanyon.net official releases!"
+msgstr ""
+
+#: lib/pf-settings.php:1600
+msgid "Product Filter Analytics"
+msgstr ""
+
+#: lib/pf-settings.php:1602
+msgid ""
+"Follow your customers filtering data. BETA VERSION Please note, this section "
+"and its features will be extended in the future updates. Need help? Check "
+"this link"
+msgstr ""
+
+#: lib/pf-settings.php:1605
+msgid "Use Filtering Analytics"
+msgstr ""
+
+#: lib/pf-settings.php:1607
+msgid "Check this option to use filtering analytics."
+msgstr ""
+
+#: lib/pf-settings.php:1612
+msgid "Filtering Analytics"
+msgstr ""
+
+#: lib/pf-settings.php:1614
+msgid "See what your customers are searching for."
+msgstr ""
+
+#: lib/pf-settings.php:1630
+msgid "Shop/Product Archives Installation Settings"
+msgstr ""
+
+#: lib/pf-settings.php:1632
+msgid ""
+"General installation settings for Shop/Product Archive pages. Need help? "
+"Check this link"
+msgstr ""
+
+#: lib/pf-settings.php:1635
+msgid "Shop/Product Archives Installation"
+msgstr ""
+
+#: lib/pf-settings.php:1637
+msgid ""
+"Select method for installing the Product Filter template in your Shop and "
+"Product Archive pages."
+msgstr ""
+
+#: lib/pf-settings.php:1640
+msgid "Override Default WooCommerce Templates"
+msgstr ""
+
+#: lib/pf-settings.php:1641
+msgid "Use Widget"
+msgstr ""
+
+#: lib/pf-settings.php:1650
+msgid ""
+"Enter custom products action to initialize Product Filter template. Use "
+"actions from your theme archive-product.php template. Please enter action "
+"name in following format action_name:priority. E.G. "
+"woocommerce_before_shop_loop:40 woocommerce_archive_description:50"
+msgstr ""
+
+#: lib/pf-settings.php:1656
+msgid "Disable WooCommerce Templates"
+msgstr ""
+
+#: lib/pf-settings.php:1658
+msgid ""
+"Check this option to hide orderby.php and result-count.php templates. Works "
+"with the option below (Select Templates)."
+msgstr ""
+
+#: lib/pf-settings.php:1663
+msgid "Select Templates"
+msgstr ""
+
+#: lib/pf-settings.php:1665
+msgid ""
+"Select WooCommerce templates to use. Use CTRL+Click to select multiple "
+"templates or deselect all."
+msgstr ""
+
+#: lib/pf-settings.php:1669 lib/pf-settings.php:1907
+msgid "Result Count"
+msgstr ""
+
+#: lib/pf-settings.php:1680
+msgid "General - Advanced Settings"
+msgstr ""
+
+#: lib/pf-settings.php:1682
+msgid ""
+"These settings will have an effect on both AJAX and NON-AJAX installations."
+msgstr ""
+
+#: lib/pf-settings.php:1685
+msgid "Use Characteristics"
+msgstr ""
+
+#: lib/pf-settings.php:1687
+msgid "Check this option to use Characteristics taxonomy."
+msgstr ""
+
+#: lib/pf-settings.php:1699
+msgid "Switch Variable Images"
+msgstr ""
+
+#: lib/pf-settings.php:1701
+msgid ""
+"Check this option to switch variable images when attribute filters are used."
+msgstr ""
+
+#: lib/pf-settings.php:1706
+msgid "Hide Empty Taxonomy Terms"
+msgstr ""
+
+#: lib/pf-settings.php:1708
+msgid "Check this setting to hide empty taxonomy terms in options."
+msgstr ""
+
+#: lib/pf-settings.php:1714
+msgid "Clear All Action"
+msgstr ""
+
+#: lib/pf-settings.php:1716
+msgid "Selected filters will not be cleared."
+msgstr ""
+
+#: lib/pf-settings.php:1735
+msgid "Supported Filter Overrides"
+msgstr ""
+
+#: lib/pf-settings.php:1737
+msgid "Select taxonomies that will support the Product Filter Overrides."
+msgstr ""
+
+#: lib/pf-settings.php:1744
+msgid "Disable JavaScript Libraries"
+msgstr ""
+
+#: lib/pf-settings.php:1746
+msgid ""
+"Select JavaScript libraries to disable. Use CTRL+Click to select multiple "
+"libraries or deselect all. Selected libraries will not be loaded."
+msgstr ""
+
+#: lib/pf-settings.php:1749
+msgid "Ion Range Slider"
+msgstr ""
+
+#: lib/pf-settings.php:1750
+msgid "Isotope"
+msgstr ""
+
+#: lib/pf-settings.php:1751
+msgid "Malihu jQuery Scrollbar"
+msgstr ""
+
+#: lib/pf-settings.php:1761
+msgid "AJAX Shop/Product Archives - Advanced Settings"
+msgstr ""
+
+#: lib/pf-settings.php:1763
+msgid ""
+"Set AJAX settings for Shop/Product Archive pages. AJAX shortcodes also need "
+"correct jQuery selectors to work properly. If your theme is good skip any "
+"jQuery Selector setting. For more information check the "
+msgstr ""
+
+#: lib/pf-settings.php:1763
+msgid "Specific Theme Installations"
+msgstr ""
+
+#: lib/pf-settings.php:1766
+msgid "Enable AJAX"
+msgstr ""
+
+#: lib/pf-settings.php:1768
+msgid "Check this option to use AJAX in Shop/Product Archive pages."
+msgstr ""
+
+#: lib/pf-settings.php:1773
+msgid "Products Wrapper jQuery Selector (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1775
+msgid ""
+"Enter custom wrapper jQuery selector if the default setting is not working. "
+"Default selector: .products"
+msgstr ""
+
+#: lib/pf-settings.php:1781
+msgid "Category jQuery Selector (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1783
+msgid ""
+"Enter custom category jQuery selector if the default setting is not working. "
+"Default selector: .product-category"
+msgstr ""
+
+#: lib/pf-settings.php:1789
+msgid "Product jQuery Selector (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1791
+msgid ""
+"Enter custom products jQuery selector if the default setting is not working. "
+"Default selector: .type-product"
+msgstr ""
+
+#: lib/pf-settings.php:1797
+msgid "Pagination jQuery Selector (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1799
+msgid ""
+"Enter custom pagination jQuery selector if the default setting is not "
+"working. Default selector: .woocommerce-pagination"
+msgstr ""
+
+#: lib/pf-settings.php:1805
+msgid "Custom Pagination Function (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1807
+msgid ""
+"Function for displaying pagination. Default function: woocommerce_pagination"
+msgstr ""
+
+#: lib/pf-settings.php:1813
+msgid "Result Count jQuery Selector (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1815
+msgid ""
+"Enter custom result count jQuery selector if the default setting is not "
+"working. Default selector: .woocommerce-result-count"
+msgstr ""
+
+#: lib/pf-settings.php:1821
+msgid "Order By jQuery Selector (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1823
+msgid ""
+"Enter custom order by jQuery selector if the default setting is not working. "
+"Default selector: .woocommerce-ordering"
+msgstr ""
+
+#: lib/pf-settings.php:1829
+msgid "Product Columns (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1831
+msgid ""
+"This option should be used if theme returns wrong product columns after AJAX."
+msgstr ""
+
+#: lib/pf-settings.php:1837
+msgid "Product Rows (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1839
+msgid ""
+"This option should be used if theme returns wrong products per page after "
+"AJAX."
+msgstr ""
+
+#: lib/pf-settings.php:1845
+msgid "Pagination Type (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1847
+msgid "Select pagination template to use in Shop/Product Archive pages."
+msgstr ""
+
+#: lib/pf-settings.php:1850
+msgid "Default (In Theme)"
+msgstr ""
+
+#: lib/pf-settings.php:1851
+msgid "Pagination (ONLY AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1852
+msgid "Load More (ONLY AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1853
+msgid "Infinite Load (ONLY AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1859
+msgid "Product Animation (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1861
+msgid "Select animation when showing new products."
+msgstr ""
+
+#: lib/pf-settings.php:1864 lib/pf-settings.php:1878
+msgid "No Animation"
+msgstr ""
+
+#: lib/pf-settings.php:1865
+msgid "Fade Each Product"
+msgstr ""
+
+#: lib/pf-settings.php:1866
+msgid "Slide Each Product"
+msgstr ""
+
+#: lib/pf-settings.php:1867
+msgid "Fade Random Products"
+msgstr ""
+
+#: lib/pf-settings.php:1873
+msgid "Scroll Animation (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1875
+msgid "Select type of scroll animation after filtering."
+msgstr ""
+
+#: lib/pf-settings.php:1879
+msgid "Scroll to Filter"
+msgstr ""
+
+#: lib/pf-settings.php:1880
+msgid "Scroll to Products"
+msgstr ""
+
+#: lib/pf-settings.php:1881
+msgid "Scroll to Top"
+msgstr ""
+
+#: lib/pf-settings.php:1887
+msgid "Permalink Structure (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1889
+msgid ""
+"Set permalink structure when AJAX is used on Shop/Product Archive pages."
+msgstr ""
+
+#: lib/pf-settings.php:1892 lib/pf-settings.php:1949
+msgid "Use Product Filter Redirects (Default)"
+msgstr ""
+
+#: lib/pf-settings.php:1893
+msgid "Only Add Query Parameters"
+msgstr ""
+
+#: lib/pf-settings.php:1894
+msgid "Disable URL Changes"
+msgstr ""
+
+#: lib/pf-settings.php:1900
+msgid "Disable Template Changes (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1902
+msgid "Select templates that will not change after AJAX (if supported)."
+msgstr ""
+
+#: lib/pf-settings.php:1905
+msgid "Title"
+msgstr ""
+
+#: lib/pf-settings.php:1906
+msgid "Description"
+msgstr ""
+
+#: lib/pf-settings.php:1914
+msgid "Failsafe Check (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1916
+msgid ""
+"Select elemets to check before calling AJAX function in Shop/Product "
+"Archives."
+msgstr ""
+
+#: lib/pf-settings.php:1919
+msgid "Products Wrapper"
+msgstr ""
+
+#: lib/pf-settings.php:1920
+msgid "Products Found"
+msgstr ""
+
+#: lib/pf-settings.php:1927
+msgid "jQuery and JS Refresh (AJAX)"
+msgstr ""
+
+#: lib/pf-settings.php:1929
+msgid "Enter jQuery or JavaScript code to execute after AJAX."
+msgstr ""
+
+#: lib/pf-settings.php:1939
+msgid "NON-AJAX Shop/Product Archives - Advanced Settings"
+msgstr ""
+
+#: lib/pf-settings.php:1941
+msgid "Setup advanced options for Shop/Product Archives when AJAX is disabled."
+msgstr ""
+
+#: lib/pf-settings.php:1944
+msgid "Permalink Structure"
+msgstr ""
+
+#: lib/pf-settings.php:1946
+msgid "Set your permalinks structure."
+msgstr ""
+
+#: lib/pf-settings.php:1950
+msgid "Use .htaccess and native WP redirects (Advanced)"
+msgstr ""
+
+#: lib/pf-settings.php:1956
+msgid "Single Product Redirect"
+msgstr ""
+
+#: lib/pf-settings.php:1958
+msgid ""
+"Uncheck to enable single product page redirect when only one product is "
+"found. This option is related to WooCommerce filter "
+"woocommerce_redirect_single_search_result and only works when searching for "
+"products in non-AJAX mode."
+msgstr ""
+
+#: lib/pf-settings.php:1963
+msgid "Force Post Type Variable (Advanced)"
+msgstr ""
+
+#: lib/pf-settings.php:1965
+msgid "Option will add the ?post_type=product parameter when filtering."
+msgstr ""
+
+#: lib/pf-settings.php:1970
+msgid "Force Stay on Permalink (Advanced)"
+msgstr ""
+
+#: lib/pf-settings.php:1972
+msgid "Check this option to force filtering on same permalink (URL)."
+msgstr ""
+
+#: lib/pf-settings.php:1985
+msgid "Filter Preset Manager"
+msgstr ""
+
+#: lib/pf-settings.php:1985
+msgid ""
+"Manage your Product Filter presets. Save, load and manage unlimited filter "
+"presets! Need help? Check this link"
+msgstr ""
+
+#: lib/pf-settings.php:2004
+msgid "Save as preset"
+msgstr ""
+
+#: lib/pf-settings.php:2004
+msgid "Load"
+msgstr ""
+
+#: lib/pf-settings.php:2004
+msgid "Delete"
+msgstr ""
+
+#: lib/pf-settings.php:2004
+msgid "Load default preset"
+msgstr ""
+
+#: lib/pf-settings.php:2004
+msgid "Save as default preset"
+msgstr ""
+
+#: lib/pf-settings.php:2013
+msgid "Setup mobile/handheld devices preset."
+msgstr ""
+
+#: lib/pf-settings.php:2016
+msgid "Select Mobile Preset"
+msgstr ""
+
+#: lib/pf-settings.php:2018
+msgid "Select mobile preset that will be shown on lower screen resolutions."
+msgstr ""
+
+#: lib/pf-settings.php:2025
+msgid "Set Mobile Resolution"
+msgstr ""
+
+#: lib/pf-settings.php:2027
+msgid "Set screen resolution that wil trigger the mobile preset."
+msgstr ""
+
+#: lib/pf-settings.php:2043
+msgid "Setup adpotive filtering."
+msgstr ""
+
+#: lib/pf-settings.php:2046
+msgid "Enable/Disable Adoptive Filtering"
+msgstr ""
+
+#: lib/pf-settings.php:2048
+msgid "Check this option to enable the adoptive filtering."
+msgstr ""
+
+#: lib/pf-settings.php:2053
+msgid "Select Adoptive Filtering Mode"
+msgstr ""
+
+#: lib/pf-settings.php:2055
+msgid "Select mode to use with the filtered terms."
+msgstr ""
+
+#: lib/pf-settings.php:2058
+msgid "Always Active"
+msgstr ""
+
+#: lib/pf-settings.php:2059
+msgid "Active on Permalinks and Filters"
+msgstr ""
+
+#: lib/pf-settings.php:2060
+msgid "Active on Filters"
+msgstr ""
+
+#: lib/pf-settings.php:2066
+msgid "Select Adoptive Filtering Style"
+msgstr ""
+
+#: lib/pf-settings.php:2068
+msgid "Select style to use with the filtered terms."
+msgstr ""
+
+#: lib/pf-settings.php:2071
+msgid "Hide Terms"
+msgstr ""
+
+#: lib/pf-settings.php:2072
+msgid "Disabled and Unclickable"
+msgstr ""
+
+#: lib/pf-settings.php:2073
+msgid "Disabled but Clickable"
+msgstr ""
+
+#: lib/pf-settings.php:2079
+msgid "Select Adoptive Filtering Dependency"
+msgstr ""
+
+#: lib/pf-settings.php:2081
+msgid "Adoptive filters can depend only on ceratin taxonomy."
+msgstr ""
+
+#: lib/pf-settings.php:2088
+msgid "Adoptive Term Products Count Mode"
+msgstr ""
+
+#: lib/pf-settings.php:2090
+msgid ""
+"Select how to display the product count when adoptive filtering is used."
+msgstr ""
+
+#: lib/pf-settings.php:2093
+msgid "Filtered Count / Total"
+msgstr ""
+
+#: lib/pf-settings.php:2094
+msgid "Filtered Count"
+msgstr ""
+
+#: lib/pf-settings.php:2095
+msgid "Total"
+msgstr ""
+
+#: lib/pf-settings.php:2101
+msgid "Reorder Adoptive Terms"
+msgstr ""
+
+#: lib/pf-settings.php:2103
+msgid "Check this option to reorder adoptive terms to front."
+msgstr ""
+
+#: lib/pf-settings.php:2113
+msgid "Setup filter basic settings and appearance."
+msgstr ""
+
+#: lib/pf-settings.php:2116
+msgid "Always Visible"
+msgstr ""
+
+#: lib/pf-settings.php:2118
+msgid ""
+"This option will make Product Filter visible without the slide up/down "
+"animation at all times."
+msgstr ""
+
+#: lib/pf-settings.php:2118 lib/pf-settings.php:2186
+msgid ""
+"(Does not work with the Arrow presets as these presets are absolutely "
+"positioned and the widget version)"
+msgstr ""
+
+#: lib/pf-settings.php:2123
+msgid "Instant Filtering"
+msgstr ""
+
+#: lib/pf-settings.php:2125
+msgid ""
+"Check this option to disable the filter button and use instant product "
+"filtering."
+msgstr ""
+
+#: lib/pf-settings.php:2130
+msgid "Show Term Products Count"
+msgstr ""
+
+#: lib/pf-settings.php:2132
+msgid "Check this option to show products count with the terms."
+msgstr ""
+
+#: lib/pf-settings.php:2137
+msgid "Show Term Search Fields"
+msgstr ""
+
+#: lib/pf-settings.php:2139
+msgid "Check this option to show search fields on supported filters."
+msgstr ""
+
+#: lib/pf-settings.php:2144
+msgid "Selected Terms Area"
+msgstr ""
+
+#: lib/pf-settings.php:2146
+msgid ""
+"Set where to show selected terms. Use CTRL+Click to select multiple areas."
+msgstr ""
+
+#: lib/pf-settings.php:2149
+msgid "Top Bar"
+msgstr ""
+
+#: lib/pf-settings.php:2150
+msgid "Collector"
+msgstr ""
+
+#: lib/pf-settings.php:2151
+msgid "In Filter Titles"
+msgstr ""
+
+#: lib/pf-settings.php:2152
+msgid "After Filter Titles"
+msgstr ""
+
+#: lib/pf-settings.php:2158
+msgid "Selected Terms Style"
+msgstr ""
+
+#: lib/pf-settings.php:2160
+msgid "Collector and After Filter Titles support styles."
+msgstr ""
+
+#: lib/pf-settings.php:2164 lib/pf-settings.php:4976
+msgid "Border"
+msgstr ""
+
+#: lib/pf-settings.php:2170
+msgid "Reorder Selected Terms"
+msgstr ""
+
+#: lib/pf-settings.php:2172
+msgid "Check this option to reorder selected terms to front."
+msgstr ""
+
+#: lib/pf-settings.php:2177
+msgid "Stepped Filter Selection"
+msgstr ""
+
+#: lib/pf-settings.php:2179
+msgid "Check this option to enable stepped selection."
+msgstr ""
+
+#: lib/pf-settings.php:2184
+msgid "Disable Top Bar"
+msgstr ""
+
+#: lib/pf-settings.php:2186
+msgid ""
+"Check this option to hide the Product Filter top bar. This option will also "
+"make the filter always visible."
+msgstr ""
+
+#: lib/pf-settings.php:2191
+msgid "Disable Sale Button"
+msgstr ""
+
+#: lib/pf-settings.php:2193
+msgid "Check this option to hide the Product Filter sale button."
+msgstr ""
+
+#: lib/pf-settings.php:2198
+msgid "Disable In Stock Button"
+msgstr ""
+
+#: lib/pf-settings.php:2200
+msgid "Check this option to hide the Product Filter in stock button."
+msgstr ""
+
+#: lib/pf-settings.php:2205
+msgid "Disable Clear All Button"
+msgstr ""
+
+#: lib/pf-settings.php:2207
+msgid "Check this option to hide the Clear All button."
+msgstr ""
+
+#: lib/pf-settings.php:2212
+msgid "Override Filter Form Action"
+msgstr ""
+
+#: lib/pf-settings.php:2214
+msgid ""
+"Advanced users can override filter form action. Please check documentation "
+"for more details."
+msgstr ""
+
+#: lib/pf-settings.php:2220
+msgid "Override No Products Action"
+msgstr ""
+
+#: lib/pf-settings.php:2222
+msgid ""
+"Input HTML/Shortcode to override the default action when no products are "
+"found. Default action means that random products will be shown when there "
+"are no products within the filter query."
+msgstr ""
+
+#: lib/pf-settings.php:2233
+msgid "Setup filter style settings."
+msgstr ""
+
+#: lib/pf-settings.php:2238
+msgid "Select style."
+msgstr ""
+
+#: lib/pf-settings.php:2238 lib/pf-settings.php:2258
+msgid "This option does not work with the widget version."
+msgstr ""
+
+#: lib/pf-settings.php:2242
+msgid "Default Inline"
+msgstr ""
+
+#: lib/pf-settings.php:2243
+msgid "Pop Up"
+msgstr ""
+
+#: lib/pf-settings.php:2244
+msgid "Pop Up Inline"
+msgstr ""
+
+#: lib/pf-settings.php:2245
+msgid "Select Boxes"
+msgstr ""
+
+#: lib/pf-settings.php:2246
+msgid "Fixed Sidebar Left"
+msgstr ""
+
+#: lib/pf-settings.php:2247
+msgid "Fixed Sidebar Right"
+msgstr ""
+
+#: lib/pf-settings.php:2248
+msgid "Fixed Sidebar Left With Overlay"
+msgstr ""
+
+#: lib/pf-settings.php:2249
+msgid "Fixed Sidebar Right With Overlay"
+msgstr ""
+
+#: lib/pf-settings.php:2250
+msgid "Full Screen Overlay"
+msgstr ""
+
+#: lib/pf-settings.php:2256
+msgid "Select Mode"
+msgstr ""
+
+#: lib/pf-settings.php:2258
+msgid "Select mode to use with the filter.."
+msgstr ""
+
+#: lib/pf-settings.php:2261
+msgid "One Row"
+msgstr ""
+
+#: lib/pf-settings.php:2262
+msgid "Multiple Rows"
+msgstr ""
+
+#: lib/pf-settings.php:2263
+msgid "Masonry Filters"
+msgstr ""
+
+#: lib/pf-settings.php:2269
+msgid "Max Columns"
+msgstr ""
+
+#: lib/pf-settings.php:2271
+msgid ""
+"This option sets the number of columns for the filter. This option does not "
+"work with the widget version or the fixed sidebar layouts."
+msgstr ""
+
+#: lib/pf-settings.php:2282
+msgid "Limit Max Height"
+msgstr ""
+
+#: lib/pf-settings.php:2284
+msgid "Check this option to limit the Max Height of for the filters."
+msgstr ""
+
+#: lib/pf-settings.php:2289
+msgid "Max Height"
+msgstr ""
+
+#: lib/pf-settings.php:2291
+msgid "Set the Max Height value."
+msgstr ""
+
+#: lib/pf-settings.php:2302
+msgid "Use Custom Scroll Bars"
+msgstr ""
+
+#: lib/pf-settings.php:2304
+msgid ""
+"Check this option to override default browser scroll bars with javascrips "
+"scrollbars in Max Height mode."
+msgstr ""
+
+#: lib/pf-settings.php:2309
+msgid "Select Checkbox Style"
+msgstr ""
+
+#: lib/pf-settings.php:2311
+msgid "Select style for the term checkboxes."
+msgstr ""
+
+#: lib/pf-settings.php:2314 lib/pf-settings.php:4978
+msgid "Round"
+msgstr ""
+
+#: lib/pf-settings.php:2315
+msgid "Square"
+msgstr ""
+
+#: lib/pf-settings.php:2316
+msgid "Checkbox"
+msgstr ""
+
+#: lib/pf-settings.php:2317
+msgid "System Checkboxes"
+msgstr ""
+
+#: lib/pf-settings.php:2323
+msgid "Select Hierarchy Style"
+msgstr ""
+
+#: lib/pf-settings.php:2325
+msgid "Select style for hierarchy terms."
+msgstr ""
+
+#: lib/pf-settings.php:2328
+msgid "Circle"
+msgstr ""
+
+#: lib/pf-settings.php:2329
+msgid "Circle Solid"
+msgstr ""
+
+#: lib/pf-settings.php:2330
+msgid "Lined"
+msgstr ""
+
+#: lib/pf-settings.php:2331
+msgid "Arrows"
+msgstr ""
+
+#: lib/pf-settings.php:2337
+msgid "Select Filter Buttons Position"
+msgstr ""
+
+#: lib/pf-settings.php:2339
+msgid "Select position of the filter buttons, top or bottom."
+msgstr ""
+
+#: lib/pf-settings.php:2342
+msgid "Bottom"
+msgstr ""
+
+#: lib/pf-settings.php:2343
+msgid "Top"
+msgstr ""
+
+#: lib/pf-settings.php:2344
+msgid "Both"
+msgstr ""
+
+#: lib/pf-settings.php:2350
+msgid "Override Filter Icon"
+msgstr ""
+
+#: lib/pf-settings.php:2352
+msgid ""
+"Enter icon class to override the default Product Filter icon. Use icon class "
+"e.g. prdctfltr-filter or FontAwesome fa fa-shopping-cart or any other."
+msgstr ""
+
+#: lib/pf-settings.php:2358
+msgid "Override Filter Title"
+msgstr ""
+
+#: lib/pf-settings.php:2360
+msgid "Override default filter heading (Filter Products)."
+msgstr ""
+
+#: lib/pf-settings.php:2366
+msgid "Override Filter Button Text"
+msgstr ""
+
+#: lib/pf-settings.php:2368
+msgid "Override Filter selected, the default filter submit button text."
+msgstr ""
+
+#: lib/pf-settings.php:2374
+msgid "Select AJAX Loader Icon"
+msgstr ""
+
+#: lib/pf-settings.php:2376
+msgid "Select AJAX loader icon."
+msgstr ""
+
+#: lib/pf-settings.php:2380 lib/pf-settings.php:2381 lib/pf-settings.php:2382
+#: lib/pf-settings.php:2383 lib/pf-settings.php:2384 lib/pf-settings.php:2385
+msgid "Spinner CSS %s - Fullscreen Overlay"
+msgstr ""
+
+#: lib/pf-settings.php:2387 lib/pf-settings.php:2388 lib/pf-settings.php:2389
+#: lib/pf-settings.php:2390 lib/pf-settings.php:2391 lib/pf-settings.php:2392
+msgid "Spinner CSS %s - In Title"
+msgstr ""
+
+#: lib/pf-settings.php:2419
+msgid "Setup style and general settings. Need help? Check this link"
+msgstr ""
+
+#: lib/pf-settings.php:2422
+msgid "Select Filters"
+msgstr ""
+
+#: lib/pf-settings.php:2424
+msgid "Select Filters."
+msgstr ""
+
+#: lib/pf-settings.php:2452
+msgid "Override Products Per Page Filter Label"
+msgstr ""
+
+#: lib/pf-settings.php:2454
+msgid "Enter label for the products per page filter."
+msgstr ""
+
+#: lib/pf-settings.php:2460
+msgid "Per Page Filter Initial"
+msgstr ""
+
+#: lib/pf-settings.php:2462
+msgid "Initial products per page value."
+msgstr ""
+
+#: lib/pf-settings.php:2473
+msgid "Per Page Filter Values"
+msgstr ""
+
+#: lib/pf-settings.php:2475
+msgid "Number of product per page values."
+msgstr ""
+
+#: lib/pf-settings.php:2529
+msgid "Select Vendors"
+msgstr ""
+
+#: lib/pf-settings.php:2644
+msgid "Search"
+msgstr ""
+
+#: lib/pf-settings.php:2665
+msgid "Override Search Filter Placeholder"
+msgstr ""
+
+#: lib/pf-settings.php:2667
+msgid "Enter title for the search filter placeholder."
+msgstr ""
+
+#: lib/pf-settings.php:2698
+msgid "Price Range Filter Initial Price"
+msgstr ""
+
+#: lib/pf-settings.php:2700
+msgid "Initial price for the filter."
+msgstr ""
+
+#: lib/pf-settings.php:2706
+msgid "Price Range Filter Price Add"
+msgstr ""
+
+#: lib/pf-settings.php:2708
+msgid "Price to add."
+msgstr ""
+
+#: lib/pf-settings.php:2714
+msgid "Price Range Filter Intervals"
+msgstr ""
+
+#: lib/pf-settings.php:2716
+msgid ""
+"Number of price intervals to use. E.G. You have set the initial price to "
+"99.9, and the add price is set to 100, you will achieve filtering like "
+"0-99.9, 99.9-199.9, 199.9- 299.9 for the number of times as set in the price "
+"intervals setting."
+msgstr ""
+
+#: lib/pf-settings.php:2755
+msgid "Category Filter"
+msgstr ""
+
+#: lib/pf-settings.php:2761
+msgid "Terms Search Field Mode"
+msgstr ""
+
+#: lib/pf-settings.php:2763
+msgid "Select prefered search field mode type."
+msgstr ""
+
+#: lib/pf-settings.php:2766
+msgid "Show"
+msgstr ""
+
+#: lib/pf-settings.php:2767
+msgid "Hide"
+msgstr ""
+
+#: lib/pf-settings.php:2768
+msgid "Special Search Filter Mode"
+msgstr ""
+
+#: lib/pf-settings.php:2802 lib/pf-settings.php:2954 lib/pf-settings.php:3077
+#: lib/pf-settings.php:3233 lib/pf-settings.php:4112 lib/pf-settings.php:4508
+msgid "Select terms ordering."
+msgstr ""
+
+#: lib/pf-settings.php:2816
+msgid "Term Order"
+msgstr ""
+
+#: lib/pf-settings.php:2841 lib/pf-settings.php:3272
+msgid "Use Hierarchy"
+msgstr ""
+
+#: lib/pf-settings.php:2843
+msgid "Check this option to enable hierarchy."
+msgstr ""
+
+#: lib/pf-settings.php:2848 lib/pf-settings.php:3279
+msgid "Hierarchy Filtering Mode"
+msgstr ""
+
+#: lib/pf-settings.php:2863 lib/pf-settings.php:3294
+msgid "Expand Parents"
+msgstr ""
+
+#: lib/pf-settings.php:2865
+msgid "Check this option to expand parent terms on load."
+msgstr ""
+
+#: lib/pf-settings.php:2922
+msgid "Tag Filter"
+msgstr ""
+
+#: lib/pf-settings.php:2968
+msgid "Tags Order"
+msgstr ""
+
+#: lib/pf-settings.php:3045
+msgid "Characteristics Filter"
+msgstr ""
+
+#: lib/pf-settings.php:3091
+msgid "Characteristics Order"
+msgstr ""
+
+#: lib/pf-settings.php:3220
+msgid "Select style preset to use with the current attribute."
+msgstr ""
+
+#: lib/pf-settings.php:3274
+msgid "Check this option to enable terms hierarchy."
+msgstr ""
+
+#: lib/pf-settings.php:3378
+msgid "Shop and Archives Appearance"
+msgstr ""
+
+#: lib/pf-settings.php:3380
+msgid "Setup Shop and Product Archives appearance."
+msgstr ""
+
+#: lib/pf-settings.php:3383
+msgid "Enable/Disable Shop Page Product Filter"
+msgstr ""
+
+#: lib/pf-settings.php:3385
+msgid ""
+"Check this option in order to disable the Product Filter on Shop page. This "
+"option can be useful for themes with custom Shop pages, if checked the "
+"default WooCommerce or"
+msgstr ""
+
+#: lib/pf-settings.php:3385
+msgid ""
+"filter template will be overriden only on product archives that support it."
+msgstr ""
+
+#: lib/pf-settings.php:3390
+msgid "Shop Page Override"
+msgstr ""
+
+#: lib/pf-settings.php:3392
+msgid "Override default template on the shop page."
+msgstr ""
+
+#: lib/pf-settings.php:3399
+msgid "Shop/Category Display Types And Product Filter"
+msgstr ""
+
+#: lib/pf-settings.php:3401
+msgid ""
+"Select what display types will not show the Product Filter.  Use CTRL+Click "
+"to select multiple display types or deselect all."
+msgstr ""
+
+#: lib/pf-settings.php:3405
+msgid "Show Both"
+msgstr ""
+
+#: lib/pf-settings.php:3414
+msgid "Product Filter Restrictions"
+msgstr ""
+
+#: lib/pf-settings.php:3416
+msgid "Limit filter appearance with Product Filter restrictions."
+msgstr ""
+
+#: lib/pf-settings.php:3419
+msgid "Show Filter Only On Categories"
+msgstr ""
+
+#: lib/pf-settings.php:3421
+msgid ""
+"To show filter only on certain categories in Shop and Product Archives, "
+"select them from the list."
+msgstr ""
+
+#: lib/pf-settings.php:3434
+msgid "Product Filter Overrides and Restrictions"
+msgstr ""
+
+#: lib/pf-settings.php:3435
+msgid ""
+"Override default filter preset on assigned taxonomy terms. Need help? Check "
+"this link"
+msgstr ""
+
+#: lib/pf-settings.php:3456
+msgid "Product"
+msgstr ""
+
+#: lib/pf-settings.php:3456
+msgid "Overrides"
+msgstr ""
+
+#: lib/pf-settings.php:3470
+msgid "Remove Selected Overrides"
+msgstr ""
+
+#: lib/pf-settings.php:3470
+msgid "Remove All Overrides"
+msgstr ""
+
+#: lib/pf-settings.php:3487
+msgid "Add Override"
+msgstr ""
+
+#: lib/pf-settings.php:4745 lib/pf-settings.php:5261
+msgid "Click to discard any settings!"
+msgstr ""
+
+#: lib/pf-settings.php:4748
+msgid "Taxonomy"
+msgstr ""
+
+#: lib/pf-settings.php:4749 lib/pf-settings.php:5265
+msgid "Save Customization"
+msgstr ""
+
+#: lib/pf-settings.php:4756 lib/pf-settings.php:5027
+msgid "Color"
+msgstr ""
+
+#: lib/pf-settings.php:4757
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/pf-settings.php:4758
+msgid "Thumbnail and Text"
+msgstr ""
+
+#: lib/pf-settings.php:4759 lib/pf-settings.php:5069
+msgid "HTML"
+msgstr ""
+
+#: lib/pf-settings.php:4760
+msgid "Select Box"
+msgstr ""
+
+#: lib/pf-settings.php:4977
+msgid "Background"
+msgstr ""
+
+#: lib/pf-settings.php:4994
+msgid "Normal"
+msgstr ""
+
+#: lib/pf-settings.php:4997
+msgid "Active"
+msgstr ""
+
+#: lib/pf-settings.php:5000
+msgid "Disabled"
+msgstr ""
+
+#: lib/pf-settings.php:5011 lib/pf-settings.php:5030 lib/pf-settings.php:5053
+#: lib/pf-settings.php:5072
+msgid "Tooltip"
+msgstr ""
+
+#: lib/pf-settings.php:5047
+msgid "Image URL"
+msgstr ""
+
+#: lib/pf-settings.php:5050
+msgid "Add/Upload image"
+msgstr ""
+
+#: lib/pf-settings.php:5050
+msgid "Image Gallery"
+msgstr ""
+
+#: lib/pf-settings.php:5083
+msgid ""
+"Select Box currently has no special options. !Important Do not use select "
+"boxes inside the select box mode!"
+msgstr ""
+
+#: lib/pf-settings.php:5100
+msgid "Meta filter not customized. Use the Cogs Wheel icon!"
+msgstr ""
+
+#: lib/pf-settings.php:5173 lib/pf-settings.php:5368
+msgid "Minimum"
+msgstr ""
+
+#: lib/pf-settings.php:5177 lib/pf-settings.php:5372
+msgid "Maximum"
+msgstr ""
+
+#: lib/pf-settings.php:5184 lib/pf-settings.php:5204 lib/pf-settings.php:5223
+#: lib/pf-settings.php:5379 lib/pf-settings.php:5419 lib/pf-settings.php:5455
+msgid "Remove"
+msgstr ""
+
+#: lib/pf-settings.php:5197 lib/pf-settings.php:5216 lib/pf-settings.php:5412
+#: lib/pf-settings.php:5448
+msgid "Value"
+msgstr ""
+
+#: lib/pf-settings.php:5266
+msgid "Add Value"
+msgstr ""
+
+#: lib/pf-widget.php:14
+msgid "Product Filter widget version."
+msgstr ""
+
+#: lib/pf-widget.php:118
+msgid "Style"
+msgstr ""
+
+#: lib/pf-widget.php:120
+msgid "Flat Inline"
+msgstr ""
+
+#: lib/pf-widget.php:121
+msgid "Flat Block"
+msgstr ""
+
+#: lib/pf-widget.php:122
+msgid "Flat Select"
+msgstr ""
+
+#: lib/pf-widget.php:126
+msgid "Preset"
+msgstr ""
+
+#: lib/pf-widget.php:140
+msgid "Disable Overrides"
+msgstr ""
+
+#: lib/pf-widget.php:144
+msgid "Widget Action URL"
+msgstr ""
+
+#: lib/pf-widget.php:146
+msgid ""
+"Custom action is used if the widget is not used in shop, product archives or "
+"pages with Product Filter shortcodes. This way you can redirect filtering to "
+"your shop page or a custom page. Enter URL to redirect. For example your "
+"shop page URL"
+msgstr ""
+
+#: lib/update/github-checker.php:120
+msgid "There is no changelog available."
+msgstr ""
+
+#: lib/update/plugin-update-checker.php:637
+msgid "Check for updates"
+msgstr ""
+
+#: lib/update/plugin-update-checker.php:681
+msgid "This plugin is up to date."
+msgstr ""
+
+#: lib/update/plugin-update-checker.php:683
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: lib/update/plugin-update-checker.php:685
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: templates/getright.php:66 templates/getright.php:90
+msgid "Load More"
+msgstr ""
+
+#: templates/getright.php:71 templates/getright.php:95
+msgid "No More Products!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.mihajlovicnenad.com/product-filter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Advanced product filter for any Wordpress template! - mihajlovicnenad.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mihajlovic Nenad"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.mihajlovicnenad.com"
+msgstr ""

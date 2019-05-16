@@ -1,0 +1,32 @@
+{
+    "name": "jmango/plugin",
+    "description": "prestashop plugin",
+    "type": "project",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "config": {
+        "preferred-install": "source"
+    },
+    "repositories": [
+    	{
+            "type": "vcs",
+            "url": "git@gitlab.jmango360.com:kien.pham/prestashop-api-lib.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@gitlab.jmango360.com:kien.pham/prestashop-onepage-lib.git"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "kien/prestashop-api-lib": "dev-hotfix/1.18.7",
+        "kien/prestashop-onepage-lib": "dev-hotfix/1.18.7"
+    },
+    "autoload": {
+       "classmap": [
+       	    "vendor/kien/prestashop-api-lib/src/",
+       	    "vendor/kien/prestashop-onepage-lib/src/classes"
+       	],
+       "files": ["vendor/kien/prestashop-onepage-lib/src/controllers/front/JmLink.php"]
+    }
+}

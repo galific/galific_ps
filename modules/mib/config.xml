@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mib</name>
+    <displayName><![CDATA[Manufacturers Images Block]]></displayName>
+    <version><![CDATA[1.5.1]]></version>
+    <description><![CDATA[Module creates block with manufacturer pictures with links]]></description>
+    <author><![CDATA[MyPresta.eu]]></author>
+    <tab><![CDATA[advertising_marketing]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

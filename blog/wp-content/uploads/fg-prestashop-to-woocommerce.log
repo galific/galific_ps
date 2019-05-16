@@ -1,0 +1,51 @@
+=== START test_database 2019-03-24 17:41:31 ===
+Connected with success to the PrestaShop database
+PrestaShop data found:
+129 products
+53 product categories
+5 CMS articles
+1 CMS category
+4 employees
+26 customers
+36 orders
+
+[WARNING] Your Prestashop database contains several customers. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains some attributes. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains some accessories. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains some orders. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains several manufacturers. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/brands/" target="_blank">Brands add-on</a> to import them.
+=== END test_database 2019-03-24 17:41:31 ===
+
+=== START save 2019-03-24 17:42:21 ===
+Settings saved
+=== END save 2019-03-24 17:42:21 ===
+
+=== START import 2019-03-24 17:42:35 ===
+Connected with success to the PrestaShop database
+PrestaShop data found:
+129 products
+53 product categories
+5 CMS articles
+1 CMS category
+4 employees
+26 customers
+36 orders
+
+[WARNING] Your Prestashop database contains several customers. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains some attributes. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains some accessories. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains some orders. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> to import them.
+[WARNING] Your Prestashop database contains several manufacturers. You need the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/" target="_blank">Premium version</a> and the <a href="https://www.fredericgilles.net/fg-prestashop-to-woocommerce/brands/" target="_blank">Brands add-on</a> to import them.
+Importing CMS categories...
+1 category imported
+Importing CMS articles...
+5 articles imported
+18 tags imported
+Importing product categories...
+53 product categories imported
+Importing products...
+129 products imported
+379 medias imported
+IMPORT COMPLETED
+=== END import 2019-03-24 17:51:22 ===
+

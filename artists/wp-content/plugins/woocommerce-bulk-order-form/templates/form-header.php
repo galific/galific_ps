@@ -1,0 +1,2 @@
+<form id="wcbulkorderform_<?php echo $formid; ?>" data-formid="<?php echo $formid; ?>" class="wcbulkorderform <?php echo $template; ?>" method="post" action="">
+	<div class="backEndResponse" > <?php if ( function_exists('wc_print_notices') ) wc_print_notices(); ?> </div>

@@ -1,0 +1,21 @@
+.subsubsub.wc_bof_settings_submenu {
+    display: block !important;
+    margin: 15px 0;
+    width: 100%;
+}
+
+.wc_bof_settings_content table td label,
+.wc_bof_settings table td label {
+    display: inline-block;
+    width: auto;
+}
+
+.wcbof-settings-width-fix{
+    width:50% !important;
+    max-width:50% !important;
+}
+
+/* fix width init for elements that are not initially visible */
+.wc_bof_settings_content .select2 {
+    width: 50% !important;
+}

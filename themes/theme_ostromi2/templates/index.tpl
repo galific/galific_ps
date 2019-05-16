@@ -25,9 +25,20 @@
 {extends file='page.tpl'}
 
     {block name='page_content_container'}
-      <section id="content" class="page-home">
+      <section id="content" class="page-home clearfix">
         {block name='page_content_top'}{/block}
-
+	<div class="seller-artist">
+	<div class="col-sm-6">
+		<a href="https://galific.com/login?create_account=1" target="_blank">
+		<img src="https://i.ibb.co/58DRw8p/register-seller.jpg" class="img-responsive">
+		</a>
+	</div>
+	 <div class="col-sm-6">
+		<a href="https://galific.com/artists/wp-login.php?action=register" target="_blank">
+		<img src="https://i.ibb.co/bPjhmfm/register-artist.jpg" class="img-responsive">
+		</a>
+        </div>
+	</div>
         {block name='page_content'}
           {block name='hook_home'}
             {$HOOK_HOME nofilter}

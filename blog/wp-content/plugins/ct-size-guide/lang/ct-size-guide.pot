@@ -1,0 +1,523 @@
+# Copyright (C) 2019 createIT Size Guide Plugin
+# This file is distributed under the same license as the createIT Size Guide Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: createIT Size Guide Plugin 3.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/ct-size-guide\n"
+"POT-Creation-Date: 2019-02-13 16:45:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ctSizeGuideCPT.php:24
+msgctxt "post type general name"
+msgid "Size guides"
+msgstr ""
+
+#: ctSizeGuideCPT.php:25
+msgctxt "post type singular name"
+msgid "Size guide"
+msgstr ""
+
+#: ctSizeGuideCPT.php:26
+msgctxt "admin menu"
+msgid "Size guides"
+msgstr ""
+
+#: ctSizeGuideCPT.php:27
+msgctxt "add new on admin bar"
+msgid "Size guide"
+msgstr ""
+
+#: ctSizeGuideCPT.php:28
+msgctxt "size guide"
+msgid "Add new"
+msgstr ""
+
+#: ctSizeGuideCPT.php:29
+msgid "Add new size guide"
+msgstr ""
+
+#: ctSizeGuideCPT.php:30
+msgid "New size guide"
+msgstr ""
+
+#: ctSizeGuideCPT.php:31
+msgid "Edit size guide"
+msgstr ""
+
+#: ctSizeGuideCPT.php:32
+msgid "View size guide"
+msgstr ""
+
+#: ctSizeGuideCPT.php:33
+msgid "All size guides"
+msgstr ""
+
+#: ctSizeGuideCPT.php:34
+msgid "Search size guides"
+msgstr ""
+
+#: ctSizeGuideCPT.php:35
+msgid "No size guides found."
+msgstr ""
+
+#: ctSizeGuideCPT.php:36
+msgid "No size guides found in trash."
+msgstr ""
+
+#: ctSizeGuideCPT.php:66
+msgid "Shortcode"
+msgstr ""
+
+#: ctSizeGuideCPT.php:67
+msgid "Date"
+msgstr ""
+
+#: ctSizeGuideCategories.php:23
+msgid "Choose product categories"
+msgstr ""
+
+#: ctSizeGuideCategories.php:37
+msgid " in: "
+msgstr ""
+
+#: ctSizeGuideDisplay.php:34
+msgid "Choose size guide"
+msgstr ""
+
+#: ctSizeGuideDisplay.php:408 ctSizeGuideDisplay.php:410
+msgid "Size Guide"
+msgstr ""
+
+#. #-#-#-#-#  ct-size-guide.pot (createIT Size Guide Plugin 3.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: ctSizeGuidePlugin.php:85
+msgid "createIT Size Guide Plugin"
+msgstr ""
+
+#: ctSizeGuidePlugin.php:85
+msgid ""
+"WooCommerce Plugin must be installed and activated in order to use this "
+"plugin."
+msgstr ""
+
+#: ctSizeGuidePlugin.php:110
+msgid "Settings"
+msgstr ""
+
+#: ctSizeGuidePlugin.php:111
+msgid "Docs"
+msgstr ""
+
+#: ctSizeGuidePlugin.php:141 ctSizeGuideSettings.php:58
+msgid "Minimalistic"
+msgstr ""
+
+#: ctSizeGuidePlugin.php:142 ctSizeGuideSettings.php:59
+msgid "Classic"
+msgstr ""
+
+#: ctSizeGuidePlugin.php:143 ctSizeGuideSettings.php:60
+msgid "Modern"
+msgstr ""
+
+#: ctSizeGuideSettings.php:28
+msgid "Size guide"
+msgstr ""
+
+#: ctSizeGuideSettings.php:44 ctSizeGuideTable.php:139
+msgid "Size guide settings"
+msgstr ""
+
+#: ctSizeGuideSettings.php:49
+msgid "Style"
+msgstr ""
+
+#: ctSizeGuideSettings.php:50
+msgid ""
+"Chose the style of popup window (checkout previews in the plugin <a href="
+"\"http://createit.support/documentation/size-guide/#doc-7007\" target="
+"\"_blank\">documentation</a>)."
+msgstr ""
+
+#: ctSizeGuideSettings.php:64 ctSizeGuideTable.php:162
+msgid "Open guide with:"
+msgstr ""
+
+#: ctSizeGuideSettings.php:65 ctSizeGuideTable.php:166
+msgid ""
+"Chose whether to display a simple link or a button to open the size guide."
+msgstr ""
+
+#: ctSizeGuideSettings.php:73 ctSizeGuideTable.php:164
+msgid "Link"
+msgstr ""
+
+#: ctSizeGuideSettings.php:74 ctSizeGuideTable.php:165
+msgid "Button"
+msgstr ""
+
+#: ctSizeGuideSettings.php:78
+msgid "Hide Size Guide"
+msgstr ""
+
+#: ctSizeGuideSettings.php:79
+msgid "Check this field to hide size guide when the product is out of stock"
+msgstr ""
+
+#: ctSizeGuideSettings.php:88 ctSizeGuideTable.php:168
+msgid "Button/link position:"
+msgstr ""
+
+#: ctSizeGuideSettings.php:89
+msgid ""
+"For manual embed, [ct_size_guide] shortcode can be placed anywhere you want. "
+"More info can be found <a href=\"http://createit.support/documentation/size-"
+"guide/#doc-7007\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ctSizeGuideSettings.php:97 ctSizeGuideTable.php:170
+msgid "Under Price"
+msgstr ""
+
+#: ctSizeGuideSettings.php:98 ctSizeGuideTable.php:171
+msgid "Above the product summary tabs"
+msgstr ""
+
+#: ctSizeGuideSettings.php:99 ctSizeGuideTable.php:172
+msgid "After Add To Cart button"
+msgstr ""
+
+#: ctSizeGuideSettings.php:100 ctSizeGuideTable.php:173
+msgid "After Product Info"
+msgstr ""
+
+#: ctSizeGuideSettings.php:101 ctSizeGuideTable.php:174
+msgid "Make it a tab"
+msgstr ""
+
+#: ctSizeGuideSettings.php:102 ctSizeGuideTable.php:175
+msgid "Embed manually (shortcode)"
+msgstr ""
+
+#: ctSizeGuideSettings.php:106
+msgid "Button/link hook priority"
+msgstr ""
+
+#: ctSizeGuideSettings.php:107
+msgid ""
+"Priority of the action that outputs the button/link. Using this you can "
+"adjust the position - check the <a href=\"http://createit.support/"
+"documentation/size-guide/#button-priority\">documentation</a> for more "
+"information."
+msgstr ""
+
+#: ctSizeGuideSettings.php:116
+msgid "Button/link label"
+msgstr ""
+
+#: ctSizeGuideSettings.php:124
+msgid "Button/link align"
+msgstr ""
+
+#: ctSizeGuideSettings.php:132 ctSizeGuideTable.php:285
+msgid "Left"
+msgstr ""
+
+#: ctSizeGuideSettings.php:133 ctSizeGuideTable.php:286
+msgid "Right"
+msgstr ""
+
+#: ctSizeGuideSettings.php:137
+msgid "Button/link clearing"
+msgstr ""
+
+#: ctSizeGuideSettings.php:138 ctSizeGuideTable.php:293
+msgid "Allow floating elements on the sides of the link/button?"
+msgstr ""
+
+#: ctSizeGuideSettings.php:147
+msgid "Button class"
+msgstr ""
+
+#: ctSizeGuideSettings.php:148
+msgid ""
+"Add a custom class to the button. If You want to use default class, type: "
+"button_sg"
+msgstr ""
+
+#: ctSizeGuideSettings.php:156
+msgid "Button icon"
+msgstr ""
+
+#: ctSizeGuideSettings.php:157
+msgid "Icon to accompany text in button, type: icon_sg"
+msgstr ""
+
+#: ctSizeGuideSettings.php:162 ctSizeGuideTable.php:411
+msgid "Margin left"
+msgstr ""
+
+#: ctSizeGuideSettings.php:163
+msgid "Enter the left margin of the link/button"
+msgstr ""
+
+#: ctSizeGuideSettings.php:171 ctSizeGuideTable.php:412
+msgid "Margin top"
+msgstr ""
+
+#: ctSizeGuideSettings.php:172
+msgid "Enter the top margin of the link/button"
+msgstr ""
+
+#: ctSizeGuideSettings.php:180 ctSizeGuideTable.php:413
+msgid "Margin right"
+msgstr ""
+
+#: ctSizeGuideSettings.php:181
+msgid "Enter the right margin of the link/button"
+msgstr ""
+
+#: ctSizeGuideSettings.php:189 ctSizeGuideTable.php:414
+msgid "Margin bottom"
+msgstr ""
+
+#: ctSizeGuideSettings.php:190
+msgid "Enter the bottom margin of the link/button"
+msgstr ""
+
+#: ctSizeGuideSettings.php:198
+msgid "Popup overlay color"
+msgstr ""
+
+#: ctSizeGuideSettings.php:199
+msgid "Click to pick the color of the popup background overlay"
+msgstr ""
+
+#: ctSizeGuideSettings.php:206 ctSizeGuideTable.php:487
+msgid "Padding left"
+msgstr ""
+
+#: ctSizeGuideSettings.php:207
+msgid "Enter the left padding of the content in the popup window"
+msgstr ""
+
+#: ctSizeGuideSettings.php:215 ctSizeGuideTable.php:488
+msgid "Padding top"
+msgstr ""
+
+#: ctSizeGuideSettings.php:216
+msgid "Enter the top padding of the content in the popup window"
+msgstr ""
+
+#: ctSizeGuideSettings.php:224 ctSizeGuideTable.php:489
+msgid "Padding right"
+msgstr ""
+
+#: ctSizeGuideSettings.php:225
+msgid "Enter the right padding of the content in the popup window"
+msgstr ""
+
+#: ctSizeGuideSettings.php:233 ctSizeGuideTable.php:490
+msgid "Padding bottom"
+msgstr ""
+
+#: ctSizeGuideSettings.php:234
+msgid "Enter the bottom padding of the content in the popup window"
+msgstr ""
+
+#: ctSizeGuideSettings.php:243
+msgid "Table hover"
+msgstr ""
+
+#: ctSizeGuideSettings.php:244
+msgid "Do you want to use hover effect on tables?"
+msgstr ""
+
+#: ctSizeGuideSettings.php:251
+msgid "Background for hovers line"
+msgstr ""
+
+#: ctSizeGuideSettings.php:252 ctSizeGuideSettings.php:261
+msgid "Set background color for hover lines"
+msgstr ""
+
+#: ctSizeGuideSettings.php:260
+msgid "Background for active cell on hover"
+msgstr ""
+
+#: ctSizeGuideSettings.php:269
+msgid "Responsible tables"
+msgstr ""
+
+#: ctSizeGuideSettings.php:270
+msgid "This option disables responsive view of tables"
+msgstr ""
+
+#: ctSizeGuideSettings.php:275
+msgid "Responsive"
+msgstr ""
+
+#: ctSizeGuideSettings.php:276
+msgid "Non responsive"
+msgstr ""
+
+#: ctSizeGuideTable.php:27
+msgid "Create/modify size guide table"
+msgstr ""
+
+#: ctSizeGuideTable.php:87
+msgid "Text above table"
+msgstr ""
+
+#: ctSizeGuideTable.php:101
+msgid "Add Table"
+msgstr ""
+
+#: ctSizeGuideTable.php:102
+msgid "Remove Table"
+msgstr ""
+
+#: ctSizeGuideTable.php:105
+msgid "Table caption"
+msgstr ""
+
+#: ctSizeGuideTable.php:163 ctSizeGuideTable.php:169 ctSizeGuideTable.php:183
+#: ctSizeGuideTable.php:235 ctSizeGuideTable.php:284 ctSizeGuideTable.php:290
+#: ctSizeGuideTable.php:300 ctSizeGuideTable.php:354 ctSizeGuideTable.php:429
+msgid "Use global settings"
+msgstr ""
+
+#: ctSizeGuideTable.php:176
+msgid ""
+"For manual embed, [ct_size_guide] shortcode can be placed anywhere you want. "
+"More info can be found <a href=\"http://createit.support/documentation/size-"
+"guide/#doc-7007\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ctSizeGuideTable.php:181
+msgid "Button/link hook priority:"
+msgstr ""
+
+#: ctSizeGuideTable.php:184 ctSizeGuideTable.php:236 ctSizeGuideTable.php:301
+#: ctSizeGuideTable.php:355 ctSizeGuideTable.php:430
+msgid "Use individual settings"
+msgstr ""
+
+#: ctSizeGuideTable.php:186
+msgid ""
+"Chose whether to use global or individual option to set priority of the "
+"action that outputs the button/link. Using this you can adjust the position "
+"- check the <a href=\"http://createit.support/documentation/size-guide/"
+"#button-priority\">documentation</a> for more information."
+msgstr ""
+
+#: ctSizeGuideTable.php:225
+msgid "Individual priority:"
+msgstr ""
+
+#: ctSizeGuideTable.php:227
+msgid "Type individual priority."
+msgstr ""
+
+#: ctSizeGuideTable.php:233
+msgid "Button/link label:"
+msgstr ""
+
+#: ctSizeGuideTable.php:238
+msgid ""
+"Chose whether to use global or individual option to display name of the size "
+"guide button/link's label."
+msgstr ""
+
+#: ctSizeGuideTable.php:277
+msgid "Individual label:"
+msgstr ""
+
+#: ctSizeGuideTable.php:279
+msgid "Type button/link label."
+msgstr ""
+
+#: ctSizeGuideTable.php:283
+msgid "Button/link align:"
+msgstr ""
+
+#: ctSizeGuideTable.php:289
+msgid "Button/link clearing:"
+msgstr ""
+
+#: ctSizeGuideTable.php:291
+msgid "Yes"
+msgstr ""
+
+#: ctSizeGuideTable.php:292
+msgid "No"
+msgstr ""
+
+#: ctSizeGuideTable.php:298
+msgid "Button class:"
+msgstr ""
+
+#: ctSizeGuideTable.php:303
+msgid ""
+"Chose whether to use global or individual option to set custom class of the "
+"size guide button."
+msgstr ""
+
+#: ctSizeGuideTable.php:343
+msgid "Individual class:"
+msgstr ""
+
+#: ctSizeGuideTable.php:345
+msgid ""
+"Add a custom class to the button. Default class which we use is button_sg"
+msgstr ""
+
+#: ctSizeGuideTable.php:352
+msgid "Margins of the link/button:"
+msgstr ""
+
+#: ctSizeGuideTable.php:357
+msgid ""
+"Chose whether to use global or individual option to set button/link margins."
+msgstr ""
+
+#: ctSizeGuideTable.php:422
+msgid "Popup overlay color:"
+msgstr ""
+
+#: ctSizeGuideTable.php:422
+msgid ""
+"Click to pick the color of the popup background overlay. Get global option "
+"by clicking clear and update"
+msgstr ""
+
+#: ctSizeGuideTable.php:427
+msgid "Popup window content paddings:"
+msgstr ""
+
+#: ctSizeGuideTable.php:432
+msgid ""
+"Chose whether to use global or individual option to set popup window content "
+"paddings."
+msgstr ""
+
+#. #-#-#-#-#  ct-size-guide.pot (createIT Size Guide Plugin 3.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  ct-size-guide.pot (createIT Size Guide Plugin 3.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://createit.pl"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Size guide tables for WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "createIT"
+msgstr ""

@@ -38,6 +38,16 @@
     </div>
   </div>
 <div class="header-bottom">
+	 <div class="seller-nav">
+                <ul class="list-inline">
+                        <li class="list-item"><i class="fa fa-shopping-cart"></i><a href="https://galific.com/login?create_account=1"> Sell Your Craft  </a></li>
+                        <li class="list-item"><i class="fa fa-cart-plus" aria-hidden="true"></i><a href=""> Bulk Order</a>  </li>
+                        <li class="list-item"><i class="fa fa-rss-square" aria-hidden="true"></i><a href="https://galific.com/artists/blog/"> Blog </a> </li>
+                        <li class="list-item"><i class="fa fa-user-plus" aria-hidden="true"></i><a href="https://galific.com/artists/wp-login.php?action=register"> Create your Portfolio </a> </li>
+                        <li class="list-item"><i class="fa fa-user-secret" aria-hidden="true"></i><a href="https://galific.com/artists/"> Our Artists </a></li>
+                </ul>
+        </div>
+
 	<div class="container">
 		{hook h='displaymegamenu'}
 	</div>

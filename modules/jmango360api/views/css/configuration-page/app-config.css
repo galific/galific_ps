@@ -1,0 +1,900 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+.jmango-prestashop-qs{
+    background:#fff;
+    padding-bottom:50px;
+}
+.jmango-prestashop-qs img{
+    max-width:100%;
+}
+@media (max-width:1380px){
+    .jmango-prestashop-qs{
+        padding-left:15px;
+        padding-right:15px;
+    }
+}
+body.pretashop_backend_view {
+    background: #fff;
+    overflow: scroll;
+}
+
+.ps_back-office .bootstrap-select ul.dropdown-menu {
+    position: relative!important;
+    margin: 0!important;
+    padding: 0!important;
+    border: none!important;
+    box-shadow:none!important;
+    width:100%;
+    max-height:280px!important;
+}
+.ps_back-office .bootstrap-select ul.dropdown-menu>li>a:hover,
+.ps_back-office .bootstrap-select ul.dropdown-menu>li>a:focus{
+    background:#f9f9f9;
+    color:#727173;
+}
+.dropup {
+    position: relative;
+}
+.dropup .dropdown-menu {
+    top: auto;
+    bottom: 100%;
+    margin-bottom: 2px;
+}
+.lightTip {
+    font-family: "Open Sans";
+}
+.lightTip .content {
+    /*   width: auto;
+        max-width: 250px;
+        padding: 9px 13px 10px 13px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        background: #fff;
+        font-size: 12px;
+        color: #fff;
+        font-weight: normal;
+    */
+    max-width: 250px;
+    padding: 9px 13px 10px 13px;
+    font-size: 12px;
+    color: rgb(102,100,105);
+    font-family: "Helvetica";
+    box-shadow: 0px 3px 14px rgba(112,112,112,0.5);
+    background: #ffffff;
+    border-radius: 3px;
+}
+.lightTip .content:before{
+    content: '';
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    display: block;
+    top: calc(100% - 16px);
+    left: calc(50% - 7px);
+    transform: rotate(45deg);
+    background: #fff;
+    box-shadow: 4px 4px 7px 0 rgba(0, 0, 0, 0.1);
+}
+.lightTip .bottom {
+    /* width: 0; */
+    /* background: url("../../../../jmango360api/views/img/backend_pretashop_qs/arrow-bottom-tooltip.png") no-repeat center top transparent; */
+    /* width:22px; */
+    height:9px;
+    position: relative;
+    /* left: calc(50% - 11px); */
+    /* top:100%; */
+}
+body[page=pres_qs_app_config] .pres-plugin-header,
+body[page=pres_qs_hurray] .pres-plugin-header {
+    max-width: 1120px!important;
+    padding-left: 245px;
+    margin: 0 auto;
+}
+.pres-plugin-header {
+    position: relative;
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+.pres-plugin-header .language-change {
+    position: absolute;
+    right: 0;
+    top: calc(50% - 20px);
+}
+.pres-plugin-header .logo svg + svg {
+    margin-left: 30px;
+}
+
+.pres-plugin-header .logo {
+    display: table;
+    width: 100%;
+}
+.pres-plugin-header .logo svg {
+    float: left;
+}
+.pres-plugin-header .logo svg#logoJmango360 {
+    width: 90px;
+}
+.pres-plugin-header .logo svg#logoPretashop {
+    width: 145px;
+    margin-top: 17px;
+}
+.pres-plugin-header .logo svg + svg {
+    margin-left: 30px;
+}
+.pres-plugin-config {
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pres-plugin-config .pres-plugin-tabs {
+    position: relative;
+    display: table;
+    width: 100%;
+    font-family: "Open Sans";
+    font-size: 13px;
+    color: #666469;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-buttons-group {
+    float: left;
+    width: 205px;
+    background: #fff;
+    border: 1px solid #d6d7da;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-buttons-group .tab-item {
+    line-height: 24px;
+    border-left: 3px solid transparent;
+    padding: 18px 17px;
+    cursor: pointer;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-buttons-group .tab-item + .tab-item {
+    border-top: 1px solid #d6d7da;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-buttons-group .tab-item.active {
+    background: #f6fbfe;
+    border-left: 3px solid #4a90e2;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group {
+    margin-left: 245px;
+    background: #f7f9fa;
+    position: relative;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+    padding: 30px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started {
+    background:#f7f9fa;
+    padding: 0;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .desc-intro {
+    color: #fff;
+    background: #4a90e2;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 10px 13px;
+    line-height: 18px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image {
+    position: relative;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block{
+    position:absolute;
+    color:#fff;
+    bottom:50px;
+    width:550px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block .title{
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 360px;
+    margin-left: 60px;
+    margin-bottom: 35px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block .banner-feature-item{
+    display:table;
+    width:100%;
+    padding-left:55px;
+    padding-right:30px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block .item{
+    float:left;
+    width:50%;
+    padding:0 10px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block .item-left{
+    font-weight:300;
+    float:left;
+    font-size:61px;
+    width:70px;
+
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block .item-left span{
+    font-size:43px;
+    position:relative;
+    top:-8px;
+    left:-5px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .banner-content-block .item-right{
+    margin-left:72px;
+    font-size:13px;
+    padding-top:20px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .deal-box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url("../../../../jmango360api/views/img/backend_pretashop_qs/bg-deal-banner.svg") no-repeat right top transparent;
+    text-align: center;
+    width: 182px;
+    height: 166px;
+    padding: 30px 10px 20px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .deal-box a {
+    color: #fff;
+    text-decoration: none;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .deal-box a span {
+    display: block;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .deal-box a span.line-1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .deal-box a span.line-2 {
+    font-size: 13px;
+    font-weight: 600;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items {
+    background: #4a90e2;
+    color: #fff;
+    padding: 7px 15px;
+}
+@media (min-width:992px){
+    .pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .row > div:nth-child(1),
+    .pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .row > div:nth-child(2){
+        width:22%;
+    }
+    .pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .row > div:nth-child(3),
+    .pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .row > div:nth-child(4){
+        width:28%;
+    }
+}
+
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .item {
+    display: table;
+    width: 100%;
+    padding: 5px 0;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .item .image {
+    float: left;
+    width: 50px;
+    text-align: center;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .feature-items .item .desc {
+    font-size: 13px;
+    margin-left: 50px;
+    font-weight: 600;
+    line-height: 16px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content.active {
+    position: relative;
+    display: block;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group #hurray {
+    text-align: center;
+    padding: 100px 30px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group #hurray .title {
+    font-size: 31px;
+    line-height: 1;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group #hurray .desc {
+    margin-bottom: 35px;
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group #hurray button#goto-myapp {
+    height: 34px;
+    line-height: 34px;
+    border: none;
+    background: #4a90e2;
+    border-radius: 3px;
+    text-align: center;
+    min-width: 180px;
+    padding: 0 15px;
+    color: #fff;
+    font-family: "Open Sans";
+}
+.pres-plugin-config .pres-plugin-tabs .tab-contents-group #hurray button#goto-myapp:hover {
+    background: #2275d7;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration {
+    max-width: 540px;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .form-field {
+    display: table;
+    width: 100%;
+    padding-right: 40px;
+    position: relative;
+    margin-bottom: 25px;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .form-label {
+    float: left;
+    width: 130px;
+    line-height: 34px;
+    font-weight: 600;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .form-value {
+    margin-left: 130px;
+    position: relative;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .form-extra {
+    float: right;
+    width: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .tTips {
+    color: #4a8fe2;
+    line-height: 34px;
+    font-size: 20px;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .title-form {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .title-form #txt-app-config-title + .tTips{
+    margin-left:10px;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .form-field.field-submit {
+    text-align: right;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .txt_text {
+    height: 34px;
+    line-height: 32px;
+    padding: 0 7px;
+    border-radius: 3px;
+    background: #fff;
+    border: 1px solid #e4e5e7;
+    width: 100%;
+    color: #727173;
+}
+.pres-plugin-config .pres-plugin-tabs .app-configuration .btn-submit {
+    min-width: 170px;
+    text-align: center;
+    color: #fff;
+    background: #4a8fe2;
+    border: none;
+    border-radius: 3px;
+    height: 34px;
+    line-height: 34px;
+    padding: 0 15px;
+    font-size: 14px;
+    font-weight: 300;
+}
+.bootstrap-select.txt-lang-change {
+    width: 160px!important;
+    font-size: 13px;
+    color: #727173;
+    font-family: "Open Sans";
+}
+.bootstrap-select.txt-lang-change .btn {
+    font-size: inherit;
+    color: inherit;
+    font-family: inherit;
+    opacity: 1!important;
+}
+.bootstrap-select.txt-lang-change .dropdown-toggle {
+    height: 42px;
+    line-height: 40px;
+    border: 1px solid #c3c5c8;
+    border-radius: 3px;
+    background: #fff;
+    padding: 0 23px;
+    box-shadow: none;
+    width:100%;
+}
+.bootstrap-select.txt-lang-change .dropdown-toggle .filter-option img {
+    float: left;
+    margin: 13px 9px 0 0;
+}
+.bootstrap-select.txt-lang-change .dropdown-toggle .caret {
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 8px;
+    margin-top: 0;
+    vertical-align: middle;
+    font-size: 20px;
+    z-index: 9999;
+    width:auto;
+}
+.bootstrap-select.txt-lang-change .dropdown-toggle .caret:before {
+    font-family: FontAwesome;
+    content: "\f107";
+}
+.bootstrap-select.txt-lang-change div.dropdown-menu {
+    margin: 0;
+    padding: 4px 0;
+    top: 0;
+    border-radius: 3px;
+    box-shadow: none;
+    border: 1px solid #c3c5c8;
+}
+.bootstrap-select.txt-lang-change div.dropdown-menu .dropdown-menu > li > a {
+    padding: 5px 23px;
+    font-size: 13px;
+}
+.bootstrap-select.txt-lang-change div.dropdown-menu .dropdown-menu > li > a .media-left {
+    float: left;
+    margin: 0 9px 0 0;
+}
+.pres-plugin-tabs .tab-contents-group {
+    margin-bottom: 50px;
+}
+.pres-plugin-tabs .tab-content {
+    color: #727173;
+    background: #fff;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+.pres-plugin-tabs .tab-content .title.bottom-border {
+    font-size: 30px;
+    line-height: 1;
+    position: relative;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 33px;
+}
+.pres-plugin-tabs .tab-content .title.bottom-border:after {
+    position: absolute;
+    bottom: 0;
+    width: 130px;
+    left: calc(50% - 65px);
+    border-bottom: 2px solid #9ec4f0;
+    content: '';
+}
+.pres-plugin-tabs .tab-content#introduction {
+    padding: 0;
+    color: #727173;
+    text-align: center;
+    font-size: 14px;
+}
+.pres-plugin-tabs .tab-content#introduction .block1 {
+    text-align: center;
+    background: #f7f9fa;
+    padding: 40px 35px 60px 35px;
+}
+.pres-plugin-tabs .tab-content#introduction .block1 .desc {
+    padding-bottom: 45px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 {
+    padding-top: 40px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .intro-feature-items {
+    padding-top: 15px;
+    padding-left:45px;
+    padding-right:45px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .intro-feature-items .feature-item .feature-item-inner {
+    padding: 0 25px 25px 25px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .intro-feature-items .feature-item .title {
+    font-weight: bold;
+    padding-bottom: 13px;
+    padding-top: 8px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .intro-feature-items .feature-item .image {
+    height: 42px;
+}
+@media (max-width: 991px) {
+    .pres-plugin-tabs .tab-content#introduction .block2 .intro-feature-items .feature-item:nth-child(2n+1) {
+        clear: left;
+    }
+}
+@media (min-width: 992px) {
+    .pres-plugin-tabs .tab-content#introduction .block2 .intro-feature-items .feature-item:nth-child(3n+1) {
+        clear: left;
+    }
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .btn-group {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .btn-group a.btn-get-started {
+    text-decoration: none;
+    display: inline-block;
+    height: 34px;
+    line-height: 34px;
+    min-width: 180px;
+    border-radius: 3px;
+    background: #4a90e2;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    padding: 0 15px;
+}
+.pres-plugin-tabs .tab-content#introduction .block2 .btn-group a.btn-get-started:hover {
+    background: #2b7ddd;
+}
+.pres-plugin-tabs .tab-content#pricing {
+    padding: 0;
+    font-size: 14px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 {
+    background: #f7f9fa;
+    padding: 32px 26px 50px 40px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .row-price > .row > div:nth-child(1){
+    padding-right:0;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .heading {
+    margin-bottom: 35px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .heading .desc {
+    max-width:270px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .heading .title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box {
+    width: 325px;
+    float: right;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+    background: #fff;
+    margin-right:20px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-top {
+    border-top: 1px solid #c3c5c8;
+    border-right: 1px solid #c3c5c8;
+    border-left: 1px solid #c3c5c8;
+    border-bottom: 1px solid #c3c5c8;
+    border-radius: 5px 5px 0 0;
+    font-size: 21px;
+    padding: 10px 40px 40px 40px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-top .price-line1 {
+    border-bottom: 1px solid #c3c5c8;
+    padding-bottom: 20px;
+    margin-bottom: 7px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-top .price-line1 span {
+    font-size: 40px;
+    color: #4a90e2;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-top .price-line2 span {
+    color: #4a90e2;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-bottom {
+    background: #ff5d5d;
+    border-radius: 0 0 5px 5px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 10px 10px 24px 10px;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-bottom .title {
+    font-size: 19px;
+    font-weight: 600;
+}
+.pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-bottom .desc {
+    margin-bottom: 16px;
+}
+.pres-plugin-tabs .tab-content#pricing .block2 {
+    padding: 35px 15px 25px 15px;
+}
+.pres-plugin-tabs .tab-content#pricing .block2 .item {
+    padding: 0 0 15px 0;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+.pres-plugin-tabs .tab-content#pricing .block2 .item .image {
+    margin-bottom: 17px;
+    height:46px;
+}
+.pres-plugin-tabs .tab-content#pricing .block3 {
+    background: #f7f9fa;
+}
+.pres-plugin-tabs .tab-content#pricing .block3,
+.pres-plugin-tabs .tab-content#pricing .block4 {
+    padding-top: 45px;
+    text-align: center;
+}
+.pres-plugin-tabs .tab-content#pricing .block3 .block-title .desc,
+.pres-plugin-tabs .tab-content#pricing .block4 .block-title .desc {
+    padding: 0 30px;
+}
+.pres-plugin-tabs .tab-content#pricing .block3 .feature-items,
+.pres-plugin-tabs .tab-content#pricing .block4 .feature-items {
+    padding: 65px 20px 50px 20px;
+}
+.pres-plugin-tabs .tab-content#pricing .block3 .item,
+.pres-plugin-tabs .tab-content#pricing .block4 .item {
+    padding: 0 10px 10px 10px;
+}
+.pres-plugin-tabs .tab-content#pricing .block3 .item .title,
+.pres-plugin-tabs .tab-content#pricing .block4 .item .title {
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+.pres-plugin-tabs .tab-content#pricing .block3 .item .image,
+.pres-plugin-tabs .tab-content#pricing .block4 .item .image {
+    height: 49px;
+}
+.pres-plugin-tabs .tab-content#benefits {
+    padding: 0;
+}
+.pres-plugin-tabs .tab-content#benefits .block1 {
+    background: #f7f9fa;
+    padding-top: 42px;
+    padding-bottom: 38px;
+}
+.pres-plugin-tabs .tab-content#benefits .block1 .desc {
+    padding: 0 30px;
+    text-align: center;
+}
+.pres-plugin-tabs .tab-content#benefits .block2 {
+    padding-top: 38px;
+}
+.pres-plugin-tabs .tab-content#benefits .block2 .heading {
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+.pres-plugin-tabs .tab-content#benefits .block2 .heading .title {
+    font-size: 18px;
+    font-weight: 600;
+    white-space: nowrap;
+    padding-bottom: 15px;
+}
+.pres-plugin-tabs .tab-content#benefits .block2 .heading .desc {
+    padding-right: 50px;
+}
+.pres-plugin-tabs .tab-content#benefits .block2 .image {
+    overflow: hidden;
+    padding-top: 43px;
+}
+.pres-plugin-tabs .tab-content#benefits .block2 .image img {
+    width: auto;
+    max-width: none;
+}
+.pres-plugin-tabs .tab-content#benefits .block3 {
+    padding: 45px 15px;
+    text-align: center;
+}
+.pres-plugin-tabs .tab-content#benefits .block3 a.btn-get-started {
+    text-decoration: none;
+    display: inline-block;
+    height: 34px;
+    line-height: 34px;
+    min-width: 180px;
+    border-radius: 3px;
+    background: #4a90e2;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    padding: 0 15px;
+}
+.pres-plugin-tabs .tab-content#benefits .block3 a.btn-get-started:hover {
+    background: #2b7ddd;
+}
+.pres-plugin-tabs .tab-content#faq-contact {
+    padding: 0;
+    font-size: 14px;
+    color: #727173;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 {
+    background: #f7f9fa;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact {
+    padding: 35px 50px 0 50px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item {
+    padding-bottom: 30px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .image-icon {
+    margin-bottom: 16px;
+    height:34px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .desc {
+    line-height: 16px;
+    max-width:200px;
+    margin:0 auto;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .btn-button-group {
+    padding-top: 22px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .btn-button-group a.btn-goto-help {
+    height: 35px;
+    line-height: 35px;
+    color: #fff;
+    font-size: 13px;
+    text-align: center;
+    border-radius: 3px;
+    background: #4a90e2;
+    min-width: 170px;
+    display: inline-block;
+    text-decoration: none;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .btn-button-group a.btn-goto-help:hover {
+    background: #2b7ddd;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .btn-button-group a.btn-send-email {
+    text-decoration: none;
+    color: #4a90e2;
+    font-size: 13px;
+    line-height: 35px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block1 .row-contact .item .btn-button-group a.btn-send-email:hover {
+    color: #2b7ddd;
+}
+.pres-plugin-tabs .tab-content#faq-contact .block2 {
+    padding-top: 40px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions {
+    padding: 15px 70px 70px 70px;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .collapse {
+    display: none;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .collapse.in {
+    display: block;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .collapsing {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    -webkit-transition-timing-function: ease;
+    -o-transition-timing-function: ease;
+    transition-timing-function: ease;
+    -webkit-transition-duration: .35s;
+    -o-transition-duration: .35s;
+    transition-duration: .35s;
+    -webkit-transition-property: height,visibility;
+    -o-transition-property: height,visibility;
+    transition-property: height,visibility;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .panel {
+    position: relative;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    margin-bottom: 15px;
+    box-shadow: none!important;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .panel .panel-heading{
+    font-family: "Open Sans"!important;
+    margin: 0!important;
+    padding: 0!important;
+    border: none!important;
+    box-shadow: none!important;
+    text-transform: none!important;
+    height: auto!important;
+    line-height: 22px!important;
+    color: inherit!important;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .panel .panel-heading a {
+    text-decoration: none;
+    color: #727173;
+    font-size: 16px;
+    line-height: 22px;
+    padding-left: 22px;
+    position: relative;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .panel .panel-heading a:before {
+    position: absolute;
+    left: 0;
+    line-height: 22px;
+    content: "\f067";
+    font-family: FontAwesome;
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .panel .panel-heading a:not(.collapsed):before {
+    content: "\f068";
+}
+.pres-plugin-tabs .tab-content#faq-contact .faqs-questions .panel .accordion-content {
+    line-height: 18px;
+    padding: 18px 20px 15px 22px;
+}
+.bootstrap-select.txt-select {
+    position: relative;
+    width: 100% !important;
+}
+.bootstrap-select.txt-select button.dropdown-toggle {
+    background: #fff !important;
+    border: 1px solid #e4e5e7;
+    border-radius: 3px;
+    line-height: 32px;
+    height: 34px;
+    padding: 0 7px;
+    box-shadow: none !important;
+    position: relative;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    width:100%;
+}
+.bootstrap-select.txt-select button.dropdown-toggle .caret {
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    margin-top: 0;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.bootstrap-select.txt-select button.dropdown-toggle .caret:before {
+    font-family: FontAwesome;
+    content: "\f107";
+}
+.bootstrap-select.txt-select button.dropdown-toggle:hover {
+    opacity: 1;
+}
+.bootstrap-select.txt-select div.dropdown-menu {
+    box-shadow: none !important;
+    border: 1px solid #e4e5e7;
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    width: 100%;
+}
+.bootstrap-select.txt-select .dropdown-menu {
+    font-size: inherit;
+}
+.bootstrap-select.txt-select ul.dropdown-menu {
+    font-size: inherit;
+    float: none;
+    border: none!important;
+    padding: 0!important;
+    margin: 0!important;
+    box-shadow: none!important;
+    position: relative!important;
+}
+.bootstrap-select.txt-select .dropdown-menu {
+    font-size: inherit;
+}
+.bootstrap-select.txt-select .dropdown-menu li a {
+    line-height: 20px;
+    padding: 5px 7px;
+}
+.bootstrap-select.txt-select.open:not(.dropup) button.dropdown-toggle {
+    border-radius: 3px 3px 0 0;
+    border-bottom: 1px solid #fff;
+}
+.bootstrap-select.txt-select.open:not(.dropup) .dropdown-menu {
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #fff;
+}
+.bootstrap-select.txt-select.open.dropup button.dropdown-toggle {
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #fff;
+}
+.bootstrap-select.txt-select.open.dropup .dropdown-menu {
+    border-radius: 3px 3px 0 0;
+    border-bottom: 1px solid #fff;
+}

@@ -1,0 +1,183 @@
+.pretashop_backend_view .pres-plugin-header,
+.pretashop_backend_view #pretashop-qs-login {
+    max-width: 870px;
+    margin: 0 auto;
+}
+#pretashop-qs-login.login-screen.wizard {
+    padding-top: 5px;
+    min-height: 0;
+}
+#pretashop-qs-login.login-screen.wizard .login-box {
+    padding-top: 45px;
+}
+#pretashop-qs-login.login-screen .login-box-wrap {
+    box-shadow: none;
+    max-width: none;
+    background: #f7f9fa;
+}
+#pretashop-qs-login.login-screen .login-box {
+    box-shadow: none;
+    background: none;
+    padding: 0;
+}
+#pretashop-qs-login.login-screen .login-box .btnSubmit {
+    float: left;
+}
+#pretashop-qs-login.login-screen .login-box #login-form .fields,
+#pretashop-qs-login.login-screen .login-box #login-form2 .fields {
+    max-width: 430px;
+    margin: 0 auto;
+    position: relative;
+}
+#pretashop-qs-login.login-screen .login-box #login-form .message-login,
+#pretashop-qs-login.login-screen .login-box #login-form2 .message-login {
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    color: #d0021b;
+    padding-bottom: 55px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field {
+    margin-bottom: 44px;
+    position: relative;
+    display:table;
+    width:100%;
+}
+#pretashop-qs-login.login-screen .login-box .form-field.error-field {
+    position: absolute;
+    margin: 0;
+    top: -30px;
+    padding-left: 105px;
+    white-space: nowrap;
+    color: #e74c3c;
+}
+#pretashop-qs-login.login-screen .login-box .form-field a.forget-pwd {
+    position: absolute;
+    top: -28px;
+    text-decoration: none;
+    right: 0;
+    color: #4a90e2;
+}
+#pretashop-qs-login.login-screen .login-box .form-field a.forget-pwd:hover {
+    color: #3483de;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .label-field {
+    float: left;
+    width: 105px;
+    line-height: 36px;
+    font-family: "Open Sans";
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: none;
+    margin: 0;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field {
+    margin-left: 105px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field input.txt-input {
+    height: 36px;
+    line-height: 34px;
+    padding: 0 12px;
+    background:#fff;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field input.txt-input[name=password] {
+    padding-right: 45px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword {
+    position: absolute;
+    top: 8px;
+    right: 13px;
+    font-size: 18px;
+    line-height: 33px;
+    height: 20px;
+    width: 20px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword svg {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword svg#eyeClose {
+    display: none;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword svg#eyeOpen {
+    top:3px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword.showed svg#eyeOpen {
+    display: none;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword.showed svg#eyeClose {
+    display: block;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword-login2 {
+    position: absolute;
+    top: 8px;
+    right: 13px;
+    font-size: 18px;
+    line-height: 33px;
+    height: 20px;
+    width: 20px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword-login2 svg {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword-login2 svg#eyeClose {
+    display: none;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword-login2 svg#eyeOpen {
+    margin-top: 3px;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword-login2.showed svg#eyeOpen {
+    display: none;
+}
+#pretashop-qs-login.login-screen .login-box .form-field .input-field #showPassword-login2.showed svg#eyeClose {
+    display: block;
+}
+#pretashop-qs-login.login-screen .login-box .form-field.submit-field {
+    margin-top: -15px;
+}
+
+#pretashop-qs-login .login-form button.btnSubmit {
+    background: #3498db;
+    width: 124px;
+    text-align: center;
+    border: none;
+    height: 39px;
+    padding: 10px 5px;
+    line-height: 18px;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 3px;
+    float: right;
+    position: relative;
+}
+
+#pretashop-qs-login .login-form button.btnSubmit:before {
+    width: 22px;
+    height: 22px;
+    content: '';
+    position: absolute;
+    left: calc(50% - 11px);
+    top: calc(50% - 11px);
+    background: url(../../img/loading.png) center center no-repeat scroll transparent;
+    animation: loadingEffect 1s linear infinite;
+    display: none;
+}
+
+#pretashop-qs-login .login-form button.btnSubmit:hover {
+    background: #258cd1;
+}
+
+#pretashop-qs-login .login-form button.btnSubmit.loading:hover {
+    background: #3498db;
+}
+
+#pretashop-qs-login .login-form button.btnSubmit.loading .text {
+    opacity: 0;
+}
+
+#pretashop-qs-login .login-form button.btnSubmit.loading:before {
+    display: block;
+}

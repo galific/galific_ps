@@ -1,0 +1,275 @@
+/**
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ * versions in the future.If you wish to customize PrestaShop for your
+ * needs please refer to http://www.prestashop.com for more information.
+ * We offer the best and most useful modules PrestaShop and modifications for your online store. 
+ *
+ * @category  PrestaShop Module
+ * @author    knowband.com <support@knowband.com>
+ * @copyright 2015 knowband
+ * @license   see file: LICENSE.txt
+ */
+
+
+.icon-KBMPMainTab:before{
+    content: "\f187";
+}
+.fancybox-skin {
+    padding:12px !important;
+}
+.fancybox-opened {
+    top:85px !important;
+}
+.fancybox-inner {
+    height:auto !important;
+            width: 100% !important;
+}
+#marketplace-view-modal {
+       width: 100% !important;
+}
+.fancybox-wrap {
+     width: 430px !important;
+}
+
+#seller_configuration_form .help-block{
+/*    margin-bottom:0*/
+}
+
+.in-display{
+    display:inline-block;
+}
+
+form .mce-tinymce.mce-panel {
+    border: 1px solid #ccc !important;
+}
+
+#seller_configuration_form input[type="checkbox"]{display:inline-block; vertical-align: top;}
+
+#seller_configuration_form .option-label{line-height:21px; margin-left:5px;}
+
+#kb_mp_seller_config_form .category_list_multiple{
+    width:100% !important;
+}
+
+.kb-extra-content{
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+}
+
+.comment_col_w{width:35%;}
+
+.vss_seller_ratings {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    white-space: nowrap;
+    color: #d3d3d3;
+    line-height: 16px;
+    font-size: 15px;
+    background: 0;
+    font-family: "Arial Unicode MS",Arial,Tahoma,Verdana,sans-serif;
+}
+
+.vss_rating_filled {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    color: #e9ce18;
+    white-space: nowrap;
+    overflow: hidden;
+    background: 0;
+    width: 0px;
+}
+
+#kb-review-box{
+    padding:10px;
+}
+
+.kb-review-row {
+    width: 100%;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.kb-review-box-heading{
+    padding: 5px 0;
+    border-bottom: 1px solid #CFCFCF;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.kb-review-tym{
+    color: #66B8F8;
+}
+
+#kb-review-author{
+    font-weight: bold;
+    font-style: italic;
+    color: #777;
+}
+
+.vssmp-rating-option-list{padding:0; margin:0;}
+
+.vssmp-rating-option-list li {
+    display: block;
+}
+
+.vss_mp_display_inline {
+display: inline-block;
+}
+
+.vssmp-rating-option-list li .vss_mp_display_inline:first-child {
+    width: 120px;
+    vertical-align: top;
+}
+
+.vssmp-rating-option-list li .vss_mp_display_inline:nth-child(2) {
+margin: 2px 0;
+}
+
+.rating-box {
+    float: left;
+    position: relative;
+    width: 69px;
+    height: 16px;
+    margin: 0 5px 3px 0;
+}
+
+.vssmp-font14 {
+font-size: 14px;
+}
+
+.vssmp-font12 {
+font-size: 12px;
+}
+
+.vssmp-font20{font-size:20px;}
+
+.kb-review-label{
+    font-weight: bold;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #CFCFCF;
+    font-size: 14px;
+}
+
+.kb-textarea{
+    min-height:300px;
+}
+
+.kb-field-error{
+    font-size: 11px;
+    color: #ff0000;
+    background: url("../../img/s-error.png") no-repeat left center;
+    padding-left: 18px;
+    height: 17px;
+    display: block;
+    padding-top: 2px;
+}
+
+.kb-modal-popup{
+    position:relative;
+}
+
+.modal-content-loader{
+    background: url("../../img/loader128.gif") no-repeat left top transparent;
+    background-size:100% 100%;
+    position:relative;
+    top:30%;
+    left:40%;
+    width:100px;
+    height:100px;
+}
+.seller_field_disabled {
+        border-radius: 3px;
+    color: #333;
+     -webkit-box-shadow: rgba(0,0,0,0.15) 0 1px 4px 1px inset;
+    box-shadow: rgba(0,0,0,0.15) 0 1px 4px 1px inset;
+    background-color: rgb(153, 153, 153);
+    border-right: 1px rgba(228, 228, 227, 0.29) solid;
+}
+
+.kb-review-content {
+    max-height:200px;
+}
+
+/* CSS for Tabs */
+.kb_custom_tabs {
+    width: 100%;
+}
+
+.kb_custom_tabs a {
+    color: #555;
+}
+
+.kb_custom_tab {
+    width: 49.8%;
+}
+.kb_custom_tab_last {
+    width: 25%;
+}
+.kb_custom_panel {
+    position: relative;
+    border: solid 1px #d3d8db;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.kb_custom_tab i {
+    padding-right: 5px; 
+}
+.kb_custom_tabs input[type='radio'] {
+    display: none;
+}
+.kb_custom_tabs a {
+    display: inline-block;
+    padding: 15px 18px;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.kb_custom_tabs a:hover {
+    cursor: pointer;
+    color: #959595;
+    text-decoration: none;
+}
+.kb_custom_tabs a.kb_active {
+    background: #2eacce;
+    color: #fff;
+    box-shadow: 0px 0px 10px #2eacce;
+}
+
+.kb_custom_tabs a.kb_active::after {
+    content: "";
+    width: 0px;
+    height: 0px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #2eacce;
+    position: absolute;
+    bottom: -10px;
+    margin-left: -6%;
+}
+
+.kb_custom_tabs a.kb_active#kbsf_config_link::after {
+    left: 10%;
+}
+
+.kb_custom_tabs a.kb_active#kbsl_gdpr_config::after {
+    left: 81%;
+}
+
+.kb_custom_tabs a.kb_active#kbsl_email_notification::after {
+    left: 55%;
+}
+.kb_custom_tabs a.kb_active#kbsl_importer::after {
+    left: 75%;
+}
+.kb_custom_tabs a.kb_active#kbsl_setting_link::after {
+    left: 95%;
+}

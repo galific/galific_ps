@@ -1,0 +1,117 @@
+p.bulkorder-message {
+	color: green;
+}
+p.bulkorder-message.fail {
+	color: red;
+}
+img.wcbof_autocomplete_img {
+	max-height:40px;
+	margin-right:10px;
+	border-radius:3px;
+	-moz-border-radius:3px;
+}
+i.bulkorder_spinner {
+	height: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+	position: absolute;
+	width: 20px;
+	display:none;
+	background-image:url("spiffygif_30x30.gif");
+	background-repeat:no-repeat;
+	background-position:right top;
+	background-size: 100%;
+}
+ul.ui-autocomplete{
+	z-index: 999999 !important;
+}
+
+td.wc_bof_product_price, th.wc_bof_product_price, td.wc_bof_pricetotal, td.prepopulated-button {
+	text-align:center;
+	width: 10%;
+	min-width: 5em;
+}
+td.wc_bof_product_price, td.wc_bof_pricetotal{
+	color: green;
+}
+td.wc_bof_product_name, th.wc_bof_product_name{
+	min-width: 50%;
+}
+.wcbulkorderform.variation td.wc_bof_product_name,
+.wcbulkorderform.variation th.wc_bof_product_name{
+	width: 50%;
+}
+td.wcbulkorder-variation-title, th.wcbulkorder-variation-title{
+	width: 20%;
+}
+td.wc_bof_product_qty, th.wc_bof_product_qty {
+	width: 6em;
+}
+img.wcbulkorder-image-tag{
+	max-height: 40px;
+	margin-right:5px
+}
+td.wc_bof_product_qty input.product_qty{
+	width: 100%;
+}
+td.wcbulkorder-spacer{
+	width: 20%;
+}
+tr.wc_bof_product_list input{
+	width: 100%;
+	box-sizing: border-box;
+}
+tr.wc_bof_product_list td{
+	padding-right: 10px;
+}
+table.wcbulkorderproducttbl{
+	width:100%;
+}
+
+tr.wcbulkorderactions td:last-child {
+	text-align: right;
+}
+
+tr.wc_bof_product_list .product_name_column img {
+	display: inline-block;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+
+div#form_hidden_trs, div#form_hidden_fileds, tr#wc_bof_product_removeHidden {
+	display: none;
+}
+
+div.selectize-control.loading > div.selectize-input {
+	background-image: url("spiffygif_30x30.gif") !important;
+	background-position: right center !important;
+	background-repeat: no-repeat !important;
+	background-size: 7% auto !important;
+}
+
+.wcbofprod_list {
+	padding: 10px 5px !important;
+}
+
+
+.wcbofprod_list span.image img {
+	display: inline-block;
+	height: auto;
+	margin-right: 3%;
+	vertical-align: middle;
+	width: 15%;
+}
+
+
+
+form#wcbulkorderform div.variations_form select {
+	margin-bottom: 10px;
+	padding: 5px;
+	width: 100%;
+}
+
+
+.selectize-control.single .selectize-input::after {
+	border-style: none !important;
+}

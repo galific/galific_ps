@@ -1,0 +1,322 @@
+.pretashop-qs-view {
+    font-family: "Open Sans";
+    font-size: 13px;
+    color: #727173;
+}
+.pretashop-qs-view input {
+    color: inherit;
+}
+.pretashop-qs-view .steps-block {
+    padding-top: 30px;
+    background:#fff;
+}
+.pretashop-qs-view .steps-block .help {
+    text-align: right;
+}
+.pretashop-qs-view .steps-block .help a.btn-help {
+    height: 42px;
+    line-height: 42px;
+    border-radius: 3px;
+    padding: 0 10px;
+    min-width: 110px;
+    text-align: center;
+    color: #fff;
+    background: #ff5d5d;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+}
+.pretashop-qs-view .steps-block .help a.btn-help:hover {
+    background: #ff3434;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs {
+    padding-left: 130px;
+    padding-bottom:30px;
+    padding-right: 130px;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    display: table;
+    width: 100%;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li {
+    width: calc(25%);
+    float: left;
+    padding: 30px 10px 0 10px;
+    position: relative;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li > * {
+    position: relative;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li span.number {
+    width: 32px;
+    height: 32px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    color: #fff;
+    background: #d9d9d9;
+    border: 1px solid #d9d9d9;
+    border-radius: 100%;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li span.text {
+    position: absolute;
+    bottom: 40px;
+    top:auto;
+    left: 10px;
+    width: calc(100% - 20px);
+    font-size: 12px;
+    font-weight: 600;
+    color: #a1a1a1;
+    line-height: 22px;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li:before {
+    content: '';
+    width: 100%;
+    left: 50%;
+    bottom: 14px;
+    position: absolute;
+    border-bottom: 2px solid #ededed;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li:last-child:before {
+    display: none;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li.current span.number {
+    color: #fff;
+    border-color: #4a90e2;
+    background: #4a90e2;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li.current span.text {
+    color: #4a90e2;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li.active span.number {
+    color: #4a90e2;
+    border-color: #4a90e2;
+    background: #fff;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li.active span.text {
+    color: #4a90e2;
+}
+.pretashop-qs-view .steps-block .step-breadcrumbs ul li.active:before {
+    border-color: #abcbf1;
+}
+.pretashop-qs-view .pres-container {
+    max-width: 870px;
+    margin: 0 auto;
+}
+.pretashop-qs-view .pretashop-qs-content-step {
+    background: #f7f9fa;
+}
+.pretashop-qs-view .pres-container {
+    padding: 0 32px;
+}
+.pretashop-qs-view .pretashop-qs-content-step .title-block {
+    padding-bottom: 30px;
+    padding-top: 22px;
+}
+.pretashop-qs-view .pretashop-qs-content-step .title-block .title {
+    font-size: 24px!important;
+    font-weight: 300!important;
+    line-height: 30px!important;
+    margin: 0 0 13px 0!important;
+    border:none;
+    font-family:"Open Sans";
+    height:auto!important;
+    border:none!important;
+    text-transform:none!important;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions {
+    display: table;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.pretashop-qs-view .pretashop-qs-preview-app.pretashop-qs-content-step .btn-group-actions{
+    width:65%;
+    padding-right:30px;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions a.btn-action {
+    text-align: center;
+    min-width: 85px;
+    color: #fff;
+    font-size: 14px;
+    display: inline-block;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 3px;
+    background: #4a90e2;
+    text-decoration: none;
+    cursor: pointer;
+    padding:0 15px;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions #btn-done-preview-app{
+    min-width: 180px;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions a.btn-action:hover {
+    background: #277adc;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions a.btn-action i {
+    padding: 0 9px 0 0;
+    font-size: 15px;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions a.btn-action.btn-next {
+    float: right;
+}
+.pretashop-qs-view .pretashop-qs-content-step .btn-group-actions a.btn-action.btn-next i {
+    padding: 0 0 0 9px;
+}
+.pretashop-qs-logout {
+    text-align: center;
+}
+.pretashop-qs-logout .logout-box-wrap {
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+.pretashop-qs-logout .title {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.pretashop-qs-logout .desc {
+    margin-bottom: 38px;
+}
+.pretashop-qs-logout .login-as {
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.pretashop-qs-logout .login-as .user-email {
+    font-weight: normal;
+}
+.pretashop-qs-logout .btn-logout {
+    height: 34px;
+    line-height: 34px;
+    min-width: 130px;
+    padding: 0 15px;
+    border: none;
+    background: #4a90e2;
+    color: #fff;
+    text-align: center;
+    font-family: "Open Sans";
+    border-radius: 3px;
+}
+.pretashop-qs-logout .btn-logout:hover {
+    background: #2275d7;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-fields{
+    margin-top:-15px;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field {
+    display: table;
+    width: 100%;
+    padding-top: 36px;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-label {
+    float: left;
+    font-weight: 600;
+    width: 140px;
+    line-height: 34px;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .error-msg {
+    position: absolute;
+    top: -25px;
+    color: #d0021b;
+    left:0;
+    white-space: nowrap;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value {
+    position: relative;
+    margin-left: 140px;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .txt_text {
+    height: 34px;
+    line-height: 32px;
+    border-radius: 3px;
+    border: 1px solid #c3c5c8;
+    background: #fff;
+    width: 100%;
+    padding: 0 8px;
+    color: #727173;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .txt_text.invalid {
+    border: 1px solid #d0021b;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field.term-condition-field {
+    line-height: 20px;
+    text-align: center;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field.term-condition-field a {
+    color: #4a90e2;
+    text-decoration: none;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field.term-condition-field a:hover {
+    color: #2275d7;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field.term-condition-field .form-value {
+    margin-left: 0!important;
+    display: inline-block;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field.term-condition-field input[type=checkbox] {
+    position: relative;
+    float:left;
+    display:inline-block;
+    margin: 4px 5px 0 0;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field.term-condition-field label{
+    font-weight:normal;
+    white-space:nowrap;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .login-link {
+    text-align: center;
+    padding: 25px 0 5px 0;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .login-link a {
+    text-decoration: none;
+    color: #4a90e2;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .login-link a:hover {
+    color: #1b5dab;
+}
+
+
+
+
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .showPassword {
+    position: absolute;
+    top: 5px;
+    right: 13px;
+    font-size: 18px;
+    line-height: 33px;
+    height: 20px;
+    width: 20px;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .showPassword svg {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .showPassword svg.eyeClose {
+    display: none;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .showPassword svg.eyeOpen {
+    top:3px;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .showPassword.showed svg.eyeOpen {
+    display: none;
+}
+.pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value .showPassword.showed svg.eyeClose {
+    display: block;
+}
+
+
+
+
+
+
+
+
+

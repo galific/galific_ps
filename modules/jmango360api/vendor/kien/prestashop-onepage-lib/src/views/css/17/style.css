@@ -1,0 +1,2078 @@
+/**
+ * Copyright 2015 JMango360
+ */
+
+/*** Styles added to fix the issue with zoom in on iphone ***/
+/* iPhone < 5: */
+@media screen and (device-aspect-ratio: 2/3) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone 5, 5C, 5S, iPod Touch 5g */
+@media screen and (device-aspect-ratio: 40/71) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone 6, iPhone 6s, iPhone 7 portrait/landscape */
+@media screen and (device-aspect-ratio: 375/667) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus portrait/landscape */
+@media screen and (device-aspect-ratio: 9/16) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/*** Styles added to fix the issue with zoom in on iphone ***/
+/* iPhone < 5: */
+@media screen and (device-aspect-ratio: 2/3) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone 5, 5C, 5S, iPod Touch 5g */
+@media screen and (device-aspect-ratio: 40/71) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone 6, iPhone 6s, iPhone 7 portrait/landscape */
+@media screen and (device-aspect-ratio: 375/667) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus portrait/landscape */
+@media screen and (device-aspect-ratio: 9/16) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iPhone X */
+@media only screen
+and (device-width: 375px)
+and (device-height: 812px)
+and (-webkit-device-pixel-ratio: 3) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/*iphone 8 */
+@media only screen
+and (device-width: 375px)
+and (device-height: 667px)
+and (-webkit-device-pixel-ratio: 2) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+/* iphone 8 plus */
+@media only screen
+and (device-width: 414px)
+and (device-height: 736px)
+and (-webkit-device-pixel-ratio: 3) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"] {
+        font-size: 16px;
+    }
+}
+
+table {
+    width: 100%;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ul li,
+ol li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    margin: 0;
+    line-height: 1em;
+}
+
+a,
+a:focus,
+a:hover {
+    text-decoration: none;
+}
+
+.cleafix:before,
+.cleafix:after {
+    display: table;
+    content: "";
+}
+
+.cleafix:after {
+    clear: both;
+}
+
+.page-title {
+    padding: 0 1em;
+}
+
+.page-title h1 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 1em 0;
+}
+
+.step-title {
+    border-bottom: 1px solid #d9d9d9;
+    position: relative;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 0.5em 0;
+}
+
+.step-title .step-number-wrapper {
+    display: table-cell;
+    padding-right: 0.5em;
+}
+
+.step-title .step-number {
+    width: 26px;
+    height: 26px;
+    color: #fff;
+    background: #333;
+    display: inline-block;
+    line-height: 26px;
+    text-align: center;
+}
+
+.step-title h2 {
+    color: #333;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    line-height: 40px;
+    display: table-cell;
+}
+
+.step-title .section-control {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #fff;
+    display: none;
+    color: #333;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.allow .section-control {
+    display: block;
+}
+
+.opc {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.opc .section {
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+}
+
+.opc .step > form,
+.opc .step > .order-review {
+    padding: 1em 0 0 0;
+}
+
+.opc h1,
+.opc h2,
+.opc h3,
+.opc h4,
+.opc h5,
+.opc h6 {
+    font-weight: normal;
+    margin: 0;
+    line-height: 1em;
+}
+
+.opc p {
+    font-size: 14px;
+}
+
+.opc .step .buttons-set {
+    margin-top: 1em;
+}
+
+.sp-methods {
+    box-shadow: 0 0 0 1px #d9d9d9;
+    margin-bottom: 0;
+}
+
+.sp-methods dt {
+    display: table;
+    width: 100%;
+    padding: 1em;
+    font-weight: normal;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.sp-methods dt:first-child,
+.sp-methods dt + dt {
+    border-top: 0;
+}
+
+.sp-methods dd {
+    background: #fafafa;
+    margin: 0;
+}
+
+.sp-methods dd ul li {
+    padding: 1em;
+    width: 100%;
+    display: table;
+}
+
+.sp-methods dd ul.form-list li {
+    display: block;
+}
+
+.sp-methods #dd_method_pay_payment_ideal li {
+    padding: 1em 1em 0 1em;
+}
+
+.sp-methods #dd_method_pay_payment_ideal li label {
+    display: inline;
+}
+
+.sp-methods #dd_method_pay_payment_billink label {
+    display: inline;
+}
+
+.sp-methods label {
+    font-weight: normal;
+    color: #737373;
+    display: table-cell;
+    width: 100%;
+    padding: 0 0.5em;
+    font-size: 14px;
+    text-align: left;
+}
+
+.sp-methods label img {
+    max-width: 65px;
+    max-height: 65px;
+}
+
+.sp-methods label .price {
+    color: #4d4d4d;
+    float: right;
+}
+
+.sp-methods input[type=checkbox],
+.sp-methods input[type=radio] {
+    display: table-cell;
+    padding: 0;
+    margin: 0;
+}
+
+.sp-methods .section-control {
+    display: inline-block;
+    float: right;
+    font-size: 16px;
+    color: #333;
+}
+
+.sp-methods.row,
+.sp-methods .row {
+    margin: 0;
+}
+
+#co-payment-form .columns {
+    padding: 1em 1em 0 1em;
+    display: table;
+}
+
+#co-payment-form .columns #radiogroup-container label {
+    display: block;
+    margin: 0.5em;
+}
+
+.tac-accept {
+    margin: 1em 0 0.5em 0;
+}
+
+.ladda-button {
+    width: 100%;
+}
+
+.jm-item:first-child td {
+    padding-top: 0;
+}
+
+.jm-item td {
+    padding: 0 1em;
+    vertical-align: top;
+}
+
+.jm-item td:first-child {
+    padding-left: 0;
+}
+
+.jm-item .jm-item-img {
+    width: 20%;
+}
+
+.jm-item .jm-item-img .jm-item-img-inner {
+    width: 100%;
+    position: relative;
+}
+
+.jm-item .jm-item-img .jm-item-qty {
+    border-radius: 2em;
+    font-size: 0.8em;
+    padding: 0.15em 0.5em;
+    min-width: 1.7em;
+    position: absolute;
+    right: -0.75em;
+    top: -0.75em;
+    color: #fff;
+    background-color: rgba(153, 153, 153, 0.9);
+}
+
+.jm-item .jm-item-img img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.jm-item .jm-item-detail {
+    padding: 0 1em;
+}
+
+.jm-item .jm-item-detail .jm-item-desc {
+    font-size: 0.9em;
+    color: #969696;
+}
+
+.jm-item .jm-item-detail .jm-item-desc .jm-item-desc-item {
+    display: block;
+}
+
+.modal-open .modal {
+    overflow: hidden;
+}
+
+.modal-agreement {
+    top: 1em;
+    right: 1em;
+    bottom: 1em;
+    left: 1em;
+}
+
+.modal-agreement .modal-dialog,
+.modal-agreement .modal-content {
+    height: 100%;
+}
+
+.modal-agreement .modal-dialog .modal-body,
+.modal-agreement .modal-content .modal-body {
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 70px;
+}
+
+.modal-agreement .modal-title {
+    font-size: 1.5em;
+    line-height: 1;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.modal-agreement .modal-dialog {
+    margin: 0;
+}
+
+.modal-agreement .modal-dialog .modal-content {
+    border-radius: 0;
+    border: 0;
+    box-shadow: none;
+}
+
+.modal-agreement .modal-dialog .close {
+    font-size: 2em;
+    font-weight: normal;
+    min-width: 1em;
+    opacity: 1;
+}
+
+@media (max-width: 479px) {
+    .modal-dialog .modal-content {
+        height: 90vh;
+        overflow-y: auto;
+    }
+
+    .cheque-box .form-group .form-control {
+        max-width: 100%;
+    }
+
+    #paymentModal .modal-title {
+        font-size: 26px;
+    }
+}
+
+#checkout-review-table tfoot {
+    border-top: solid 1px #D4D2D2;
+}
+
+#checkout-review-table tfoot tr td {
+    padding: 10px 15px;
+}
+
+#checkout-review-table tfoot tr td .price {
+    display: block;
+    text-align: right;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 100%;
+    }
+}
+
+.modal-backdrop {
+    z-index: 0;
+}
+
+p.required,
+p.back-link {
+    display: none;
+}
+
+.form-list input[type="text"],
+.form-list input[type="password"],
+.form-list input.input-text,
+.form-list textarea {
+    width: 100%;
+    padding: 0.4em 0.5em;
+    border: 1px solid #dadada;
+}
+
+.form-list input[type="text"].validation-failed,
+.form-list input[type="password"].validation-failed,
+.form-list input.input-text.validation-failed,
+.form-list textarea.validation-failed {
+    border-color: #df280a;
+}
+
+.form-list textarea {
+    min-height: 100px;
+    padding: 0 5px;
+}
+
+.form-list input[type="checkbox"],
+.form-list input[type="radio"] {
+    width: auto;
+    display: inline-block;
+    margin: 0 5px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    height: auto;
+}
+
+.form-list .control {
+    margin: 0.5em 0 0 0;
+}
+
+.form-list .control > .input-box {
+    display: inline-block;
+}
+
+.form-list .control label {
+    padding: 0;
+    margin: 0;
+    height: auto;
+    vertical-align: middle;
+}
+
+.form-list select {
+    width: 100%;
+    padding: 0.4em 0.5em;
+    border: 1px solid #dadada;
+    background: #fafafa;
+}
+
+.form-list select[multiple] {
+    min-height: 5em;
+}
+
+.form-list label {
+    font-weight: normal;
+    vertical-align: middle;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    text-align: unset;
+}
+
+.form-list label.required:after {
+    content: "*";
+    color: #DF280A;
+}
+
+.form-list .fields .customer-name .field,
+.form-list .fields.cols-2 .field {
+    width: 49%;
+    float: left;
+}
+
+.form-list .fields .customer-name .field:last-child,
+.form-list .fields.cols-2 .field:last-child {
+    float: right;
+}
+
+.form-list .fields .field,
+.form-list .wide .field {
+    margin-bottom: 10px;
+}
+
+.form-list .wide .input-box {
+    margin-bottom: 5px;
+}
+
+.form-list .validation-advice {
+    color: #df280a;
+    margin-top: 5px;
+    line-height: 1;
+    font-size: 0.9em;
+}
+
+.form-list .validation-advice:before {
+    content: "\e900";
+    font-family: 'icomoon';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-right: 5px;
+}
+
+.form-list .input-box:before,
+.form-list .input-box:after {
+    display: table;
+    content: "";
+}
+
+.form-list .input-box:after {
+    clear: both;
+}
+
+.form-list .input-box .v-fix {
+    width: 49%;
+    float: left;
+}
+
+.form-list .input-box .v-fix:last-child {
+    float: right;
+}
+
+.form-list .cvv-what-is-this {
+    display: none;
+}
+
+.form-list label[for="ccsave_cc_cid"] + .input-box .v-fix {
+    width: 100%;
+}
+
+.form-list + .fieldset {
+    margin-top: 1em;
+}
+
+.form-list + .fieldset h2 {
+    font-size: 1.5em;
+}
+
+.form-list + .fieldset > div {
+    width: 100%;
+}
+
+.form-list .fields .row {
+    margin: 0;
+}
+
+.form-list + div {
+    float: none !important;
+    margin-top: 1em;
+}
+
+#discount-coupon-form {
+    padding-top: 1em;
+}
+
+#discount-coupon-form .sp-methods label {
+    display: block;
+    padding: 0;
+}
+
+span.price {
+    white-space: nowrap;
+}
+
+#onepage-checkout-shipping-method-additional-load {
+    margin-top: 1em;
+}
+
+.gift-messages h3 {
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
+
+.gift-messages-form .inner-box > h4 {
+    display: none;
+}
+
+.gift-messages-form .product-img-box .number {
+    font-style: italic;
+}
+
+.gift-messages-form .product-name {
+    font-weight: bold;
+    padding: 5px 0 8px 0;
+}
+
+.gift-messages-form .inner-box p,
+.gift-messages p.control,
+.gift-message-form .inner-box p {
+    margin: 5px 0;
+}
+
+.gift-messages-form .inner-box p > *,
+.gift-messages p.control > *,
+.gift-message-form .inner-box p > * {
+    padding: 0;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.gift-messages-form .inner-box p input[type="checkbox"],
+.gift-messages p.control input[type="checkbox"],
+.gift-message-form .inner-box p input[type="checkbox"] {
+    display: inline-block;
+    margin: 0 5px 0 0;
+}
+
+.gift-messages-form .inner-box p label,
+.gift-messages p.control label,
+.gift-message-form .inner-box p label {
+    font-weight: normal;
+}
+
+.gift-messages-form h4,
+.gift-message-form h4 {
+    font-size: 1em;
+    font-weight: 700;
+    margin: 1em 0 0 0;
+}
+
+.gift-messages-form select,
+.gift-message-form select {
+    width: 100%;
+}
+
+.gift-messages-form .gift-wrapping-design,
+.gift-message-form .gift-wrapping-design {
+    margin-top: 1em;
+    float: left;
+    width: 100%;
+}
+
+.gift-messages-form .gift-wrapping-design img,
+.gift-message-form .gift-wrapping-design img {
+    float: left;
+}
+
+.gift-messages-form .label,
+.gift-message-form .label {
+    color: #333;
+    font-size: 1em;
+}
+
+.add-gift-message h3 {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+.add-gift-message input[type=checkbox],
+.add-gift-message input[type=radio] {
+    float: left;
+}
+
+.add-gift-message input[type=checkbox] + label,
+.add-gift-message input[type=radio] + label {
+    margin-left: 5px;
+    font-weight: normal;
+    font-size: 1em;
+}
+
+.customer-dob .dob-month,
+.customer-dob .dob-day,
+.customer-dob .dob-year {
+    width: 33%;
+    padding-right: 1%;
+    float: left;
+}
+
+.customer-dob .dob-month .validation-advice,
+.customer-dob .dob-day .validation-advice,
+.customer-dob .dob-year .validation-advice {
+    display: none;
+}
+
+.messages .error-msg {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 1em;
+    word-wrap: break-word;
+}
+
+.messages .success-msg {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 1em;
+    word-wrap: break-word;
+}
+
+.messages + .opc .section .step-title {
+    border-top: 0;
+}
+
+#checkout-shipping-method-load {
+    min-height: 1em;
+}
+
+.jm-spinner {
+    margin: 1em 0;
+}
+
+.account-create .page-title h1,
+.account-address .page-title h1,
+.account-edit .page-title h1 {
+    display: none;
+}
+
+.account-create .success-msg,
+.account-address .success-msg,
+.account-edit .success-msg {
+    display: none;
+}
+
+.account-create form,
+.account-address form,
+.account-edit form {
+    padding: 0 1em;
+}
+
+.account-create h2.legend,
+.account-address h2.legend,
+.account-edit h2.legend {
+    color: #333;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+.account-create .buttons-set,
+.account-address .buttons-set,
+.account-edit .buttons-set {
+    padding: 1em 0;
+}
+
+.account-create .success-msg {
+    display: block;
+}
+
+.account-address .success-msg {
+    display: block;
+}
+
+#checkout-step-billing input[type="text"],
+#checkout-step-shipping input[type="text"],
+#checkout-step-billing input[type="password"] select,
+#checkout-step-shipping input[type="password"] select,
+#checkout-step-billing textarea,
+#checkout-step-shipping textarea {
+    background: #fafafa;
+}
+
+#checkout-step-billing label[for="shipping-address-select"] + div.input-box,
+#checkout-step-shipping label[for="shipping-address-select"] + div.input-box,
+#checkout-step-billing label[for="billing-address-select"] + div.input-box,
+#checkout-step-shipping label[for="billing-address-select"] + div.input-box {
+    display: table;
+    width: 100%;
+}
+
+#checkout-step-billing label[for="shipping-address-select"] + div.input-box select.address-select,
+#checkout-step-shipping label[for="shipping-address-select"] + div.input-box select.address-select,
+#checkout-step-billing label[for="billing-address-select"] + div.input-box select.address-select,
+#checkout-step-shipping label[for="billing-address-select"] + div.input-box select.address-select,
+#checkout-step-billing label[for="shipping-address-select"] + div.input-box .japi-address-edit,
+#checkout-step-shipping label[for="shipping-address-select"] + div.input-box .japi-address-edit,
+#checkout-step-billing label[for="billing-address-select"] + div.input-box .japi-address-edit,
+#checkout-step-shipping label[for="billing-address-select"] + div.input-box .japi-address-edit {
+    display: table-cell;
+    width: 100%;
+    height: 31px;
+}
+
+#checkout-step-billing label[for="shipping-address-select"] + div.input-box .japi-address-edit,
+#checkout-step-shipping label[for="shipping-address-select"] + div.input-box .japi-address-edit,
+#checkout-step-billing label[for="billing-address-select"] + div.input-box .japi-address-edit,
+#checkout-step-shipping label[for="billing-address-select"] + div.input-box .japi-address-edit {
+    width: 50px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0 0 0 5px;
+}
+
+#checkout-step-billing label[for="shipping-address-select"] + div.input-box .japi-address-edit a,
+#checkout-step-shipping label[for="shipping-address-select"] + div.input-box .japi-address-edit a,
+#checkout-step-billing label[for="billing-address-select"] + div.input-box .japi-address-edit a,
+#checkout-step-shipping label[for="billing-address-select"] + div.input-box .japi-address-edit a {
+    display: block;
+    border-radius: 4px;
+    height: 31px;
+    line-height: 30px;
+    background: #d3d3d3;
+    color: #333;
+}
+
+button.button-cancel {
+    background: transparent !important;
+    border: 1px solid #dadada !important;
+    margin-top: 5px !important;
+}
+
+.no-display {
+    display: none;
+}
+
+/******** PostcodeNl_Api ********/
+#billing\:postcode_input\:wrapper .field,
+#shipping\:postcode_input\:wrapper .field {
+    width: 49%;
+    display: inline-block;
+}
+
+#billing\:postcode_input\:wrapper .field:last-child,
+#shipping\:postcode_input\:wrapper .field:last-child {
+    float: right;
+}
+
+#billing\:postcode_input\:wrapper input.pcnl-input-text-half,
+#shipping\:postcode_input\:wrapper input.pcnl-input-text-half {
+    width: 100%;
+}
+
+#billing\:postcode_input\:wrapper:before,
+#shipping\:postcode_input\:wrapper:before,
+#billing\:postcode_input\:wrapper:after,
+#shipping\:postcode_input\:wrapper:after {
+    display: table;
+    content: "";
+}
+
+#billing\:postcode_input\:wrapper:after,
+#shipping\:postcode_input\:wrapper:after {
+    clear: both;
+}
+
+/******** TIG_PostNL ********/
+#opc_postnl_ce {
+    float: left;
+    margin-top: 1em;
+    width: 100%;
+}
+
+#opc_postnl_ce .field {
+    width: 100% !important;
+}
+
+#opc_postnl_ce .field .input-box {
+    width: 100%;
+}
+
+#opc_postnl_ce .field .input-box input,
+#opc_postnl_ce .field .input-box select,
+#opc_postnl_ce .field .input-box textarea {
+    width: 100%;
+}
+
+#opc_postnl_ce .postnl.validation-advice {
+    width: 100%;
+}
+
+#opc_postnl_ce .postnl-loading {
+    width: 100%;
+    text-align: center;
+    margin: 0.5em 0;
+}
+
+#opc_postnl_ce .field-postcode,
+#opc_postnl_ce .field-housenumber {
+    width: 49% !important;
+    margin-right: 1%;
+}
+
+#s_method_postnl_tablerate,
+#s_method_postnl_tablerate + label,
+#s_method_postnl_flatrate,
+#s_method_postnl_flatrate + label {
+    display: inline;
+    vertical-align: middle;
+}
+
+.postnl-container {
+    display: block;
+    background: transparent;
+    border-bottom: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.postnl-container #postnl_delivery_options {
+    padding: 1em 0;
+    width: 100%;
+}
+
+.postnl-container .responsive-switch-wrapper {
+    margin-top: 0;
+}
+
+.postnl-container .responsive-switch-wrapper ul > li {
+    width: 49%;
+    padding: 0 0.5em;
+}
+
+.postnl-container .responsive-switch-wrapper a {
+    border-radius: 0 !important;
+}
+
+.postnl-container .option-list .responsive-tooltip {
+    padding: 0;
+}
+
+.postnl-container .option-list .location {
+    margin: 0;
+}
+
+.postnl-container .option-list .add-location {
+    height: auto;
+    border-top: 0;
+}
+
+.postnl-container .option-list.extras .content {
+    display: table;
+}
+
+.postnl-container .option-list.extras .content > input {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.postnl-container .option-list.extras .content input + label {
+    display: table-cell;
+}
+
+.postnl-container .col2-set .col-1,
+.postnl-container .col2-set .col-2 {
+    max-width: 0;
+}
+
+.postnl-container .location-filters li {
+    height: auto;
+    padding: 0.5em 0;
+}
+
+.postnl-container .location-filters li strong {
+    font-size: 1.5em;
+}
+
+.postnl-container .location-filters .label {
+    color: #333;
+    text-align: left;
+}
+
+.postnl-container .location-details {
+    padding: 0;
+}
+
+.postnl-container .location-details .more-info {
+    margin: 0 1em 0 1em;
+    padding: 1em 0;
+}
+
+.postnl-container .location-details .content {
+    padding: 1em;
+}
+
+.postnl-container .location-details .content .location-info {
+    width: 100%;
+}
+
+.postnl-container .location-details .content .location-info .radio {
+    margin: 0;
+}
+
+.postnl-container .location-details .content .location-info .address {
+    width: 100%;
+}
+
+.postnl-container .location-details .content .location-info .distance {
+    right: 1em;
+    top: 0;
+}
+
+/******** Afterpay_Afterpay ********/
+#payment-errors + .form-list .input-box input[type="radio"] {
+    margin: 0;
+}
+
+#payment-errors + .form-list .input-box label {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    padding-right: 1em;
+}
+
+#payment-errors + .form-list ul > li {
+    display: block;
+}
+
+#payment-errors + .form-list ul > li > label {
+    float: none !important;
+}
+
+#payment-errors + .form-list ul > li > .field {
+    margin-bottom: 1em;
+}
+
+#payment-errors + .form-list ul > li > .field:last-child {
+    margin-bottom: 0;
+}
+
+/******** Afterpay_Afterpay ********/
+#dd_method_msp_klarna .form-list li br,
+#payment_form_msp_klarna li br {
+    display: none;
+}
+
+#dd_method_msp_klarna .form-list li label,
+#payment_form_msp_klarna li label {
+    margin-top: 1em;
+    display: block;
+}
+
+#dd_method_msp_klarna .form-list li label:first-child,
+#payment_form_msp_klarna li label:first-child {
+    margin-top: 0;
+}
+
+#dd_method_msp_klarna .form-list li input,
+#payment_form_msp_klarna li input {
+    width: 100%;
+}
+
+#dd_method_msp_klarna .form-list li input[type="radio"],
+#payment_form_msp_klarna li input[type="radio"],
+#dd_method_msp_klarna .form-list li input[type="checkbox"],
+#payment_form_msp_klarna li input[type="checkbox"] {
+    width: auto;
+}
+
+/******** Afterpay_Afterpay ********/
+.sp-methods dd .klarna_readme {
+    padding: 0 1em;
+}
+
+.sp-methods dd .payment_plan_wrapper {
+    margin: 0;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan li {
+    padding: 1em 0;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper {
+    padding: 0;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper dl {
+    float: left;
+    margin: 0;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper dl dt,
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper dl dd {
+    border: 0;
+    padding: 0.5em;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper dl dt {
+    width: 70%;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper dl dt:last-child {
+    width: 100%;
+}
+
+.sp-methods dd .payment_plan_wrapper .payment_plan .payment_plan_info_wrapper dl dd {
+    width: 29%;
+}
+
+.sp-methods dd ul.klarna-input-box {
+    margin-top: 0;
+}
+
+.sp-methods dd ul.klarna-input-box > li {
+    padding: 0;
+    margin-bottom: 1em;
+}
+
+.sp-methods dd ul.klarna-input-box > li:last-child {
+    margin-bottom: 0;
+}
+
+.sp-methods dd ul.klarna-input-box > li > br {
+    display: none;
+}
+
+.sp-methods dd ul.klarna-input-box > li > input[type="text"] {
+    width: 100% !important;
+}
+
+.sp-methods dd ul.klarna-input-box > li > button.form-button {
+    width: 100% !important;
+    margin: 0.5em 0 0 !important;
+}
+
+.sp-methods dd ul.klarna-input-box > li .update-address-indicator {
+    text-align: center;
+    display: block;
+}
+
+.sp-methods dd ul.klarna-input-box > li .klarna_msg_txt li {
+    padding: 0;
+}
+
+.sp-methods dd ul.klarna-input-box .klarna_dob input[type="text"] {
+    width: 31% !important;
+}
+
+.sp-methods dd ul.klarna-input-box .gender-input-box input,
+.sp-methods dd ul.klarna-input-box .gender-input-box label {
+    display: inline;
+}
+
+.sp-methods dd ul.klarna-input-box .klarna_notification {
+    background: #fcf8e3;
+    border: 1px solid #faebcc;
+    padding: 0.5em !important;
+    color: #8a6d3b;
+    margin: 0;
+}
+
+.sp-methods dd ul.klarna-input-box .klarna_notification:before {
+    background: none;
+}
+
+/******** Vaimo_Klarna ************/
+.checkout-klarna-index .page-title {
+    padding: 0 10px;
+}
+
+.checkout-klarna-index .klarna_totals {
+    margin: 20px 0 0 0;
+}
+
+.checkout-klarna-index #klarna_methods {
+    margin: 0;
+    padding: 0 10px;
+}
+
+.checkout-klarna-index .klarna_loader {
+    position: fixed;
+}
+
+.checkout-klarna-index .messages > li {
+    padding: 10px;
+}
+
+.checkout-klarna-index .messages span {
+    font-size: 12px;
+}
+
+.checkout-klarna-index .sp-methods dd ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.checkout-klarna-index .klarna_product-remove {
+    display: none;
+}
+
+.checkout-klarna-index .klarna_block {
+    margin-bottom: 0;
+    padding: 0 12px;
+}
+
+.checkout-klarna-index .klarna_block a {
+    color: #0089cf;
+}
+
+.checkout-klarna-index input.input-text {
+    font-size: 14px;
+    border-color: #cbcbcb;
+    border-radius: 4px;
+    margin: 0;
+}
+
+.checkout-klarna-index button.button-action {
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 14px !important;
+    height: 44px;
+    line-height: 1;
+    width: 100%;
+}
+
+.checkout-klarna-index .klarna_block .klarna_block-title,
+.checkout-klarna-index .klarna_block > h3 {
+    margin: 8px 0 10px 0;
+}
+
+.checkout-klarna-index .klarna_block .klarna_block-title a,
+.checkout-klarna-index .klarna_block > h3 a {
+    float: right;
+    font-weight: normal;
+}
+
+.checkout-klarna-index .klarna_block label {
+    font-size: 14px;
+}
+
+.checkout-klarna-index .klarna_block > h3 {
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: none;
+}
+
+.checkout-klarna-index .klarna_other-payment-methods {
+    display: none;
+}
+
+.checkout-klarna-index #klarna_coupon .display-table {
+    display: table;
+    width: 100%;
+}
+
+.checkout-klarna-index #klarna_coupon .display-table > div {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.checkout-klarna-index #klarna_coupon .display-table > div:last-child {
+    width: 33%;
+    padding-left: 2%;
+}
+
+.checkout-klarna-index #klarna_shipping ul {
+    background: #fff;
+    border: 1px solid #cbcbcb;
+    border-radius: 4px;
+    padding: 0;
+}
+
+.checkout-klarna-index #klarna_shipping ul li {
+    padding: 1em;
+    margin: 0;
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #cbcbcb;
+}
+
+.checkout-klarna-index #klarna_shipping ul li:last-child {
+    border: none;
+}
+
+.checkout-klarna-index #klarna_shipping ul li input {
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+}
+
+.checkout-klarna-index #klarna_shipping ul li label {
+    font-size: 14px;
+    vertical-align: middle;
+    display: inline;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart_wrapper {
+    border: 1px solid #cbcbcb;
+    border-radius: 4px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart_wrapper.klarna_compact .klarna_cart,
+.checkout-klarna-index #klarna_cart-container .klarna_cart_wrapper.klarna_compact table tbody {
+    display: none;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart_wrapper.klarna_compact .klarna_totals {
+    background: #fff;
+}
+
+.checkout-klarna-index #klarna_cart-container #klarna_cart,
+.checkout-klarna-index #klarna_cart-container #klarna_totals {
+    margin: 0;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_totals {
+    padding: 1em;
+    border-radius: 4px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_totals table td {
+    text-transform: none;
+    font-size: 13px;
+    padding: 0.5em 0;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_totals table td .price {
+    font-size: 13px;
+    font-weight: bold;
+    display: block;
+    text-align: right;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_totals table tfoot td {
+    font-size: 14px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_totals table tfoot td .price {
+    font-size: 14px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product {
+    padding: 1.5em;
+    border-bottom: 1px solid #cbcbcb;
+    margin: 0;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product:after {
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+    visibility: hidden;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-image-wrapper {
+    position: relative;
+    float: left;
+    width: 25%;
+    margin-right: 1em;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-qty {
+    position: absolute;
+    top: 0.6em;
+    left: 0.6em;
+    background: #419bf9;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 28px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-qty span {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-details {
+    display: block;
+    margin-left: 30%;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-details .price {
+    font-size: 14px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-option {
+    color: #4d4d4d;
+    margin-bottom: 2px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_option-label,
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_option-value {
+    display: inline;
+    font-size: 14px;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product .klarna_product-name {
+    font-weight: bold;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_cart-items .klarna_product img {
+    border: 1px solid #ededed;
+    vertical-align: top;
+    width: 25%;
+    height: auto;
+    float: left;
+}
+
+.checkout-klarna-index #klarna_cart-container .klarna_totals {
+    border: none;
+    background: #fbfbfb;
+}
+
+.checkout-klarna-index .klarna_msg {
+    margin: 0 12px;
+}
+
+.checkout-klarna-index #klarna-checkout-reward input,
+.checkout-klarna-index #klarna-checkout-customer-balance input,
+.checkout-klarna-index #klarna-checkout-newsletter-container input {
+    display: inline;
+    margin: 0 5px 0 0;
+    vertical-align: middle;
+}
+
+.checkout-klarna-index #klarna-checkout-reward label,
+.checkout-klarna-index #klarna-checkout-customer-balance label,
+.checkout-klarna-index #klarna-checkout-newsletter-container label {
+    vertical-align: middle;
+    margin: 0;
+}
+
+/******** Kega_Checkout ***********/
+.personal.register-form > h3 {
+    margin-bottom: 10px;
+}
+
+.personal.register-form ul li.clearfix {
+    margin: 1em 0;
+}
+
+.customer-name-middlename.field-count-3 > div {
+    margin-top: 1em;
+}
+
+.adresssearch-address-order .address-street,
+.adresssearch-address-order .address-city {
+    margin-top: 1em;
+}
+
+.adresssearch-address-order .address-autofill > label {
+    display: block;
+}
+
+.adresssearch-address-order .address-autofill > label em {
+    float: none;
+}
+
+.adresssearch-address-order .address-postcode label,
+.adresssearch-address-order .street-number label,
+.adresssearch-address-order .street-addition label {
+    display: none;
+}
+
+.adresssearch-address-order .address-postcode,
+.adresssearch-address-order .street-number,
+.adresssearch-address-order .street-addition {
+    width: 32%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.adresssearch-address-order input.small {
+    font-size: 100%;
+}
+
+.billing-address-details.register-form #store_pickup_id_wrapper,
+.billing-address-details.register-form #store_pickup_id_wrapper input,
+.billing-address-details.register-form #additional_data_wrapper,
+.billing-address-details.register-form #additional_data_wrapper input {
+    display: none;
+}
+
+.billing-address-details.register-form label[for="billing:telephone"] {
+    margin-top: 1em;
+}
+
+.billing-address-details.register-form .new-account-guest-checkout-options {
+    display: none;
+}
+
+.billing-address-details.register-form .control.field.newsletter input,
+.billing-address-details.register-form .control.field.newsletter label {
+    display: inline;
+}
+
+.shipping-methods .shipping-intro {
+    padding: 1em;
+}
+
+.shipping-methods label {
+    font-weight: normal;
+    color: #737373;
+    display: table-cell;
+    width: 100%;
+    padding: 0 0.5em;
+    font-size: 14px;
+    text-align: left;
+}
+
+.shipping-methods .shipping-intro:last-child {
+    padding-bottom: 0;
+}
+
+.shipping-methods .shipping-container h3 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.shipping-methods .shipping-container .shipping-address-form {
+    padding: 0 1em 0 2em;
+    margin-left: 5px;
+}
+
+.shipping-methods .shipping-container .store-pickup-fieldset > ul li {
+    padding: 0 !important;
+    margin-bottom: 1em;
+}
+
+.shipping-methods .shipping-container .store-pickup-fieldset label[for="store-pickup-store-select"] {
+    display: block;
+}
+
+.shipping-methods .shipping-container .store-pickup-fieldset .store-pickup-postcode-search > div {
+    width: 49%;
+    display: inline-block;
+}
+
+.shipping-methods .shipping-container .store-pickup-fieldset .store-pickup-postcode-search button.store-pickup-find {
+    padding: 4px 5px;
+}
+
+.shipping-methods .shipping-container .store-pickup-fieldset .store-pickup-results .store span {
+    display: block;
+}
+
+.shipping-methods .shipping-container .store-pickup-fieldset .store-pickup-results .store span.name {
+    font-weight: bold;
+    display: inline;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct .address-view {
+    padding: 0;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct .shipping-new-address-form {
+    padding: 0;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct fieldset ul li {
+    padding: 0;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct .customer-name-middlename > div:first-child {
+    margin-top: 0;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct label[for="shipping:kega_tnt_direct-company"],
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct label[for="shipping:kega_tnt_direct-telephone"],
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct label[for="shipping:kega_tnt_direct-postcode"] {
+    margin: 1em 0 0 0;
+    display: block;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct label[for="shipping:kega_tnt_direct-company"] em,
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct label[for="shipping:kega_tnt_direct-telephone"] em,
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct label[for="shipping:kega_tnt_direct-postcode"] em {
+    float: none;
+}
+
+.shipping-methods .shipping-container .shipping_method_kega_tnt_direct .use-billing-address-link {
+    padding: 1em 1em 0 0;
+}
+
+.shipping-methods .sp-methods .desc-shipping {
+    display: block;
+}
+
+#checkout-payment-method-load h3.header {
+    margin-bottom: 10px;
+}
+
+#checkout-payment-method-load .address-wrapper p.header {
+    font-weight: bold;
+}
+
+#checkout-payment-method-load .address-wrapper address {
+    margin: 0;
+}
+
+#checkout-payment-method-load .address-wrapper address span {
+    display: block;
+}
+
+#checkout-payment-method-load .address-wrapper > div {
+    margin-bottom: 1em;
+    border: 1px solid #d9d9d9;
+    padding: 1em;
+}
+
+#checkout-payment-method-load .payment-details h3 {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+#checkout-payment-method-load .payment-details dl {
+    border: 1px solid #d9d9d9;
+}
+
+#checkout-payment-method-load .payment-details dl dt {
+    border-bottom: 1px solid #d9d9d9;
+    padding: .5em;
+    display: table;
+    width: 100%;
+}
+
+#checkout-payment-method-load .payment-details dl dt:last-child {
+    border-bottom: none;
+}
+
+#checkout-payment-method-load .payment-details dl dt input {
+    display: table-cell;
+}
+
+#checkout-payment-method-load .payment-details dl dt label {
+    display: table-cell;
+    width: 100%;
+    padding-left: 10px;
+}
+
+#checkout-payment-method-load .payment-details dl dt label span {
+    font-weight: normal;
+}
+
+#checkout-payment-method-load .payment-details dl dd.active {
+    padding: 1em;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+/**** Chronopost_Chronorelais ****/
+label[for^="s_method_chronorelais_Chronopost_relais_France"] {
+    display: inline;
+}
+
+.chronorelais-list .chronorelaismap .mappostalcode {
+    text-align: left;
+}
+
+.chronorelais-list .chronorelaismap .mappostalcode input,
+.chronorelais-list .chronorelaismap .mappostalcode button {
+    width: 49%;
+    display: inline;
+    height: 45px;
+    vertical-align: top;
+}
+
+.chronorelais-list .chronorelaismap .mappostalcode input {
+    padding: 10px;
+}
+
+.chronorelais-list .sp-methods-chronorelais {
+    padding: 0;
+}
+
+.pbxep-payment-cards .pbxep-payment-card {
+    display: block;
+    margin: 0;
+    padding: 5px 0 5px 20px;
+    position: relative;
+}
+
+.pbxep-payment-cards .pbxep-payment-card input[type="radio"] {
+    position: absolute;
+    top: 50%;
+    margin-top: -6px;
+    left: 0;
+}
+
+/**** Iways_PayPalPlus ****/
+#checkout-payment-method-load dd.ppp.ppp-selected {
+    padding: 0;
+}
+
+/** LaPoste_SoColissimoSimplicite **/
+label[for="s_method_socolissimosimplicite_socolissimosimplicite"] {
+    display: inline !important;
+}
+
+#socolissimosimplicite_iframe_wrapper iframe {
+    width: 100%;
+}
+
+/** RTL LAYOUT **/
+.rtl .opc .section .step-title .section-control {
+    left: 0;
+    right: auto;
+}
+
+.rtl .opc .section .step-number-wrapper {
+    padding: 0 0.5em;
+}
+
+.rtl .opc .section .ladda-button .ladda-spinner {
+    margin-left: -15px;
+}
+
+.rtl .opc .section .sp-methods label .price {
+    float: left;
+}
+
+.rtl .opc .section .jm-item .jm-item-img .jm-item-qty {
+    left: -0.75em;
+    right: auto;
+}
+
+.rtl .opc .section .sp-methods .section-control {
+    float: left;
+}
+
+/** Magentix_SoColissimo **********************************************************************************************/
+.socolissimo-popup-inner {
+    min-width: 100%;
+}
+
+.socolissimo-popup-inner .socolissimo-shipping li {
+    float: left;
+}
+
+.socolissimo-popup-inner .socolissimo-shipping .socolissimo-actions {
+    width: 100%;
+}
+
+.socolissimo-popup-inner .socolissimo-list ul {
+    overflow-y: auto;
+}
+
+/** PostcodeNl_Api ****************************************************************************************************/
+li.pcnl-hidden-field + li .field:first-child {
+    display: none;
+}
+
+.input-box .bootstrap-select {
+    width: 100%;
+}
+
+/* For loading dots */
+@keyframes blink {
+    /**
+     * At the start of the animation the dot
+     * has an opacity of .2
+     */
+    0% {
+        opacity: .2;
+    }
+    /**
+     * At 20% the dot is fully visible and
+     * then fades out slowly
+     */
+    20% {
+        opacity: 1;
+    }
+    /**
+     * Until it reaches an opacity of .2 and
+     * the animation can start again
+     */
+    100% {
+        opacity: .2;
+    }
+}
+
+.saving span {
+    /**
+     * Use the blink animation, which is defined above
+     */
+    animation-name: blink;
+    /**
+     * The animation should take 1.4 seconds
+     */
+    animation-duration: 1.4s;
+    /**
+     * It will repeat itself forever
+     */
+    animation-iteration-count: infinite;
+    /**
+     * This makes sure that the starting style (opacity: .2)
+     * of the animation is applied before the animation starts.
+     * Otherwise we would see a short flash or would have
+     * to set the default styling of the dots to the same
+     * as the animation. Same applies for the ending styles.
+     */
+    animation-fill-mode: both;
+}
+
+.saving span:nth-child(2) {
+    /**
+     * Starts the animation of the third dot
+     * with a delay of .2s, otherwise all dots
+     * would animate at the same time
+     */
+    animation-delay: .2s;
+}
+
+.saving span:nth-child(3) {
+    /**
+     * Starts the animation of the third dot
+     * with a delay of .4s, otherwise all dots
+     * would animate at the same time
+     */
+    animation-delay: .4s;
+}
+
+#checkoutSteps div.checker {
+    float: left;
+    margin-top: 4px;
+}
+
+#checkoutSteps div.checker + label {
+    display: block;
+    margin-left: 20px;
+}
+
+.step-title .section-control {
+    height: 40px;
+}
+
+.step-title .section-control i {
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+.payment-options label {
+    font-size: 14px;
+    display: inline;
+}
+
+.payment-options div[class^="payment-module"] {
+    margin: 1em 0;
+}
+
+.condition-label {
+    margin-left: 2.5rem;
+    margin-top: .625rem;
+}
+
+.custom-checkbox input[type=checkbox] {
+    margin-top: .1rem;
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+}
+
+.payment-options .ps-hidden-by-js[type='submit'] {
+    display: none;
+}
+
+.payment-option .ps-hidden-by-js {
+    display: none;
+}
+
+.js-additional-information p {
+    font-size: 13px;
+}
+
+.custom-checkbox input[type=checkbox] + span {
+    height: 14px;
+    width: 14px;
+    position: absolute;
+    top: 4px;
+}
+
+.custom-checkbox input[type=checkbox] + span .material-icons {
+    height: auto;
+    width: auto;
+    margin: -1px 0 0 0px;
+}
+
+.form-list .custom-checkbox span + label {
+    margin: 0 0 0 18px;
+}
+
+.custom-checkbox {
+    display: table;
+    width: 100%;
+}
+
+.custom-checkbox input[type=checkbox] {
+    position: absolute;
+    top: 4px;
+    margin-top: 0;
+    z-index: 9;
+}
+
+.custom-radio input[type=radio]:checked + span {
+    left: 2px;
+    top: 2px;
+}
+
+select.form-control:not([size]):not([multiple]) {
+    height: 34px;
+}
+
+.custom-radio input[type=radio]:checked + span {
+    left: 2px;
+    top: 2px;
+}
+
+#conditions-to-approve .condition-label {
+    margin: 0 0 0 21px;
+}
+
+#conditions-to-approve .condition-label label {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.term-and-condition-title {
+    font-size: 12px !important;
+}
+
+#coupon-content table tr td:last-child {
+    text-align: right;
+}
+
+.term-and-condition-popup {
+    line-height: 1.3em;
+}
+
+.term-and-condition-popup h1,
+.term-and-condition-popup h2,
+.term-and-condition-popup h3,
+.term-and-condition-popup h4,
+.term-and-condition-popup h5,
+.term-and-condition-popup h6 {
+    line-height: 1.3em;
+}
+
+.term-and-condition-popup .js-modal-content {
+    padding: 2rem;
+
+}
+
+.term-and-condition-popup .close {
+    padding: 0.8rem 1rem;
+}
+
+#order-items .card-title {
+    font-size: 15px !important;
+    text-transform: none !important;
+}
+
+#order-items td {
+    font-size: 14px;
+}
+
+#order-items .order-confirmation-table div.qty {
+    width: auto;
+}
+
+.additional-information {
+    display: none;
+}
+
+#opc-shipping_method .delivery_message {
+    margin-top: 1em;
+}
+
+#opc-shipping_method .delivery_message label {
+    padding: 0 0 0.5em 0;
+}

@@ -1,0 +1,6 @@
+2019-03-23T20:49:32+00:00 NOTICE sync.started :: Starting Sync :: Sat, Mar 23, 2019 8:49 PM
+2019-03-23T20:49:33+00:00 NOTICE product_sync.success :: addStoreProduct :: #3691
+2019-03-23T20:49:35+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2019-03-23T20:49:36+00:00 NOTICE order_submit.success :: addStoreOrder :: #3701 :: email: pawanrockz93@gmail.com
+2019-03-23T20:49:38+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2019-03-23T20:49:38+00:00 NOTICE sync.completed :: Finished Sync :: Sat, Mar 23, 2019 8:49 PM

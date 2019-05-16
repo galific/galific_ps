@@ -1,0 +1,557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Prestashop to WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-17 22:44+0100\n"
+"PO-Revision-Date: 2016-02-17 22:44+0100\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:105
+msgid ""
+"All new imported posts or pages and their comments will be deleted from "
+"WordPress."
+msgstr ""
+"Az összes bejegyzés és oldal, illetve a hozzászólásai törlődnek a WordPress-"
+"ből!"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:106
+msgid "All content will be deleted from WordPress."
+msgstr "Minden tartalom törlődik a WordPress-ből."
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:107
+msgid "Please select a remove option."
+msgstr "Kérlek válaszd ki a törlési beállításokat. "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:116
+msgid "PrestaShop"
+msgstr "PrestaShop"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:116
+msgid "Import PrestaShop e-commerce solution to WooCommerce"
+msgstr "PrestaShop importálása WooCommerce-be"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:185
+msgid "The wp-content directory must be writable."
+msgstr "A wp-content könyvtárnak írhatónak kell lennie."
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:190
+#, php-format
+msgid "WordPress 4.4+ is required. Please <a href=\"%s\">update WordPress</a>."
+msgstr ""
+"WordPress 4.4+ szükséges. Kérlek <a href=\"%s\">Frissítsd a WordPress-ed</a>."
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:198
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:232
+msgid "WordPress content removed"
+msgstr "WordPress tartalom eltávolítva"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:200
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:234
+msgid "Couldn't remove content"
+msgstr "Nem sikerült eltávolítani a tartalmat"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:210
+msgid "Settings saved"
+msgstr "Beállítások mentve"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:258
+msgid "Import PrestaShop"
+msgstr "Prestashop importálása"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:259
+msgid ""
+"This plugin will import products, categories, tags, images and CMS from "
+"PrestaShop to WooCommerce/WordPress.<br />Compatible with PrestaShop "
+"versions 1.1 to 1.6."
+msgstr ""
+"Ez a bővítmény importálni fogja a termékeket, kategóriákat, címkéket, "
+"képeket és a CMS tartalmát a PrestaShop-ból a WooCommerce/WordPress-be. <br> "
+"Kompatibilis: PrestaShop 1.1-től 1.6-ig. "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:260
+#, php-format
+msgid ""
+"For any issue, please read the <a href=\"%s\" target=\"_blank\">FAQ</a> "
+"first."
+msgstr ""
+"Hiba esetén kérlek, hogy olvasd el a <a href=\"%s\" target=\"_blank\">GyIK</"
+"a>-et. "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:266
+#, php-format
+msgid "%d category"
+msgid_plural "%d categories"
+msgstr[0] "%d kategória"
+msgstr[1] "%d kategória"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:267
+#, php-format
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] "%d bejegyzés"
+msgstr[1] "%d bejegyzés"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:268
+#, php-format
+msgid "%d page"
+msgid_plural "%d pages"
+msgstr[0] "%d oldal"
+msgstr[1] "%d oldal"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:269
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:667
+#, php-format
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] "%d termék"
+msgstr[1] "%d termék"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:270
+#, php-format
+msgid "%d media"
+msgid_plural "%d medias"
+msgstr[0] "%d média"
+msgstr[1] "%d média"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:271
+#, php-format
+msgid "%d tag"
+msgid_plural "%d tags"
+msgstr[0] "%d címke"
+msgstr[1] "%d címke"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:312
+msgid "Instructions"
+msgstr "Instrukciók"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:318
+msgid "Options"
+msgstr "Beállítások"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:322
+msgid "FAQ"
+msgstr "GYIK (FAQ)"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:352
+msgid "PDO is required. Please enable it."
+msgstr "PDO is szükséges, kérlek engedélyezd! "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:361
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:638
+msgid ""
+"Couldn't connect to the PrestaShop database. Please check your parameters. "
+"And be sure the WordPress server can access the PrestaShop database."
+msgstr ""
+"Nem tudunk csatlakozni a PrestaShop adatbázisához. Kérlek, hogy ellenőrizd a "
+"beállításokat. Ellenőrizd, hogy a WordPress szervere csatlakozni tud-e a "
+"PrestaShop adatbázisához. "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:361
+#, php-format
+msgid ""
+"Please read the <a href=\"%s\" target=\"_blank\">FAQ for the solution</a>."
+msgstr ""
+"Kérlek, olvasd el a<a href=\"%s\" target=\"_blank\">GyIK-et a megoldáshoz</"
+"a>."
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:386
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:1802
+msgid "Error:"
+msgstr "Hiba:"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:603
+msgid "WooCommerce data deleted"
+msgstr "WooCommerce adatok törölve"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:608
+msgid "WooCommerce default data created"
+msgstr "WooCommerce alapértelmezett adatok létrehozva "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:631
+msgid "Connected with success to the PrestaShop database"
+msgstr "A kapcsolat sikeres a PrestaShop adatbázisával! "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:652
+msgid ""
+"Error: the <a href=\"https://wordpress.org/plugins/woocommerce/\" target="
+"\"_blank\">WooCommerce plugin</a> must be installed and activated to import "
+"the products."
+msgstr ""
+"Hiba: a <a href=\"https://wordpress.org/plugins/woocommerce/\" target="
+"\"_blank\">WooCommerce</a>-nek telepítve és aktívnak kell lennie. "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:663
+msgid "PrestaShop data found:"
+msgstr "PrestaShop adatok: "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:671
+#, php-format
+msgid "%d article"
+msgid_plural "%d articles"
+msgstr[0] "%d cikk"
+msgstr[1] "%d cikk"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:675
+#, php-format
+msgid "%d employee"
+msgid_plural "%d employees"
+msgstr[0] "%d alkalmazott"
+msgstr[1] "%d alkalmazott"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:679
+#, php-format
+msgid "%d customer"
+msgid_plural "%d customers"
+msgstr[0] "%d vásárló"
+msgstr[1] "%d vásárló"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:683
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d megrendelés"
+msgstr[1] "%d megrendelés"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:983
+#, php-format
+msgid "%d category imported"
+msgid_plural "%d categories imported"
+msgstr[0] "%d kategória importálva"
+msgstr[1] "%d kategória importálva"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:1057
+#, php-format
+msgid "%d article imported"
+msgid_plural "%d articles imported"
+msgstr[0] "%d cikk importálva"
+msgstr[1] "%d cikk importálva"
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:1058
+#, php-format
+msgid "%d tag imported"
+msgid_plural "%d tags imported"
+msgstr[0] "%d címke importálva "
+msgstr[1] "%d címke importálva "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:1245
+#, php-format
+msgid "%d product category imported"
+msgid_plural "%d product categories imported"
+msgstr[0] "%d termékkategória importálva "
+msgstr[1] "%d termékkategória importálva "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:1282
+#, php-format
+msgid "%d product imported"
+msgid_plural "%d products imported"
+msgstr[0] "%d termék importált "
+msgstr[1] "%d termék importált "
+
+#: admin/class-fg-prestashop-to-woocommerce-admin.php:2309
+#, php-format
+msgid "%d media imported"
+msgid_plural "%d medias imported"
+msgstr[0] "%d média importálva "
+msgstr[1] "%d média importálva "
+
+#: admin/partials/actions.php:3
+msgid "Save settings"
+msgstr "Beállítások mentése"
+
+#: admin/partials/actions.php:4
+msgid "Import content from PrestaShop to WordPress"
+msgstr "Tartalom importálása a PrestaShop-ból a WordPress-be"
+
+#: admin/partials/behavior.php:2
+msgid "Behavior"
+msgstr "Viselkedés"
+
+#: admin/partials/behavior.php:4
+msgid "SKU:"
+msgstr "SKU:"
+
+#: admin/partials/behavior.php:6
+msgid "Reference field"
+msgstr "Viszonyítási mező"
+
+#: admin/partials/behavior.php:7
+msgid "EAN-13 field"
+msgstr "EAN-13 mező"
+
+#: admin/partials/behavior.php:11
+msgid "Medias:"
+msgstr "Média:"
+
+#: admin/partials/behavior.php:12
+msgid "Skip media"
+msgstr "Képek és média átugrása"
+
+#: admin/partials/behavior.php:15
+msgid "Import first image:"
+msgstr "Első kép importálása: "
+
+#: admin/partials/behavior.php:16
+msgid "The first image will be kept in the post content"
+msgstr "Az első képet megőrizzük a bejegyzésből"
+
+#: admin/partials/behavior.php:16
+msgid "as is"
+msgstr "amint az"
+
+#: admin/partials/behavior.php:17
+msgid ""
+"The first image will be removed from the post content and imported as the "
+"featured image only"
+msgstr ""
+"Az első kép törölve lesz a bejegyzésből és importálás kiemelt képként. "
+
+#: admin/partials/behavior.php:17
+msgid "as featured only"
+msgstr "csak kiemeltként"
+
+#: admin/partials/behavior.php:18
+msgid ""
+"The first image will be kept in the post content and imported as the "
+"featured image"
+msgstr "Az első kép megtartása és importálása kiemelt képként. "
+
+# Hú de látni kéne a szövegkörnyezetet, gondolom a képekre érti.
+#: admin/partials/behavior.php:18
+msgid "as is and as featured"
+msgstr "így és kiemeltkéne"
+
+#: admin/partials/behavior.php:20
+msgid "Import external media"
+msgstr "Külső médiák importálása "
+
+#: admin/partials/behavior.php:22
+msgid ""
+"Checked: download the media with their full path in order to import media "
+"with identical names."
+msgstr ""
+"Bepipálva: a letöltött média megőrzi a könyvtárszerkezetet a nevével együtt."
+
+#: admin/partials/behavior.php:22
+msgid "Import media with duplicate names"
+msgstr "Média importálása ismétlődő nevekkel"
+
+#: admin/partials/behavior.php:24
+msgid ""
+"Checked: download the media even if it has already been imported. Unchecked: "
+"Download only media which were not already imported."
+msgstr ""
+"Bepipálva: a média importálása akkor is, ha már importálva van. Nem "
+"bepipálva: Média letöltése csak akkor, ha még nincs importálva."
+
+#: admin/partials/behavior.php:24
+msgid ""
+"Force media import. Keep unchecked except if you had previously some media "
+"download issues."
+msgstr ""
+"Média importálása. Ne pipáld be, hogy ha korábban voltak letöltési problémák."
+
+#: admin/partials/behavior.php:26
+msgid "Don't include the first image into the product gallery"
+msgstr "Ne adjuk hozzá az első képet a termékgalériába"
+
+#: admin/partials/behavior.php:28
+msgid "Timeout for each media:"
+msgstr "Egyes médiák időtúllépése: "
+
+#: admin/partials/behavior.php:29
+msgid "seconds"
+msgstr "másodperc"
+
+#: admin/partials/behavior.php:33
+msgid "Import prices:"
+msgstr "Árak importálása: "
+
+#: admin/partials/behavior.php:35
+msgid "excluding tax"
+msgstr "nettó árak"
+
+#: admin/partials/behavior.php:36
+msgid ""
+"including tax <small>in this case, you must define a default tax rate before "
+"running the import</small>"
+msgstr ""
+"bruttó ár <small>Ebben az esetben meg kel adni az alapértelmezett adókulcsot "
+"az importálás előtt</small>"
+
+#: admin/partials/behavior.php:40
+msgid "Stock management:"
+msgstr "Készletkezelés"
+
+#: admin/partials/behavior.php:42
+msgid "Enable stock management"
+msgstr "Készletkezelés engedélyezése"
+
+#: admin/partials/behavior.php:46
+msgid "Meta keywords:"
+msgstr "Metacímke -kulcsszavak:"
+
+#: admin/partials/behavior.php:47
+msgid "Import meta keywords as tags"
+msgstr "Kulcsszavak importálása címkékként "
+
+#: admin/partials/behavior.php:50
+msgid "Create pages:"
+msgstr "Lapok létrehozása:"
+
+#: admin/partials/behavior.php:51
+msgid "Import the CMS as pages instead of posts (without categories)"
+msgstr ""
+"CMS tartalom importálása oldalakként behegyzlsej helyett (kategória nélkül)"
+
+#: admin/partials/database-info.php:2
+msgid "WordPress database"
+msgstr "WordPress adatbázis"
+
+#: admin/partials/empty-content.php:6
+msgid ""
+"If you want to restart the import from scratch, you must empty the WordPress "
+"content with the button hereafter."
+msgstr ""
+"Ha újraindítanád az importálást az elejéről, akkor muszáj törölnöd a "
+"WordPress tartalmát a gombbal. "
+
+#: admin/partials/empty-content.php:7
+msgid "Remove only new imported posts"
+msgstr "Csak az újonnan importált bejegyzések törlése"
+
+#: admin/partials/empty-content.php:8
+msgid "Remove all WordPress content"
+msgstr "WordPress tartalmának törlése"
+
+#: admin/partials/empty-content.php:9
+msgid "Empty WordPress content"
+msgstr "WordPress tartalmának törlése"
+
+#: admin/partials/extra-features.php:2
+msgid "Do you need extra features?"
+msgstr "Extra funkciókra van szükséged?"
+
+#: admin/partials/extra-features.php:4
+msgid "Product features import"
+msgstr "Termék jellemzői importálása"
+
+#: admin/partials/extra-features.php:5
+msgid "Product combinations import"
+msgstr "Termék kombinációk importálása"
+
+#: admin/partials/extra-features.php:6
+msgid "Employees import"
+msgstr "Alkalmazottak importálása"
+
+#: admin/partials/extra-features.php:7
+msgid "Customers import"
+msgstr "Ügyfelek importálása"
+
+#: admin/partials/extra-features.php:8
+msgid "Orders import"
+msgstr "Megrendelések importálása"
+
+#: admin/partials/extra-features.php:9
+msgid "Ratings and reviews import"
+msgstr "Minősítések és értékelések import"
+
+#: admin/partials/extra-features.php:10
+msgid "Discounts/vouchers import"
+msgstr "Kedvezmények/bizonylatok importálása"
+
+#: admin/partials/extra-features.php:11
+msgid "SEO: Prestashop URLs redirect"
+msgstr "SEO: Prestashop URL-eket átirányítás"
+
+#: admin/partials/extra-features.php:12
+msgid "SEO: Meta data import (title, description and keywords)"
+msgstr "SEO: Meta adatok importálása (címet, leírást és kulcsszavakat)"
+
+#: admin/partials/extra-features.php:13
+msgid "Manufacturers import"
+msgstr "Gyártók importálása"
+
+#: admin/partials/extra-features.php:14
+msgid "Multilingual import"
+msgstr "Többnyelvű importálás"
+
+#: admin/partials/extra-features.php:19
+msgid "This feature needs an add-on in addition to the Premium version."
+msgstr "Ez a funkció csak a Premium verzióban használható. "
+
+#: admin/partials/paypal-donate.php:1
+msgid ""
+"If you found this plugin useful and it saved you many hours or days, please "
+"rate it on <a href=\"https://wordpress.org/support/view/plugin-reviews/fg-"
+"prestashop-to-woocommerce\" target=\"_blank\">WordPress</a>. You can also "
+"make a donation using the button below."
+msgstr ""
+"Ha ezt a bővítményt hasznosnak találtad és nyertél vele több órát vagy "
+"napot, akkor kérlek értékeld <a href=\"https://wordpress.org/support/view/"
+"plugin-reviews/fg-prestashop-to-woocommerce\" target=\"_blank\">WordPress "
+"bővítmények oldalán</a>. Illetve támogathatod a munkánkat a leni linken "
+"keresztül. "
+
+#: admin/partials/settings-submit.php:3
+msgid "Test the database connection"
+msgstr "Adatbázis kapcsolat ellenőrzése"
+
+#: admin/partials/settings.php:2
+msgid "Automatic removal:"
+msgstr "Automatikus eltávolítása:"
+
+#: admin/partials/settings.php:3
+msgid "Automatically remove all the WordPress content before each import"
+msgstr ""
+"Automatikusan eltávolítja a WordPress tartalmat minden importálás előtt"
+
+#: admin/partials/settings.php:6
+msgid "PrestaShop web site parameters"
+msgstr "PrestaShop webhely paraméterei"
+
+#: admin/partials/settings.php:9
+msgid "URL of the live PrestaShop web site"
+msgstr "Az (élő) PrestaShop URL címe."
+
+#: admin/partials/settings.php:13
+msgid "PrestaShop database parameters"
+msgstr "PrestaShop adatbázis paraméterei"
+
+#: admin/partials/settings.php:16
+msgid "Hostname"
+msgstr "Hostname"
+
+#: admin/partials/settings.php:20
+msgid "Port"
+msgstr "Port"
+
+#: admin/partials/settings.php:24
+msgid "Database"
+msgstr "Adatbázis"
+
+#: admin/partials/settings.php:28
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: admin/partials/settings.php:32
+msgid "Password"
+msgstr "Jelszó"
+
+#: admin/partials/settings.php:36
+msgid "PrestaShop Table Prefix"
+msgstr "PrestaShop tábla előtagot"
+
+#: includes/class-fg-prestashop-to-woocommerce.php:191
+msgid "Import"
+msgstr "Importálás"

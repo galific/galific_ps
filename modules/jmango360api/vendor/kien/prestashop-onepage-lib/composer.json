@@ -1,0 +1,8 @@
+{
+    "name": "kien/prestashop-onepage-lib",
+    "description": "prestashop onepage library",
+    "type": "library",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {}
+}

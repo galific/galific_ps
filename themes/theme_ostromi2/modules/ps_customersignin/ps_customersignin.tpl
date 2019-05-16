@@ -24,7 +24,11 @@
  *}
 
 <div class="user-info-block dropdown js-dropdown">
-<span class="user-text current" data-toggle="dropdown"><i class="my-account-icon"></i>{l s='' d='Shop.Theme.Customeraccount'}</span>
+<span class="user-text current a" data-toggle="dropdown"><i class="my-account-icon"></i>{l s='' d='Shop.Theme.Customeraccount'}</span>
+<small style="position: absolute;
+    left: -2px;
+    top: 40px;
+    color: #fff;">Account</small>
 <ul class="dropdown-menu">
 {if $logged}
 

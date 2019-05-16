@@ -1,0 +1,182 @@
+.pretashop-qs-import .pretashop-qs-import-content .msg-infor {
+    background: #f1f9e8;
+    line-height: 20px;
+    padding: 10px 20px;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item {
+    display: table;
+    width: 100%;
+    line-height: 24px;
+    height: 52px;
+    padding: 14px 18px 14px 23px;
+    margin-bottom: 18px;
+    background: #fff;
+    border: 1px solid #c3c5c8;
+    border-radius: 5px;
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-label {
+    float: left;
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status {
+    float: right;
+    position:relative;
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status i {
+    font-size: 18px;
+    color: #7bc12f;
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span{
+    font-size: 8px;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    line-height: 24px;
+    text-align: center;
+    padding:2px;
+    position:absolute;
+    top:-5px;
+    right:-5px;
+    background:url(../../img/backend_pretashop_qs/percent_import_0.svg) no-repeat center center scroll transparent;
+    border-radius: 100px;
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-config-status-25,
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-CMS-status-25,
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-product-status-25{
+    background-image:url(../../img/backend_pretashop_qs/percent_import_25.svg);
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-config-status-50,
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-CMS-status-50,
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-product-status-50{
+    background-image:url(../../img/backend_pretashop_qs/percent_import_50.svg);
+}
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-config-status-75,
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-CMS-status-75,
+.pretashop-qs-import .pretashop-qs-import-content .fields .item .field-status span.import-product-status-75{
+    background-image:url(../../img/backend_pretashop_qs/percent_import_75.svg);
+}
+
+.pretashop-qs-import #btn-back-import-data.disabled,
+.pretashop-qs-import #btn-next-import-data.disabled{
+    background:#79b5fb;
+    pointer-events: none;
+
+}
+
+
+
+
+/*========== fixbug css ===========*/
+.ps_back-office svg{
+    width:auto;
+    height:auto;
+    display:inline-block;
+    max-width:100%;
+    max-height:100%;
+}
+.ps_back-office .jmango-prestashop-qs .row{
+    margin-left:-15px;
+    margin-right:-15px;
+}
+.ps_back-office .jmango-prestashop-qs .row > div{
+    padding-left:15px;
+    padding-right:15px;
+}
+.jmango-prestashop-qs .wrap-box-shadow{
+    margin:0 auto 50px auto;
+    max-width:870px;
+    box-shadow:0 0 3px 1px rgba(0,0,0,0.2);
+}
+#pres_qs_login .login-box-wrap{
+    padding-top:120px;
+    padding-bottom:100px;
+    background: #f7f9fa;
+
+}
+
+.pres-plugin-header .header-container{
+    max-width:870px;
+    position:relative;
+    margin:0 auto;
+}
+.pres-plugin-header.has-tab .header-container{
+    max-width:1120px;
+    padding-left:245px;
+}
+
+
+.error_intergrate_shop_app{
+    font-size: 13px;
+    color: rgb(114,113,115);
+    font-family: "Open Sans";
+    background-color: #f6dcdf;
+    line-height:20px;
+    padding:10px 15px;
+}
+.app-configuration .error_intergrate_shop_app{
+    margin-bottom:25px;
+    margin-right:40px;
+}
+
+
+.business-question-wrap .error_intergrate_shop_app{
+    margin-right:35px;
+}
+.create-acc-form .error_intergrate_shop_app{
+    margin-top:20px;
+}
+
+
+
+
+
+
+
+.ps_back-office.es #pretashop-qs-login.login-screen .login-box #login-form .fields,
+.ps_back-office.es #pretashop-qs-login.login-screen .login-box #login-form2 .fields{
+    max-width: 460px;
+}
+.ps_back-office.es #pretashop-qs-login.login-screen .login-box .form-field .label-field{
+    width: 140px;
+}
+.ps_back-office.es #pretashop-qs-login.login-screen .login-box .form-field .input-field{
+    margin-left: 140px;
+}
+.ps_back-office.es #pretashop-qs-login.login-screen .login-box .form-field.error-field{
+    padding-left: 0;
+}
+
+
+
+.ps_back-office.es .pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-label,
+.ps_back-office.fr .pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-label{
+    width: 160px;
+}
+
+.ps_back-office.es .pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value,
+.ps_back-office.fr .pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value{
+    margin-left: 160px;
+}
+
+.ps_back-office.nl .pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-label{
+    width: 150px;
+}
+
+.ps_back-office.nl .pretashop-qs-create-acc .create-acc-form-wrap .create-acc-form .form-field .form-value{
+    margin-left: 150px;
+}
+
+.ps_back-office.es .pres-plugin-config .pres-plugin-tabs .tab-contents-group .tab-content#get-started .banner-image .deal-box{
+    padding: 20px 13px 20px;
+}
+.ps_back-office.fr .pres-plugin-tabs .tab-content#pricing .block1 .price-box .price-top{
+    padding: 10px 30px 40px 30px;
+}
+
+
+
+
+
+
+

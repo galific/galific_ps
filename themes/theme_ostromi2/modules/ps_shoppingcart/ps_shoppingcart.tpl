@@ -3,6 +3,11 @@
     <a rel="nofollow" href="{$cart_url}">
 		<span class="item_txt"><span class="item_count" style="background: ##74b9ff;">{$cart.products_count}</span></span>
 		<!-- <span class="item_total">{$cart.totals.total.value}</span> -->
+	<small style="position: absolute;
+    left: 5px;
+    top: 41px;
+    color: #fff;">Cart</small>
+
     </a>
   </div>
   <div class="body dropdown-menu">
